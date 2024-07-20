@@ -15,17 +15,11 @@ public class PolicyController {
     @Autowired
     private PolicyService policyService;
 
-    @GetMapping("/hello")
-    public String helloWorld() {
-        return "Hello World";
-    }
-
     @GetMapping("/all")
     public List<Policy> getAllPolices(){
-
         return policyService.getAllPolices();
-
     }
+
     @GetMapping("/unique/{Id}")
     public Policy getPolicyById(@PathVariable ObjectId Id) {
         System.out.println(Id);

@@ -1,0 +1,47 @@
+[
+  {
+    "username": "admin",
+    "password": "pass",
+    "data_policy_applied": [
+      "123",
+      "231"
+    ],
+    "role": "ADMIN"
+  },
+  {
+    "username": "creator",
+    "password": "pass",
+    "data_policy_applied": [
+      "456",
+      "546"
+    ],
+    "role": "CREATOR"
+  },
+  {
+    "username": "approver",
+    "password": "pass",
+    "data_policy_applied": [
+      "789",
+      "879"
+    ],
+    "role": "APPROVER"
+  },
+  {
+    "username": "user1",
+    "password": "pass",
+    "data_policy_applied": [
+      "234",
+      "324"
+    ],
+    "role": "USER"
+  },
+  {
+    "username": "user2",
+    "password": "pass",
+    "data_policy_applied": [
+      "678",
+      "768"
+    ],
+    "role": "USER"
+  }
+]
