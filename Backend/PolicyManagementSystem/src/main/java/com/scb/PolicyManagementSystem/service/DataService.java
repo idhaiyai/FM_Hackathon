@@ -23,12 +23,12 @@ public class DataService {
     @Autowired
     PolicyRepository policyRepository;
 
-    public List<Data> fetch(int userId){
+    public List<Data> fetch(ObjectId userId){
 
         List<Data> dt = dataRepository.findAll();
 
-        User user = userRepository.findById(userId);
-        List<ObjectId> policyIds = user.getDataPolicyApplied();
+        User user = userRepository.findById(userId).get();
+        List<ObjectId> policyIds = user.getData_policy_applied();
         List<Policy> policies = policyRepository.findAllById(policyIds);
 
         return applyPolicyFiltering(policies , dt);
@@ -67,7 +67,7 @@ public class DataService {
             default:
                 throw new IllegalArgumentException("Unsupported policy operator: " + policyRule.getOperator());
         }
-
+        return dt;
 
     }
 
@@ -100,6 +100,8 @@ public class DataService {
                 return item.getReporterISO3();
             case "ReporterName":
                 return item.getReporterName();
+            case "PartnerISO3":
+                return item.getPartnerISO3();
             case "PartnerName":
                 return item.getPartnerName();
             case "Year":

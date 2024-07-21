@@ -46,18 +46,19 @@ public class PolicyController {
     }
 
     @PostMapping("/create/{userId}")
-    public Policy createPolicy(@RequestBody Policy policy , @PathVariable int userId) {
+    public Policy createPolicy(@RequestBody Policy policy , @PathVariable ObjectId userId) {
+        System.out.println(userId);
         return policyService.createPolicy( policy , userId);
     }
 
     @PostMapping("/update/{userId}")
-    public Policy updatePolicy(@RequestBody Policy policy , @PathVariable int userId) {
+    public Policy updatePolicy(@RequestBody Policy policy , @PathVariable ObjectId userId) {
         return policyService.updatePolicy( policy , userId);
     }
 
     @PostMapping("/approve/{Id}/{userId}")
     public Policy approvePolicy(@RequestParam("approve") boolean approve , @PathVariable("Id") ObjectId Id,
-                                @PathVariable("userId") int userId) {
+                                @PathVariable("userId") ObjectId userId) {
         System.out.println("here");
         return policyService.approvePolicy(new ObjectId(String.valueOf(Id)), userId , approve);
     }

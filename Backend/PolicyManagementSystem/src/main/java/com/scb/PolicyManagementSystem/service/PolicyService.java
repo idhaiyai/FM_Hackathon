@@ -52,7 +52,7 @@ public class PolicyService {
 
 
 
-    public Policy createPolicy(Policy policy , int userId){
+    public Policy createPolicy(Policy policy , ObjectId userId){
 
         policy.setDataPolicyVersion(1);
         policy.setDataPolicyStatus("WIP");
@@ -65,7 +65,7 @@ public class PolicyService {
 
     }
 
-    public Policy updatePolicy(Policy policy  , int userId) {
+    public Policy updatePolicy(Policy policy  , ObjectId userId) {
 
         List<Policy> old_policies = policyRepository.findByDataPolicyId(policy.getDataPolicyId());
         if(!old_policies.isEmpty()){
@@ -86,7 +86,7 @@ public class PolicyService {
 
     }
 
-    public Policy approvePolicy(ObjectId Id , int userId , Boolean approve){
+    public Policy approvePolicy(ObjectId Id , ObjectId userId , Boolean approve){
 
         Optional<Policy> optional_policy = policyRepository.findById(Id);
 

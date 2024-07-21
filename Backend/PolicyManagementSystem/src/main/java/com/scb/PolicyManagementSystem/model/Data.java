@@ -11,6 +11,7 @@ public class Data {
 
             private String ReporterISO3;
             private  String ReporterName;
+            private String PartnerISO3;
             private String PartnerName;
             private int Year;
             private  String TradeFlowName;

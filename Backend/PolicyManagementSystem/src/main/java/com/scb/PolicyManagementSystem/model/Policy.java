@@ -26,8 +26,8 @@ public class Policy {
     private Date dataPolicyLastModified;
     private String dataPolicyStatus;
     private String dataPolicyName;
-    private int dataPolicyCreator;
-    private int  dataPolicyExaminer;
+    private ObjectId dataPolicyCreator;
+    private ObjectId  dataPolicyExaminer;
     private List<PolicyRule> dataPolicy;
 
 
@@ -82,19 +82,19 @@ public class Policy {
         this.dataPolicyName = dataPolicyName;
     }
 
-    public int getDataPolicyCreator() {
+    public ObjectId getDataPolicyCreator() {
         return dataPolicyCreator;
     }
 
-    public void setDataPolicyCreator(int dataPolicyCreator) {
+    public void setDataPolicyCreator(ObjectId dataPolicyCreator) {
         this.dataPolicyCreator = dataPolicyCreator;
     }
 
-    public int getDataPolicyExaminer() {
+    public ObjectId getDataPolicyExaminer() {
         return dataPolicyExaminer;
     }
 
-    public void setDataPolicyExaminer(int dataPolicyExaminer) {
+    public void setDataPolicyExaminer(ObjectId dataPolicyExaminer) {
         this.dataPolicyExaminer = dataPolicyExaminer;
     }
 

@@ -2,18 +2,14 @@
   {
     "username": "admin",
     "password": "pass",
-    "data_policy_applied": [
-      "123",
-      "231"
-    ],
+    "data_policy_applied": [],
     "role": "ADMIN"
   },
   {
     "username": "creator",
     "password": "pass",
     "data_policy_applied": [
-      "456",
-      "546"
+
     ],
     "role": "CREATOR"
   },
@@ -21,8 +17,7 @@
     "username": "approver",
     "password": "pass",
     "data_policy_applied": [
-      "789",
-      "879"
+
     ],
     "role": "APPROVER"
   },
