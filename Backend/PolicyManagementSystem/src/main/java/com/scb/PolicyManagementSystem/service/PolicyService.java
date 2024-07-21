@@ -1,6 +1,7 @@
 package com.scb.PolicyManagementSystem.service;
 
 import com.scb.PolicyManagementSystem.model.Policy;
+import com.scb.PolicyManagementSystem.model.Status;
 import com.scb.PolicyManagementSystem.repository.PolicyRepository;
 import org.bson.types.ObjectId;
 import org.springframework.beans.factory.annotation.Autowired;
@@ -37,7 +38,7 @@ public class PolicyService {
 
     }
 
-    public List<Policy> getPolicesByStatus(String status){
+    public List<Policy> getPolicesByStatus(Status status){
 
         return policyRepository.findByDataPolicyStatus(status);
 
@@ -46,7 +47,7 @@ public class PolicyService {
     }
 
     public List<Policy> getArchivePolices(){
-        return policyRepository.findByDataPolicyStatus("Archive");
+        return policyRepository.findByDataPolicyStatus(Status.ARCHIVED);
     }
 
 
@@ -55,7 +56,7 @@ public class PolicyService {
     public Policy createPolicy(Policy policy , ObjectId userId){
 
         policy.setDataPolicyVersion(1);
-        policy.setDataPolicyStatus("WIP");
+        policy.setDataPolicyStatus(Status.WIP);
         policy.setDataPolicyCreator(userId);
 
         policy.setDataPolicyLastModified(new Date());
@@ -76,7 +77,7 @@ public class PolicyService {
             policy.setDataPolicyCreator(userId);
             policy.setDataPolicy(policy.getDataPolicy());
             policy.setDataPolicyName(policy.getDataPolicyName());
-            policy.setDataPolicyStatus("WIP");
+            policy.setDataPolicyStatus(Status.WIP);
             return policyRepository.save(policy);
         }else{
 
@@ -99,13 +100,13 @@ public class PolicyService {
                 System.out.println(policy.getDataPolicyId());
                 Optional<Policy> previous_approved_policy = policyRepository.findByDataPolicyIdAndDataPolicyStatus(policy.getDataPolicyId() , "approved");
                 if(previous_approved_policy.isPresent()) {
-                    previous_approved_policy.get().setDataPolicyStatus("rejected");
+                    previous_approved_policy.get().setDataPolicyStatus(Status.REJECTED);
                     policyRepository.save(previous_approved_policy.get());
                 }
-                policy.setDataPolicyStatus("approved");
+                policy.setDataPolicyStatus( Status.APPROVED);
 
             }else{
-                policy.setDataPolicyStatus("rejected");
+                policy.setDataPolicyStatus( Status.REJECTED);
 
             }
             return policyRepository.save(policy);
@@ -121,7 +122,7 @@ public class PolicyService {
         List<Policy> oldPolicies = policyRepository.findPoliciesOlderThan(oneMonthAgo);
 
         for (Policy policy : oldPolicies) {
-            policy.setDataPolicyStatus("Archive");
+            policy.setDataPolicyStatus(Status.ARCHIVED);
         }
 
         policyRepository.saveAll(oldPolicies);

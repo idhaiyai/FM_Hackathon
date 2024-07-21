@@ -24,7 +24,7 @@ public class Policy {
     private  int dataPolicyId;
     private int dataPolicyVersion;
     private Date dataPolicyLastModified;
-    private String dataPolicyStatus;
+    private Status dataPolicyStatus;
     private String dataPolicyName;
     private ObjectId dataPolicyCreator;
     private ObjectId  dataPolicyExaminer;
@@ -66,11 +66,11 @@ public class Policy {
         this.dataPolicyLastModified = dataPolicyLastModified;
     }
 
-    public String getDataPolicyStatus() {
+    public Status getDataPolicyStatus() {
         return dataPolicyStatus;
     }
 
-    public void setDataPolicyStatus(String dataPolicyStatus) {
+    public void setDataPolicyStatus(Status dataPolicyStatus) {
         this.dataPolicyStatus = dataPolicyStatus;
     }
 

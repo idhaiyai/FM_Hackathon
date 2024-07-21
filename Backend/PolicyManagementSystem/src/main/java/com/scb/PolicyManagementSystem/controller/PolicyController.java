@@ -1,6 +1,7 @@
 package com.scb.PolicyManagementSystem.controller;
 
 import com.scb.PolicyManagementSystem.model.Policy;
+import com.scb.PolicyManagementSystem.model.Status;
 import com.scb.PolicyManagementSystem.service.PolicyService;
 import org.bson.types.ObjectId;
 import org.springframework.beans.factory.annotation.Autowired;
@@ -29,7 +30,7 @@ public class PolicyController {
     @GetMapping("/ByStatus")
     public List<Policy> getAllPolicesByStatus(@RequestParam("status") String status){
 
-        return policyService.getPolicesByStatus(status);
+        return policyService.getPolicesByStatus(Status.valueOf(status));
 
     }
 
