@@ -18,6 +18,6 @@ public class User {
     private String id;
     private String name;
     private String password;
-    private List<String> data_policy_applied;
+    private List<String> dataPolicyApplied;
 
 }

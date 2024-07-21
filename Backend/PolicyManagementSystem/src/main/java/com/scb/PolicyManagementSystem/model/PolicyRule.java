@@ -12,4 +12,23 @@ import java.util.List;
 public class PolicyRule {
     private String operator;
     private List<Rule> rules;
+
+    //GETTERS AND SETTERS
+
+
+    public String getOperator() {
+        return operator;
+    }
+
+    public void setOperator(String operator) {
+        this.operator = operator;
+    }
+
+    public List<Rule> getRules() {
+        return rules;
+    }
+
+    public void setRules(List<Rule> rules) {
+        this.rules = rules;
+    }
 }
