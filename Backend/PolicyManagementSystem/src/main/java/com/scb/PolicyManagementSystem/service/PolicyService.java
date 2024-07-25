@@ -37,6 +37,20 @@ public class PolicyService {
         return policyRepository.findByDataPolicyId(dataPolicyId);
 
     }
+    public List<Policy> getPolicesByCreator(ObjectId creator){
+
+        return policyRepository.findByDataPolicyCreator(creator);
+
+
+
+    }
+    public List<Policy> getPolicesByExaminer(ObjectId examiner){
+
+        return policyRepository.findByDataPolicyExaminer(examiner);
+
+
+
+    }
 
     public List<Policy> getPolicesByStatus(Status status){
 
@@ -98,9 +112,9 @@ public class PolicyService {
             if(approve){
                 // remove previously accepted policy
                 System.out.println(policy.getDataPolicyId());
-                Optional<Policy> previous_approved_policy = policyRepository.findByDataPolicyIdAndDataPolicyStatus(policy.getDataPolicyId() , "approved");
+                Optional<Policy> previous_approved_policy = policyRepository.findByDataPolicyIdAndDataPolicyStatus(policy.getDataPolicyId() , String.valueOf(Status.APPROVED));
                 if(previous_approved_policy.isPresent()) {
-                    previous_approved_policy.get().setDataPolicyStatus(Status.REJECTED);
+                    previous_approved_policy.get().setDataPolicyStatus(Status.ARCHIVED);
                     policyRepository.save(previous_approved_policy.get());
                 }
                 policy.setDataPolicyStatus( Status.APPROVED);
@@ -115,6 +129,7 @@ public class PolicyService {
         return null;
 
     }
+
     public void archivePolicy(){
 
         LocalDate date = LocalDate.now().minusMonths(1);

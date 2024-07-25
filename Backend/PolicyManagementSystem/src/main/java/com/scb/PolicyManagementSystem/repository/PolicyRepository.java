@@ -17,6 +17,8 @@ public interface PolicyRepository extends MongoRepository<Policy, ObjectId> {
     Optional<Policy> findByDataPolicyIdAndDataPolicyStatus(int dataPolicyId, String status);
 
     List<Policy> findByDataPolicyStatus(Status status);
+    List<Policy> findByDataPolicyCreator(ObjectId creator);
+    List<Policy> findByDataPolicyExaminer(ObjectId examiner);
 
     @Query("{'dataPolicyLastModified': { $lt: ?0 }}")
     List<Policy> findPoliciesOlderThan(Date date);

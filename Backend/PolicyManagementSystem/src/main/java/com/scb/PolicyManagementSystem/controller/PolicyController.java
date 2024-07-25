@@ -26,6 +26,19 @@ public class PolicyController {
         System.out.println(Id);
         return policyService.getPolicy(new ObjectId(String.valueOf(Id)));
     }
+    @GetMapping("/ByCreator")
+    public List<Policy> getAllPolicesByCreator(@RequestParam("creator") ObjectId creator){
+
+        return policyService.getPolicesByCreator(creator);
+
+    }
+
+    @GetMapping("/ByExaminer")
+    public List<Policy> getAllPolicesByExaminer(@RequestParam("examiner") ObjectId examiner){
+
+        return policyService.getPolicesByExaminer(examiner);
+
+    }
 
     @GetMapping("/ByStatus")
     public List<Policy> getAllPolicesByStatus(@RequestParam("status") String status){
