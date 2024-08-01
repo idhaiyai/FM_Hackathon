@@ -2,7 +2,7 @@ package com.scb.PolicyManagementSystem.model;
 
 
 import lombok.Getter;
-import org.bson.types.ObjectId;
+
 import org.springframework.data.annotation.Id;
 import org.springframework.data.mongodb.core.mapping.Document;
 import lombok.Data;
@@ -20,25 +20,25 @@ import java.util.List;
 public class Policy {
 
     @Id
-    private ObjectId id;
+    private String id;
     private  int dataPolicyId;
     private int dataPolicyVersion;
     private Date dataPolicyLastModified;
     private Status dataPolicyStatus;
     private String dataPolicyName;
-    private ObjectId dataPolicyCreator;
-    private ObjectId  dataPolicyExaminer;
+    private String dataPolicyCreator;
+    private String  dataPolicyExaminer;
     private List<PolicyRule> dataPolicy;
 
 
     // GETTER AND SETTER
 
 
-    public ObjectId getId() {
+    public String getId() {
         return id;
     }
 
-    public void setId(ObjectId id) {
+    public void setId(String id) {
         this.id = id;
     }
 
@@ -82,19 +82,19 @@ public class Policy {
         this.dataPolicyName = dataPolicyName;
     }
 
-    public ObjectId getDataPolicyCreator() {
+    public String getDataPolicyCreator() {
         return dataPolicyCreator;
     }
 
-    public void setDataPolicyCreator(ObjectId dataPolicyCreator) {
+    public void setDataPolicyCreator(String dataPolicyCreator) {
         this.dataPolicyCreator = dataPolicyCreator;
     }
 
-    public ObjectId getDataPolicyExaminer() {
+    public String getDataPolicyExaminer() {
         return dataPolicyExaminer;
     }
 
-    public void setDataPolicyExaminer(ObjectId dataPolicyExaminer) {
+    public void setDataPolicyExaminer(String dataPolicyExaminer) {
         this.dataPolicyExaminer = dataPolicyExaminer;
     }
 

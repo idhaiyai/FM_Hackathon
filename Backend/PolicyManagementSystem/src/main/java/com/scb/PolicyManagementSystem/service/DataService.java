@@ -4,7 +4,7 @@ import com.scb.PolicyManagementSystem.model.*;
 import com.scb.PolicyManagementSystem.repository.DataRepository;
 import com.scb.PolicyManagementSystem.repository.PolicyRepository;
 import com.scb.PolicyManagementSystem.repository.UserRepository;
-import org.bson.types.ObjectId;
+
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 
@@ -23,12 +23,12 @@ public class DataService {
     @Autowired
     PolicyRepository policyRepository;
 
-    public List<Data> fetch(ObjectId userId){
+    public List<Data> fetch(String userId){
 
         List<Data> dt = dataRepository.findAll();
 
         User user = userRepository.findById(userId).get();
-        List<ObjectId> policyIds = user.getData_policy_applied();
+        List<String> policyIds = user.getData_policy_applied();
         List<Policy> policies = policyRepository.findAllById(policyIds);
 
         return applyPolicyFiltering(policies , dt);

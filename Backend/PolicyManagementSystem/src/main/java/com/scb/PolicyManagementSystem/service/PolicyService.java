@@ -3,7 +3,7 @@ package com.scb.PolicyManagementSystem.service;
 import com.scb.PolicyManagementSystem.model.Policy;
 import com.scb.PolicyManagementSystem.model.Status;
 import com.scb.PolicyManagementSystem.repository.PolicyRepository;
-import org.bson.types.ObjectId;
+
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 import java.time.LocalDate;
@@ -24,7 +24,7 @@ public class PolicyService {
 
     }
 
-    public Policy getPolicy(ObjectId id){
+    public Policy getPolicy(String id){
 
         return policyRepository.findById(id).get();
 
@@ -37,14 +37,14 @@ public class PolicyService {
         return policyRepository.findByDataPolicyId(dataPolicyId);
 
     }
-    public List<Policy> getPolicesByCreator(ObjectId creator){
+    public List<Policy> getPolicesByCreator(String creator){
 
         return policyRepository.findByDataPolicyCreator(creator);
 
 
 
     }
-    public List<Policy> getPolicesByExaminer(ObjectId examiner){
+    public List<Policy> getPolicesByExaminer(String examiner){
 
         return policyRepository.findByDataPolicyExaminer(examiner);
 
@@ -67,7 +67,7 @@ public class PolicyService {
 
 
 
-    public Policy createPolicy(Policy policy , ObjectId userId){
+    public Policy createPolicy(Policy policy , String userId){
 
         policy.setDataPolicyVersion(1);
         policy.setDataPolicyStatus(Status.WIP);
@@ -80,7 +80,7 @@ public class PolicyService {
 
     }
 
-    public Policy updatePolicy(Policy policy  , ObjectId userId) {
+    public Policy updatePolicy(Policy policy  , String userId) {
 
         List<Policy> old_policies = policyRepository.findByDataPolicyId(policy.getDataPolicyId());
         if(!old_policies.isEmpty()){
@@ -101,7 +101,7 @@ public class PolicyService {
 
     }
 
-    public Policy approvePolicy(ObjectId Id , ObjectId userId , Boolean approve){
+    public Policy approvePolicy(String Id , String userId , Boolean approve){
 
         Optional<Policy> optional_policy = policyRepository.findById(Id);
 
