@@ -21,7 +21,16 @@ public class User {
     private String userId;
     private String username;
     private String password;
+    private String location;
     private List<String> data_policy_applied;
     private Role role;
 
+
+    public List<String> getData_policy_applied() {
+        return data_policy_applied;
+    }
+
+    public void setData_policy_applied(List<String> data_policy_applied) {
+        this.data_policy_applied = data_policy_applied;
+    }
 }

@@ -1,11 +1,8 @@
 package com.scb.PolicyManagementSystem.model;
 
 
-import lombok.Getter;
-
 import org.springframework.data.annotation.Id;
 import org.springframework.data.mongodb.core.mapping.Document;
-import lombok.Data;
 import lombok.NoArgsConstructor;
 import lombok.AllArgsConstructor;
 
@@ -28,7 +25,10 @@ public class Policy {
     private String dataPolicyName;
     private String dataPolicyCreator;
     private String  dataPolicyExaminer;
+    private  String dataPolicyActionReason;
+    private String dataPolicyRegion;
     private List<PolicyRule> dataPolicy;
+
 
 
     // GETTER AND SETTER
@@ -96,6 +96,22 @@ public class Policy {
 
     public void setDataPolicyExaminer(String dataPolicyExaminer) {
         this.dataPolicyExaminer = dataPolicyExaminer;
+    }
+
+    public String getDataPolicyActionReason() {
+        return dataPolicyActionReason;
+    }
+
+    public void setDataPolicyActionReason(String dataPolicyActionReason) {
+        this.dataPolicyActionReason = dataPolicyActionReason;
+    }
+
+    public String getDataPolicyRegion() {
+        return dataPolicyRegion;
+    }
+
+    public void setDataPolicyRegion(String dataPolicyRegion) {
+        this.dataPolicyRegion = dataPolicyRegion;
     }
 
     public List<PolicyRule> getDataPolicy() {

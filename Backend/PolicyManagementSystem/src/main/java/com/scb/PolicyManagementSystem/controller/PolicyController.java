@@ -1,5 +1,6 @@
 package com.scb.PolicyManagementSystem.controller;
 
+import com.scb.PolicyManagementSystem.component.PolicyResult;
 import com.scb.PolicyManagementSystem.model.Policy;
 import com.scb.PolicyManagementSystem.model.Status;
 import com.scb.PolicyManagementSystem.service.PolicyService;
@@ -48,6 +49,13 @@ public class PolicyController {
 
     }
 
+    @GetMapping("/working-policies")
+    public List<Policy> getAllNonArchivedPolices(){
+
+        return policyService.getNonArchivedPolices();
+
+    }
+
 
 
     @GetMapping("/{policyId}")
@@ -71,11 +79,11 @@ public class PolicyController {
         return policyService.updatePolicy( policy , userId);
     }
 
-    @PostMapping("/approve/{Id}/{userId}")
-    public Policy approvePolicy(@RequestParam("approve") boolean approve , @PathVariable("Id") String Id,
+    @PostMapping("/approve/{userId}")
+    public Policy approvePolicy(@RequestBody PolicyResult policyResult,
                                 @PathVariable("userId") String userId) {
         System.out.println("here");
-        return policyService.approvePolicy(new String(String.valueOf(Id)), userId , approve);
+        return policyService.approvePolicy(policyResult.getPolicy_id(), userId , policyResult.getApprove() , policyResult.getReason());
     }
 
 

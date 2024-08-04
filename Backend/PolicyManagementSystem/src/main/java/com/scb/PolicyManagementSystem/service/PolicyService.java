@@ -18,6 +18,9 @@ public class PolicyService {
     @Autowired
      private  PolicyRepository policyRepository;
 
+    @Autowired
+    private UserService userService;
+
     public List<Policy> getAllPolices(){
 
         return policyRepository.findAll();
@@ -64,6 +67,10 @@ public class PolicyService {
         return policyRepository.findByDataPolicyStatus(Status.ARCHIVED);
     }
 
+    public  List<Policy> getNonArchivedPolices(){
+        return policyRepository.findByDataPolicyStatusNot(String.valueOf(Status.ARCHIVED));
+    }
+
 
 
 
@@ -101,7 +108,7 @@ public class PolicyService {
 
     }
 
-    public Policy approvePolicy(String Id , String userId , Boolean approve){
+    public Policy approvePolicy(String Id , String userId , Boolean approve , String reason){
 
         Optional<Policy> optional_policy = policyRepository.findById(Id);
 
@@ -115,12 +122,19 @@ public class PolicyService {
                 Optional<Policy> previous_approved_policy = policyRepository.findByDataPolicyIdAndDataPolicyStatus(policy.getDataPolicyId() , String.valueOf(Status.APPROVED));
                 if(previous_approved_policy.isPresent()) {
                     previous_approved_policy.get().setDataPolicyStatus(Status.ARCHIVED);
+                    // remove this previously approved policy from all users.
+                    userService.removeDataPolicy(previous_approved_policy.get());
                     policyRepository.save(previous_approved_policy.get());
                 }
+
                 policy.setDataPolicyStatus( Status.APPROVED);
+                // set this policy to the users depending upon the location
+                userService.addDataPolicy(policy);
+
 
             }else{
                 policy.setDataPolicyStatus( Status.REJECTED);
+                policy.setDataPolicyActionReason(reason);
 
             }
             return policyRepository.save(policy);

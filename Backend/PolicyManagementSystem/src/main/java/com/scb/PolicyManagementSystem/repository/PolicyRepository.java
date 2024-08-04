@@ -22,4 +22,7 @@ public interface PolicyRepository extends MongoRepository<Policy, String> {
 
     @Query("{'dataPolicyLastModified': { $lt: ?0 }}")
     List<Policy> findPoliciesOlderThan(Date date);
+
+
+    List<Policy> findByDataPolicyStatusNot(String status);
 }
