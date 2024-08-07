@@ -25,9 +25,11 @@ public class DataService {
 
     public List<Data> fetch(String userId){
 
-        List<Data> dt = dataRepository.findAll();
+
 
         User user = userRepository.findById(userId).get();
+        System.out.println(user.getLocation());
+        List<Data> dt = dataRepository.findByReporterName(user.getLocation());
         List<String> policyIds = user.getData_policy_applied();
         List<Policy> policies = policyRepository.findAllById(policyIds);
 
