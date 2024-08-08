@@ -1,0 +1,5082 @@
+[{
+  "_id": {
+    "$oid": "669c9fb167df1ff4bf58cd0b"
+  },
+  "ReporterISO3": "AFG",
+  "ReporterName": "Afghanistan",
+  "PartnerISO3": "SWE",
+  "PartnerName": "Sweden",
+  "Year": 2017,
+  "TradeFlowName": "Export"
+},
+  {
+    "_id": {
+      "$oid": "669c9fb167df1ff4bf58cd0c"
+    },
+    "ReporterISO3": "AFG",
+    "ReporterName": "Afghanistan",
+    "PartnerISO3": "JOR",
+    "PartnerName": "Jordan",
+    "Year": 2018,
+    "TradeFlowName": "Export"
+  },
+  {
+    "_id": {
+      "$oid": "669c9fb167df1ff4bf58cd0d"
+    },
+    "ReporterISO3": "AFG",
+    "ReporterName": "Afghanistan",
+    "PartnerISO3": "JOR",
+    "PartnerName": "Jordan",
+    "Year": 2017,
+    "TradeFlowName": "Export"
+  },
+  {
+    "_id": {
+      "$oid": "669c9fb167df1ff4bf58cd0e"
+    },
+    "ReporterISO3": "AFG",
+    "ReporterName": "Afghanistan",
+    "PartnerISO3": "ITA",
+    "PartnerName": "Italy",
+    "Year": 2018,
+    "TradeFlowName": "Export"
+  },
+  {
+    "_id": {
+      "$oid": "669c9fb167df1ff4bf58cd0f"
+    },
+    "ReporterISO3": "AFG",
+    "ReporterName": "Afghanistan",
+    "PartnerISO3": "ITA",
+    "PartnerName": "Italy",
+    "Year": 2017,
+    "TradeFlowName": "Export"
+  },
+  {
+    "_id": {
+      "$oid": "669c9fb167df1ff4bf58cd10"
+    },
+    "ReporterISO3": "AFG",
+    "ReporterName": "Afghanistan",
+    "PartnerISO3": "IRQ",
+    "PartnerName": "Iraq",
+    "Year": 2018,
+    "TradeFlowName": "Export"
+  },
+  {
+    "_id": {
+      "$oid": "669c9fb167df1ff4bf58cd11"
+    },
+    "ReporterISO3": "AFG",
+    "ReporterName": "Afghanistan",
+    "PartnerISO3": "IRQ",
+    "PartnerName": "Iraq",
+    "Year": 2017,
+    "TradeFlowName": "Export"
+  },
+  {
+    "_id": {
+      "$oid": "669c9fb167df1ff4bf58cd12"
+    },
+    "ReporterISO3": "AFG",
+    "ReporterName": "Afghanistan",
+    "PartnerISO3": "IRN",
+    "PartnerName": "Iran, Islamic Rep.",
+    "Year": 2018,
+    "TradeFlowName": "Export"
+  },
+  {
+    "_id": {
+      "$oid": "669c9fb167df1ff4bf58cd13"
+    },
+    "ReporterISO3": "AFG",
+    "ReporterName": "Afghanistan",
+    "PartnerISO3": "IRN",
+    "PartnerName": "Iran, Islamic Rep.",
+    "Year": 2017,
+    "TradeFlowName": "Export"
+  },
+  {
+    "_id": {
+      "$oid": "669c9fb167df1ff4bf58cd14"
+    },
+    "ReporterISO3": "AFG",
+    "ReporterName": "Afghanistan",
+    "PartnerISO3": "IND",
+    "PartnerName": "India",
+    "Year": 2018,
+    "TradeFlowName": "Export"
+  },
+  {
+    "_id": {
+      "$oid": "669c9fb167df1ff4bf58cd15"
+    },
+    "ReporterISO3": "AFG",
+    "ReporterName": "Afghanistan",
+    "PartnerISO3": "IND",
+    "PartnerName": "India",
+    "Year": 2017,
+    "TradeFlowName": "Export"
+  },
+  {
+    "_id": {
+      "$oid": "669c9fb167df1ff4bf58cd16"
+    },
+    "ReporterISO3": "AFG",
+    "ReporterName": "Afghanistan",
+    "PartnerISO3": "IDN",
+    "PartnerName": "Indonesia",
+    "Year": 2018,
+    "TradeFlowName": "Export"
+  },
+  {
+    "_id": {
+      "$oid": "669c9fb167df1ff4bf58cd17"
+    },
+    "ReporterISO3": "AFG",
+    "ReporterName": "Afghanistan",
+    "PartnerISO3": "IDN",
+    "PartnerName": "Indonesia",
+    "Year": 2017,
+    "TradeFlowName": "Export"
+  },
+  {
+    "_id": {
+      "$oid": "669c9fb167df1ff4bf58cd18"
+    },
+    "ReporterISO3": "AFG",
+    "ReporterName": "Afghanistan",
+    "PartnerISO3": "HUN",
+    "PartnerName": "Hungary",
+    "Year": 2018,
+    "TradeFlowName": "Export"
+  },
+  {
+    "_id": {
+      "$oid": "669c9fb167df1ff4bf58cd19"
+    },
+    "ReporterISO3": "AFG",
+    "ReporterName": "Afghanistan",
+    "PartnerISO3": "HUN",
+    "PartnerName": "Hungary",
+    "Year": 2017,
+    "TradeFlowName": "Export"
+  },
+  {
+    "_id": {
+      "$oid": "669c9fb167df1ff4bf58cd1a"
+    },
+    "ReporterISO3": "AFG",
+    "ReporterName": "Afghanistan",
+    "PartnerISO3": "HKG",
+    "PartnerName": "Hong Kong, China",
+    "Year": 2018,
+    "TradeFlowName": "Export"
+  },
+  {
+    "_id": {
+      "$oid": "669c9fb167df1ff4bf58cd1b"
+    },
+    "ReporterISO3": "AFG",
+    "ReporterName": "Afghanistan",
+    "PartnerISO3": "HKG",
+    "PartnerName": "Hong Kong, China",
+    "Year": 2017,
+    "TradeFlowName": "Export"
+  },
+  {
+    "_id": {
+      "$oid": "669c9fb167df1ff4bf58cd1c"
+    },
+    "ReporterISO3": "AFG",
+    "ReporterName": "Afghanistan",
+    "PartnerISO3": "GRC",
+    "PartnerName": "Greece",
+    "Year": 2017,
+    "TradeFlowName": "Export"
+  },
+  {
+    "_id": {
+      "$oid": "669c9fb167df1ff4bf58cd1d"
+    },
+    "ReporterISO3": "AFG",
+    "ReporterName": "Afghanistan",
+    "PartnerISO3": "GBR",
+    "PartnerName": "United Kingdom",
+    "Year": 2018,
+    "TradeFlowName": "Export"
+  },
+  {
+    "_id": {
+      "$oid": "669c9fb167df1ff4bf58cd1e"
+    },
+    "ReporterISO3": "AFG",
+    "ReporterName": "Afghanistan",
+    "PartnerISO3": "GBR",
+    "PartnerName": "United Kingdom",
+    "Year": 2017,
+    "TradeFlowName": "Export"
+  },
+  {
+    "_id": {
+      "$oid": "669c9fb167df1ff4bf58cd1f"
+    },
+    "ReporterISO3": "AFG",
+    "ReporterName": "Afghanistan",
+    "PartnerISO3": "FRA",
+    "PartnerName": "France",
+    "Year": 2018,
+    "TradeFlowName": "Export"
+  },
+  {
+    "_id": {
+      "$oid": "669c9fb167df1ff4bf58cd20"
+    },
+    "ReporterISO3": "AFG",
+    "ReporterName": "Afghanistan",
+    "PartnerISO3": "FRA",
+    "PartnerName": "France",
+    "Year": 2017,
+    "TradeFlowName": "Export"
+  },
+  {
+    "_id": {
+      "$oid": "669c9fb167df1ff4bf58cd21"
+    },
+    "ReporterISO3": "AFG",
+    "ReporterName": "Afghanistan",
+    "PartnerISO3": "FIN",
+    "PartnerName": "Finland",
+    "Year": 2018,
+    "TradeFlowName": "Export"
+  },
+  {
+    "_id": {
+      "$oid": "669c9fb167df1ff4bf58cd22"
+    },
+    "ReporterISO3": "AFG",
+    "ReporterName": "Afghanistan",
+    "PartnerISO3": "FIN",
+    "PartnerName": "Finland",
+    "Year": 2017,
+    "TradeFlowName": "Export"
+  },
+  {
+    "_id": {
+      "$oid": "669c9fb167df1ff4bf58cd23"
+    },
+    "ReporterISO3": "AFG",
+    "ReporterName": "Afghanistan",
+    "PartnerISO3": "ESP",
+    "PartnerName": "Spain",
+    "Year": 2018,
+    "TradeFlowName": "Export"
+  },
+  {
+    "_id": {
+      "$oid": "669c9fb167df1ff4bf58cd24"
+    },
+    "ReporterISO3": "AFG",
+    "ReporterName": "Afghanistan",
+    "PartnerISO3": "ESP",
+    "PartnerName": "Spain",
+    "Year": 2017,
+    "TradeFlowName": "Export"
+  },
+  {
+    "_id": {
+      "$oid": "669c9fb167df1ff4bf58cd25"
+    },
+    "ReporterISO3": "AFG",
+    "ReporterName": "Afghanistan",
+    "PartnerISO3": "EGY",
+    "PartnerName": "Egypt, Arab Rep.",
+    "Year": 2018,
+    "TradeFlowName": "Export"
+  },
+  {
+    "_id": {
+      "$oid": "669c9fb167df1ff4bf58cd26"
+    },
+    "ReporterISO3": "AFG",
+    "ReporterName": "Afghanistan",
+    "PartnerISO3": "DNK",
+    "PartnerName": "Denmark",
+    "Year": 2018,
+    "TradeFlowName": "Export"
+  },
+  {
+    "_id": {
+      "$oid": "669c9fb167df1ff4bf58cd27"
+    },
+    "ReporterISO3": "AFG",
+    "ReporterName": "Afghanistan",
+    "PartnerISO3": "DNK",
+    "PartnerName": "Denmark",
+    "Year": 2017,
+    "TradeFlowName": "Export"
+  },
+  {
+    "_id": {
+      "$oid": "669c9fb167df1ff4bf58cd28"
+    },
+    "ReporterISO3": "AFG",
+    "ReporterName": "Afghanistan",
+    "PartnerISO3": "DEU",
+    "PartnerName": "Germany",
+    "Year": 2018,
+    "TradeFlowName": "Export"
+  },
+  {
+    "_id": {
+      "$oid": "669c9fb167df1ff4bf58cd29"
+    },
+    "ReporterISO3": "AFG",
+    "ReporterName": "Afghanistan",
+    "PartnerISO3": "JPN",
+    "PartnerName": "Japan",
+    "Year": 2017,
+    "TradeFlowName": "Export"
+  },
+  {
+    "_id": {
+      "$oid": "669c9fb167df1ff4bf58cd2a"
+    },
+    "ReporterISO3": "AFG",
+    "ReporterName": "Afghanistan",
+    "PartnerISO3": "JPN",
+    "PartnerName": "Japan",
+    "Year": 2018,
+    "TradeFlowName": "Export"
+  },
+  {
+    "_id": {
+      "$oid": "669c9fb167df1ff4bf58cd2b"
+    },
+    "ReporterISO3": "AFG",
+    "ReporterName": "Afghanistan",
+    "PartnerISO3": "KAZ",
+    "PartnerName": "Kazakhstan",
+    "Year": 2017,
+    "TradeFlowName": "Export"
+  },
+  {
+    "_id": {
+      "$oid": "669c9fb167df1ff4bf58cd2c"
+    },
+    "ReporterISO3": "AFG",
+    "ReporterName": "Afghanistan",
+    "PartnerISO3": "KAZ",
+    "PartnerName": "Kazakhstan",
+    "Year": 2018,
+    "TradeFlowName": "Export"
+  },
+  {
+    "_id": {
+      "$oid": "669c9fb167df1ff4bf58cd2d"
+    },
+    "ReporterISO3": "AFG",
+    "ReporterName": "Afghanistan",
+    "PartnerISO3": "SGP",
+    "PartnerName": "Singapore",
+    "Year": 2018,
+    "TradeFlowName": "Export"
+  },
+  {
+    "_id": {
+      "$oid": "669c9fb167df1ff4bf58cd2e"
+    },
+    "ReporterISO3": "AFG",
+    "ReporterName": "Afghanistan",
+    "PartnerISO3": "SAU",
+    "PartnerName": "Saudi Arabia",
+    "Year": 2018,
+    "TradeFlowName": "Export"
+  },
+  {
+    "_id": {
+      "$oid": "669c9fb167df1ff4bf58cd2f"
+    },
+    "ReporterISO3": "AFG",
+    "ReporterName": "Afghanistan",
+    "PartnerISO3": "SAU",
+    "PartnerName": "Saudi Arabia",
+    "Year": 2017,
+    "TradeFlowName": "Export"
+  },
+  {
+    "_id": {
+      "$oid": "669c9fb167df1ff4bf58cd30"
+    },
+    "ReporterISO3": "AFG",
+    "ReporterName": "Afghanistan",
+    "PartnerISO3": "RUS",
+    "PartnerName": "Russian Federation",
+    "Year": 2018,
+    "TradeFlowName": "Export"
+  },
+  {
+    "_id": {
+      "$oid": "669c9fb167df1ff4bf58cd31"
+    },
+    "ReporterISO3": "AFG",
+    "ReporterName": "Afghanistan",
+    "PartnerISO3": "RUS",
+    "PartnerName": "Russian Federation",
+    "Year": 2017,
+    "TradeFlowName": "Export"
+  },
+  {
+    "_id": {
+      "$oid": "669c9fb167df1ff4bf58cd32"
+    },
+    "ReporterISO3": "AFG",
+    "ReporterName": "Afghanistan",
+    "PartnerISO3": "ROM",
+    "PartnerName": "Romania",
+    "Year": 2018,
+    "TradeFlowName": "Export"
+  },
+  {
+    "_id": {
+      "$oid": "669c9fb167df1ff4bf58cd33"
+    },
+    "ReporterISO3": "AFG",
+    "ReporterName": "Afghanistan",
+    "PartnerISO3": "ROM",
+    "PartnerName": "Romania",
+    "Year": 2017,
+    "TradeFlowName": "Export"
+  },
+  {
+    "_id": {
+      "$oid": "669c9fb167df1ff4bf58cd34"
+    },
+    "ReporterISO3": "AFG",
+    "ReporterName": "Afghanistan",
+    "PartnerISO3": "QAT",
+    "PartnerName": "Qatar",
+    "Year": 2018,
+    "TradeFlowName": "Export"
+  },
+  {
+    "_id": {
+      "$oid": "669c9fb167df1ff4bf58cd35"
+    },
+    "ReporterISO3": "AFG",
+    "ReporterName": "Afghanistan",
+    "PartnerISO3": "QAT",
+    "PartnerName": "Qatar",
+    "Year": 2017,
+    "TradeFlowName": "Export"
+  },
+  {
+    "_id": {
+      "$oid": "669c9fb167df1ff4bf58cd36"
+    },
+    "ReporterISO3": "AFG",
+    "ReporterName": "Afghanistan",
+    "PartnerISO3": "PRT",
+    "PartnerName": "Portugal",
+    "Year": 2018,
+    "TradeFlowName": "Export"
+  },
+  {
+    "_id": {
+      "$oid": "669c9fb167df1ff4bf58cd37"
+    },
+    "ReporterISO3": "AFG",
+    "ReporterName": "Afghanistan",
+    "PartnerISO3": "POL",
+    "PartnerName": "Poland",
+    "Year": 2018,
+    "TradeFlowName": "Export"
+  },
+  {
+    "_id": {
+      "$oid": "669c9fb167df1ff4bf58cd38"
+    },
+    "ReporterISO3": "AFG",
+    "ReporterName": "Afghanistan",
+    "PartnerISO3": "POL",
+    "PartnerName": "Poland",
+    "Year": 2017,
+    "TradeFlowName": "Export"
+  },
+  {
+    "_id": {
+      "$oid": "669c9fb167df1ff4bf58cd39"
+    },
+    "ReporterISO3": "AFG",
+    "ReporterName": "Afghanistan",
+    "PartnerISO3": "PAK",
+    "PartnerName": "Pakistan",
+    "Year": 2018,
+    "TradeFlowName": "Export"
+  },
+  {
+    "_id": {
+      "$oid": "669c9fb167df1ff4bf58cd3a"
+    },
+    "ReporterISO3": "AFG",
+    "ReporterName": "Afghanistan",
+    "PartnerISO3": "PAK",
+    "PartnerName": "Pakistan",
+    "Year": 2017,
+    "TradeFlowName": "Export"
+  },
+  {
+    "_id": {
+      "$oid": "669c9fb167df1ff4bf58cd3b"
+    },
+    "ReporterISO3": "AFG",
+    "ReporterName": "Afghanistan",
+    "PartnerISO3": "DEU",
+    "PartnerName": "Germany",
+    "Year": 2017,
+    "TradeFlowName": "Export"
+  },
+  {
+    "_id": {
+      "$oid": "669c9fb167df1ff4bf58cd3c"
+    },
+    "ReporterISO3": "AFG",
+    "ReporterName": "Afghanistan",
+    "PartnerISO3": "OMN",
+    "PartnerName": "Oman",
+    "Year": 2018,
+    "TradeFlowName": "Export"
+  },
+  {
+    "_id": {
+      "$oid": "669c9fb167df1ff4bf58cd3d"
+    },
+    "ReporterISO3": "AFG",
+    "ReporterName": "Afghanistan",
+    "PartnerISO3": "NZL",
+    "PartnerName": "New Zealand",
+    "Year": 2017,
+    "TradeFlowName": "Export"
+  },
+  {
+    "_id": {
+      "$oid": "669c9fb167df1ff4bf58cd3e"
+    },
+    "ReporterISO3": "AFG",
+    "ReporterName": "Afghanistan",
+    "PartnerISO3": "NOR",
+    "PartnerName": "Norway",
+    "Year": 2018,
+    "TradeFlowName": "Export"
+  },
+  {
+    "_id": {
+      "$oid": "669c9fb167df1ff4bf58cd3f"
+    },
+    "ReporterISO3": "AFG",
+    "ReporterName": "Afghanistan",
+    "PartnerISO3": "NLD",
+    "PartnerName": "Netherlands",
+    "Year": 2018,
+    "TradeFlowName": "Export"
+  },
+  {
+    "_id": {
+      "$oid": "669c9fb167df1ff4bf58cd40"
+    },
+    "ReporterISO3": "AFG",
+    "ReporterName": "Afghanistan",
+    "PartnerISO3": "NLD",
+    "PartnerName": "Netherlands",
+    "Year": 2017,
+    "TradeFlowName": "Export"
+  },
+  {
+    "_id": {
+      "$oid": "669c9fb167df1ff4bf58cd41"
+    },
+    "ReporterISO3": "AFG",
+    "ReporterName": "Afghanistan",
+    "PartnerISO3": "MYS",
+    "PartnerName": "Malaysia",
+    "Year": 2018,
+    "TradeFlowName": "Export"
+  },
+  {
+    "_id": {
+      "$oid": "669c9fb167df1ff4bf58cd42"
+    },
+    "ReporterISO3": "AFG",
+    "ReporterName": "Afghanistan",
+    "PartnerISO3": "MYS",
+    "PartnerName": "Malaysia",
+    "Year": 2017,
+    "TradeFlowName": "Export"
+  },
+  {
+    "_id": {
+      "$oid": "669c9fb167df1ff4bf58cd43"
+    },
+    "ReporterISO3": "AFG",
+    "ReporterName": "Afghanistan",
+    "PartnerISO3": "MMR",
+    "PartnerName": "Myanmar",
+    "Year": 2018,
+    "TradeFlowName": "Export"
+  },
+  {
+    "_id": {
+      "$oid": "669c9fb167df1ff4bf58cd44"
+    },
+    "ReporterISO3": "AFG",
+    "ReporterName": "Afghanistan",
+    "PartnerISO3": "MMR",
+    "PartnerName": "Myanmar",
+    "Year": 2017,
+    "TradeFlowName": "Export"
+  },
+  {
+    "_id": {
+      "$oid": "669c9fb167df1ff4bf58cd45"
+    },
+    "ReporterISO3": "AFG",
+    "ReporterName": "Afghanistan",
+    "PartnerISO3": "LTU",
+    "PartnerName": "Lithuania",
+    "Year": 2017,
+    "TradeFlowName": "Export"
+  },
+  {
+    "_id": {
+      "$oid": "669c9fb167df1ff4bf58cd46"
+    },
+    "ReporterISO3": "AFG",
+    "ReporterName": "Afghanistan",
+    "PartnerISO3": "LBN",
+    "PartnerName": "Lebanon",
+    "Year": 2018,
+    "TradeFlowName": "Export"
+  },
+  {
+    "_id": {
+      "$oid": "669c9fb167df1ff4bf58cd47"
+    },
+    "ReporterISO3": "AFG",
+    "ReporterName": "Afghanistan",
+    "PartnerISO3": "LBN",
+    "PartnerName": "Lebanon",
+    "Year": 2017,
+    "TradeFlowName": "Export"
+  },
+  {
+    "_id": {
+      "$oid": "669c9fb167df1ff4bf58cd48"
+    },
+    "ReporterISO3": "AFG",
+    "ReporterName": "Afghanistan",
+    "PartnerISO3": "KWT",
+    "PartnerName": "Kuwait",
+    "Year": 2018,
+    "TradeFlowName": "Export"
+  },
+  {
+    "_id": {
+      "$oid": "669c9fb167df1ff4bf58cd49"
+    },
+    "ReporterISO3": "AFG",
+    "ReporterName": "Afghanistan",
+    "PartnerISO3": "KWT",
+    "PartnerName": "Kuwait",
+    "Year": 2017,
+    "TradeFlowName": "Export"
+  },
+  {
+    "_id": {
+      "$oid": "669c9fb167df1ff4bf58cd4a"
+    },
+    "ReporterISO3": "AFG",
+    "ReporterName": "Afghanistan",
+    "PartnerISO3": "KGZ",
+    "PartnerName": "Kyrgyz Republic",
+    "Year": 2018,
+    "TradeFlowName": "Export"
+  },
+  {
+    "_id": {
+      "$oid": "669c9fb167df1ff4bf58cd4b"
+    },
+    "ReporterISO3": "AFG",
+    "ReporterName": "Afghanistan",
+    "PartnerISO3": "NZL",
+    "PartnerName": "New Zealand",
+    "Year": 2018,
+    "TradeFlowName": "Export"
+  },
+  {
+    "_id": {
+      "$oid": "669c9fb167df1ff4bf58cd4c"
+    },
+    "ReporterISO3": "AFG",
+    "ReporterName": "Afghanistan",
+    "PartnerISO3": "SVK",
+    "PartnerName": "Slovak Republic",
+    "Year": 2018,
+    "TradeFlowName": "Export"
+  },
+  {
+    "_id": {
+      "$oid": "669c9fb167df1ff4bf58cd4d"
+    },
+    "ReporterISO3": "AFG",
+    "ReporterName": "Afghanistan",
+    "PartnerISO3": "CZE",
+    "PartnerName": "Czech Republic",
+    "Year": 2018,
+    "TradeFlowName": "Export"
+  },
+  {
+    "_id": {
+      "$oid": "669c9fb167df1ff4bf58cd4e"
+    },
+    "ReporterISO3": "AFG",
+    "ReporterName": "Afghanistan",
+    "PartnerISO3": "CHN",
+    "PartnerName": "China",
+    "Year": 2018,
+    "TradeFlowName": "Export"
+  },
+  {
+    "_id": {
+      "$oid": "669c9fb167df1ff4bf58cd4f"
+    },
+    "ReporterISO3": "AFG",
+    "ReporterName": "Afghanistan",
+    "PartnerISO3": "SAU",
+    "PartnerName": "Saudi Arabia",
+    "Year": 2012,
+    "TradeFlowName": "Export"
+  },
+  {
+    "_id": {
+      "$oid": "669c9fb167df1ff4bf58cd50"
+    },
+    "ReporterISO3": "AFG",
+    "ReporterName": "Afghanistan",
+    "PartnerISO3": "SAU",
+    "PartnerName": "Saudi Arabia",
+    "Year": 2013,
+    "TradeFlowName": "Export"
+  },
+  {
+    "_id": {
+      "$oid": "669c9fb167df1ff4bf58cd51"
+    },
+    "ReporterISO3": "AFG",
+    "ReporterName": "Afghanistan",
+    "PartnerISO3": "SAU",
+    "PartnerName": "Saudi Arabia",
+    "Year": 2014,
+    "TradeFlowName": "Export"
+  },
+  {
+    "_id": {
+      "$oid": "669c9fb167df1ff4bf58cd52"
+    },
+    "ReporterISO3": "AFG",
+    "ReporterName": "Afghanistan",
+    "PartnerISO3": "UNS",
+    "PartnerName": "Unspecified",
+    "Year": 2012,
+    "TradeFlowName": "Export"
+  },
+  {
+    "_id": {
+      "$oid": "669c9fb167df1ff4bf58cd53"
+    },
+    "ReporterISO3": "AFG",
+    "ReporterName": "Afghanistan",
+    "PartnerISO3": "UNS",
+    "PartnerName": "Unspecified",
+    "Year": 2013,
+    "TradeFlowName": "Export"
+  },
+  {
+    "_id": {
+      "$oid": "669c9fb167df1ff4bf58cd54"
+    },
+    "ReporterISO3": "AFG",
+    "ReporterName": "Afghanistan",
+    "PartnerISO3": "UNS",
+    "PartnerName": "Unspecified",
+    "Year": 2014,
+    "TradeFlowName": "Export"
+  },
+  {
+    "_id": {
+      "$oid": "669c9fb167df1ff4bf58cd55"
+    },
+    "ReporterISO3": "AFG",
+    "ReporterName": "Afghanistan",
+    "PartnerISO3": "WLD",
+    "PartnerName": " World",
+    "Year": 2012,
+    "TradeFlowName": "Export"
+  },
+  {
+    "_id": {
+      "$oid": "669c9fb167df1ff4bf58cd56"
+    },
+    "ReporterISO3": "AFG",
+    "ReporterName": "Afghanistan",
+    "PartnerISO3": "WLD",
+    "PartnerName": " World",
+    "Year": 2013,
+    "TradeFlowName": "Export"
+  },
+  {
+    "_id": {
+      "$oid": "669c9fb167df1ff4bf58cd57"
+    },
+    "ReporterISO3": "AFG",
+    "ReporterName": "Afghanistan",
+    "PartnerISO3": "WLD",
+    "PartnerName": " World",
+    "Year": 2014,
+    "TradeFlowName": "Export"
+  },
+  {
+    "_id": {
+      "$oid": "669c9fb167df1ff4bf58cd58"
+    },
+    "ReporterISO3": "AFG",
+    "ReporterName": "Afghanistan",
+    "PartnerISO3": "WLD",
+    "PartnerName": " World",
+    "Year": 2008,
+    "TradeFlowName": "Export"
+  },
+  {
+    "_id": {
+      "$oid": "669c9fb167df1ff4bf58cd59"
+    },
+    "ReporterISO3": "AFG",
+    "ReporterName": "Afghanistan",
+    "PartnerISO3": "UZB",
+    "PartnerName": "Uzbekistan",
+    "Year": 2008,
+    "TradeFlowName": "Export"
+  },
+  {
+    "_id": {
+      "$oid": "669c9fb167df1ff4bf58cd5a"
+    },
+    "ReporterISO3": "AFG",
+    "ReporterName": "Afghanistan",
+    "PartnerISO3": "USA",
+    "PartnerName": "United States",
+    "Year": 2008,
+    "TradeFlowName": "Export"
+  },
+  {
+    "_id": {
+      "$oid": "669c9fb167df1ff4bf58cd5b"
+    },
+    "ReporterISO3": "AFG",
+    "ReporterName": "Afghanistan",
+    "PartnerISO3": "UKR",
+    "PartnerName": "Ukraine",
+    "Year": 2008,
+    "TradeFlowName": "Export"
+  },
+  {
+    "_id": {
+      "$oid": "669c9fb167df1ff4bf58cd5c"
+    },
+    "ReporterISO3": "AFG",
+    "ReporterName": "Afghanistan",
+    "PartnerISO3": "TKM",
+    "PartnerName": "Turkmenistan",
+    "Year": 2008,
+    "TradeFlowName": "Export"
+  },
+  {
+    "_id": {
+      "$oid": "669c9fb167df1ff4bf58cd5d"
+    },
+    "ReporterISO3": "AFG",
+    "ReporterName": "Afghanistan",
+    "PartnerISO3": "TJK",
+    "PartnerName": "Tajikistan",
+    "Year": 2008,
+    "TradeFlowName": "Export"
+  },
+  {
+    "_id": {
+      "$oid": "669c9fb167df1ff4bf58cd5e"
+    },
+    "ReporterISO3": "AFG",
+    "ReporterName": "Afghanistan",
+    "PartnerISO3": "SYR",
+    "PartnerName": "Syrian Arab Republic",
+    "Year": 2008,
+    "TradeFlowName": "Export"
+  },
+  {
+    "_id": {
+      "$oid": "669c9fb167df1ff4bf58cd5f"
+    },
+    "ReporterISO3": "AFG",
+    "ReporterName": "Afghanistan",
+    "PartnerISO3": "SWZ",
+    "PartnerName": "Eswatini",
+    "Year": 2008,
+    "TradeFlowName": "Export"
+  },
+  {
+    "_id": {
+      "$oid": "669c9fb167df1ff4bf58cd60"
+    },
+    "ReporterISO3": "AFG",
+    "ReporterName": "Afghanistan",
+    "PartnerISO3": "SAU",
+    "PartnerName": "Saudi Arabia",
+    "Year": 2008,
+    "TradeFlowName": "Export"
+  },
+  {
+    "_id": {
+      "$oid": "669c9fb167df1ff4bf58cd61"
+    },
+    "ReporterISO3": "AFG",
+    "ReporterName": "Afghanistan",
+    "PartnerISO3": "RUS",
+    "PartnerName": "Russian Federation",
+    "Year": 2008,
+    "TradeFlowName": "Export"
+  },
+  {
+    "_id": {
+      "$oid": "669c9fb167df1ff4bf58cd62"
+    },
+    "ReporterISO3": "AFG",
+    "ReporterName": "Afghanistan",
+    "PartnerISO3": "POL",
+    "PartnerName": "Poland",
+    "Year": 2008,
+    "TradeFlowName": "Export"
+  },
+  {
+    "_id": {
+      "$oid": "669c9fb167df1ff4bf58cd63"
+    },
+    "ReporterISO3": "AFG",
+    "ReporterName": "Afghanistan",
+    "PartnerISO3": "PAK",
+    "PartnerName": "Pakistan",
+    "Year": 2008,
+    "TradeFlowName": "Export"
+  },
+  {
+    "_id": {
+      "$oid": "669c9fb167df1ff4bf58cd64"
+    },
+    "ReporterISO3": "AFG",
+    "ReporterName": "Afghanistan",
+    "PartnerISO3": "NLD",
+    "PartnerName": "Netherlands",
+    "Year": 2008,
+    "TradeFlowName": "Export"
+  },
+  {
+    "_id": {
+      "$oid": "669c9fb167df1ff4bf58cd65"
+    },
+    "ReporterISO3": "AFG",
+    "ReporterName": "Afghanistan",
+    "PartnerISO3": "LBN",
+    "PartnerName": "Lebanon",
+    "Year": 2008,
+    "TradeFlowName": "Export"
+  },
+  {
+    "_id": {
+      "$oid": "669c9fb167df1ff4bf58cd66"
+    },
+    "ReporterISO3": "AFG",
+    "ReporterName": "Afghanistan",
+    "PartnerISO3": "KOR",
+    "PartnerName": "Korea, Rep.",
+    "Year": 2008,
+    "TradeFlowName": "Export"
+  },
+  {
+    "_id": {
+      "$oid": "669c9fb167df1ff4bf58cd67"
+    },
+    "ReporterISO3": "AFG",
+    "ReporterName": "Afghanistan",
+    "PartnerISO3": "KGZ",
+    "PartnerName": "Kyrgyz Republic",
+    "Year": 2008,
+    "TradeFlowName": "Export"
+  },
+  {
+    "_id": {
+      "$oid": "669c9fb167df1ff4bf58cd68"
+    },
+    "ReporterISO3": "AFG",
+    "ReporterName": "Afghanistan",
+    "PartnerISO3": "KAZ",
+    "PartnerName": "Kazakhstan",
+    "Year": 2008,
+    "TradeFlowName": "Export"
+  },
+  {
+    "_id": {
+      "$oid": "669c9fb167df1ff4bf58cd69"
+    },
+    "ReporterISO3": "AFG",
+    "ReporterName": "Afghanistan",
+    "PartnerISO3": "JPN",
+    "PartnerName": "Japan",
+    "Year": 2008,
+    "TradeFlowName": "Export"
+  },
+  {
+    "_id": {
+      "$oid": "669c9fb167df1ff4bf58cd6a"
+    },
+    "ReporterISO3": "AFG",
+    "ReporterName": "Afghanistan",
+    "PartnerISO3": "IRQ",
+    "PartnerName": "Iraq",
+    "Year": 2008,
+    "TradeFlowName": "Export"
+  },
+  {
+    "_id": {
+      "$oid": "669c9fb167df1ff4bf58cd6b"
+    },
+    "ReporterISO3": "AFG",
+    "ReporterName": "Afghanistan",
+    "PartnerISO3": "IRN",
+    "PartnerName": "Iran, Islamic Rep.",
+    "Year": 2008,
+    "TradeFlowName": "Export"
+  },
+  {
+    "_id": {
+      "$oid": "669c9fb167df1ff4bf58cd6c"
+    },
+    "ReporterISO3": "AFG",
+    "ReporterName": "Afghanistan",
+    "PartnerISO3": "PAK",
+    "PartnerName": "Pakistan",
+    "Year": 2014,
+    "TradeFlowName": "Export"
+  },
+  {
+    "_id": {
+      "$oid": "669c9fb167df1ff4bf58cd6d"
+    },
+    "ReporterISO3": "AFG",
+    "ReporterName": "Afghanistan",
+    "PartnerISO3": "PAK",
+    "PartnerName": "Pakistan",
+    "Year": 2013,
+    "TradeFlowName": "Export"
+  },
+  {
+    "_id": {
+      "$oid": "669c9fb167df1ff4bf58cd6e"
+    },
+    "ReporterISO3": "AFG",
+    "ReporterName": "Afghanistan",
+    "PartnerISO3": "PAK",
+    "PartnerName": "Pakistan",
+    "Year": 2012,
+    "TradeFlowName": "Export"
+  },
+  {
+    "_id": {
+      "$oid": "669c9fb167df1ff4bf58cd6f"
+    },
+    "ReporterISO3": "AFG",
+    "ReporterName": "Afghanistan",
+    "PartnerISO3": "IRN",
+    "PartnerName": "Iran, Islamic Rep.",
+    "Year": 2014,
+    "TradeFlowName": "Export"
+  },
+  {
+    "_id": {
+      "$oid": "669c9fb167df1ff4bf58cd70"
+    },
+    "ReporterISO3": "AFG",
+    "ReporterName": "Afghanistan",
+    "PartnerISO3": "CHN",
+    "PartnerName": "China",
+    "Year": 2017,
+    "TradeFlowName": "Export"
+  },
+  {
+    "_id": {
+      "$oid": "669c9fb167df1ff4bf58cd71"
+    },
+    "ReporterISO3": "AFG",
+    "ReporterName": "Afghanistan",
+    "PartnerISO3": "CHE",
+    "PartnerName": "Switzerland",
+    "Year": 2018,
+    "TradeFlowName": "Export"
+  },
+  {
+    "_id": {
+      "$oid": "669c9fb167df1ff4bf58cd72"
+    },
+    "ReporterISO3": "AFG",
+    "ReporterName": "Afghanistan",
+    "PartnerISO3": "CHE",
+    "PartnerName": "Switzerland",
+    "Year": 2017,
+    "TradeFlowName": "Export"
+  },
+  {
+    "_id": {
+      "$oid": "669c9fb167df1ff4bf58cd73"
+    },
+    "ReporterISO3": "AFG",
+    "ReporterName": "Afghanistan",
+    "PartnerISO3": "CAN",
+    "PartnerName": "Canada",
+    "Year": 2018,
+    "TradeFlowName": "Export"
+  },
+  {
+    "_id": {
+      "$oid": "669c9fb167df1ff4bf58cd74"
+    },
+    "ReporterISO3": "AFG",
+    "ReporterName": "Afghanistan",
+    "PartnerISO3": "CAN",
+    "PartnerName": "Canada",
+    "Year": 2017,
+    "TradeFlowName": "Export"
+  },
+  {
+    "_id": {
+      "$oid": "669c9fb167df1ff4bf58cd75"
+    },
+    "ReporterISO3": "AFG",
+    "ReporterName": "Afghanistan",
+    "PartnerISO3": "BLR",
+    "PartnerName": "Belarus",
+    "Year": 2018,
+    "TradeFlowName": "Export"
+  },
+  {
+    "_id": {
+      "$oid": "669c9fb167df1ff4bf58cd76"
+    },
+    "ReporterISO3": "AFG",
+    "ReporterName": "Afghanistan",
+    "PartnerISO3": "BLR",
+    "PartnerName": "Belarus",
+    "Year": 2017,
+    "TradeFlowName": "Export"
+  },
+  {
+    "_id": {
+      "$oid": "669c9fb167df1ff4bf58cd77"
+    },
+    "ReporterISO3": "AFG",
+    "ReporterName": "Afghanistan",
+    "PartnerISO3": "BHR",
+    "PartnerName": "Bahrain",
+    "Year": 2018,
+    "TradeFlowName": "Export"
+  },
+  {
+    "_id": {
+      "$oid": "669c9fb167df1ff4bf58cd78"
+    },
+    "ReporterISO3": "AFG",
+    "ReporterName": "Afghanistan",
+    "PartnerISO3": "BHR",
+    "PartnerName": "Bahrain",
+    "Year": 2017,
+    "TradeFlowName": "Export"
+  },
+  {
+    "_id": {
+      "$oid": "669c9fb167df1ff4bf58cd79"
+    },
+    "ReporterISO3": "AFG",
+    "ReporterName": "Afghanistan",
+    "PartnerISO3": "BGD",
+    "PartnerName": "Bangladesh",
+    "Year": 2017,
+    "TradeFlowName": "Export"
+  },
+  {
+    "_id": {
+      "$oid": "669c9fb167df1ff4bf58cd7a"
+    },
+    "ReporterISO3": "AFG",
+    "ReporterName": "Afghanistan",
+    "PartnerISO3": "BEL",
+    "PartnerName": "Belgium",
+    "Year": 2018,
+    "TradeFlowName": "Export"
+  },
+  {
+    "_id": {
+      "$oid": "669c9fb167df1ff4bf58cd7b"
+    },
+    "ReporterISO3": "AFG",
+    "ReporterName": "Afghanistan",
+    "PartnerISO3": "BEL",
+    "PartnerName": "Belgium",
+    "Year": 2017,
+    "TradeFlowName": "Export"
+  },
+  {
+    "_id": {
+      "$oid": "669c9fb167df1ff4bf58cd7c"
+    },
+    "ReporterISO3": "AFG",
+    "ReporterName": "Afghanistan",
+    "PartnerISO3": "AZE",
+    "PartnerName": "Azerbaijan",
+    "Year": 2018,
+    "TradeFlowName": "Export"
+  },
+  {
+    "_id": {
+      "$oid": "669c9fb167df1ff4bf58cd7d"
+    },
+    "ReporterISO3": "AFG",
+    "ReporterName": "Afghanistan",
+    "PartnerISO3": "AUT",
+    "PartnerName": "Austria",
+    "Year": 2018,
+    "TradeFlowName": "Export"
+  },
+  {
+    "_id": {
+      "$oid": "669c9fb167df1ff4bf58cd7e"
+    },
+    "ReporterISO3": "AFG",
+    "ReporterName": "Afghanistan",
+    "PartnerISO3": "COL",
+    "PartnerName": "Colombia",
+    "Year": 2018,
+    "TradeFlowName": "Export"
+  },
+  {
+    "_id": {
+      "$oid": "669c9fb167df1ff4bf58cd7f"
+    },
+    "ReporterISO3": "AFG",
+    "ReporterName": "Afghanistan",
+    "PartnerISO3": "AUT",
+    "PartnerName": "Austria",
+    "Year": 2017,
+    "TradeFlowName": "Export"
+  },
+  {
+    "_id": {
+      "$oid": "669c9fb167df1ff4bf58cd80"
+    },
+    "ReporterISO3": "AFG",
+    "ReporterName": "Afghanistan",
+    "PartnerISO3": "AUS",
+    "PartnerName": "Australia",
+    "Year": 2017,
+    "TradeFlowName": "Export"
+  },
+  {
+    "_id": {
+      "$oid": "669c9fb167df1ff4bf58cd81"
+    },
+    "ReporterISO3": "AFG",
+    "ReporterName": "Afghanistan",
+    "PartnerISO3": "ARE",
+    "PartnerName": "United Arab Emirates",
+    "Year": 2018,
+    "TradeFlowName": "Export"
+  },
+  {
+    "_id": {
+      "$oid": "669c9fb167df1ff4bf58cd82"
+    },
+    "ReporterISO3": "AFG",
+    "ReporterName": "Afghanistan",
+    "PartnerISO3": "ARE",
+    "PartnerName": "United Arab Emirates",
+    "Year": 2017,
+    "TradeFlowName": "Export"
+  },
+  {
+    "_id": {
+      "$oid": "669c9fb167df1ff4bf58cd83"
+    },
+    "ReporterISO3": "AFG",
+    "ReporterName": "Afghanistan",
+    "PartnerISO3": "CHN",
+    "PartnerName": "China",
+    "Year": 2012,
+    "TradeFlowName": "Export"
+  },
+  {
+    "_id": {
+      "$oid": "669c9fb167df1ff4bf58cd84"
+    },
+    "ReporterISO3": "AFG",
+    "ReporterName": "Afghanistan",
+    "PartnerISO3": "CHN",
+    "PartnerName": "China",
+    "Year": 2013,
+    "TradeFlowName": "Export"
+  },
+  {
+    "_id": {
+      "$oid": "669c9fb167df1ff4bf58cd85"
+    },
+    "ReporterISO3": "AFG",
+    "ReporterName": "Afghanistan",
+    "PartnerISO3": "CHN",
+    "PartnerName": "China",
+    "Year": 2014,
+    "TradeFlowName": "Export"
+  },
+  {
+    "_id": {
+      "$oid": "669c9fb167df1ff4bf58cd86"
+    },
+    "ReporterISO3": "AFG",
+    "ReporterName": "Afghanistan",
+    "PartnerISO3": "DEU",
+    "PartnerName": "Germany",
+    "Year": 2012,
+    "TradeFlowName": "Export"
+  },
+  {
+    "_id": {
+      "$oid": "669c9fb167df1ff4bf58cd87"
+    },
+    "ReporterISO3": "AFG",
+    "ReporterName": "Afghanistan",
+    "PartnerISO3": "DEU",
+    "PartnerName": "Germany",
+    "Year": 2013,
+    "TradeFlowName": "Export"
+  },
+  {
+    "_id": {
+      "$oid": "669c9fb167df1ff4bf58cd88"
+    },
+    "ReporterISO3": "AFG",
+    "ReporterName": "Afghanistan",
+    "PartnerISO3": "DEU",
+    "PartnerName": "Germany",
+    "Year": 2014,
+    "TradeFlowName": "Export"
+  },
+  {
+    "_id": {
+      "$oid": "669c9fb167df1ff4bf58cd89"
+    },
+    "ReporterISO3": "AFG",
+    "ReporterName": "Afghanistan",
+    "PartnerISO3": "IND",
+    "PartnerName": "India",
+    "Year": 2012,
+    "TradeFlowName": "Export"
+  },
+  {
+    "_id": {
+      "$oid": "669c9fb167df1ff4bf58cd8a"
+    },
+    "ReporterISO3": "AFG",
+    "ReporterName": "Afghanistan",
+    "PartnerISO3": "IND",
+    "PartnerName": "India",
+    "Year": 2013,
+    "TradeFlowName": "Export"
+  },
+  {
+    "_id": {
+      "$oid": "669c9fb167df1ff4bf58cd8b"
+    },
+    "ReporterISO3": "AFG",
+    "ReporterName": "Afghanistan",
+    "PartnerISO3": "IND",
+    "PartnerName": "India",
+    "Year": 2014,
+    "TradeFlowName": "Export"
+  },
+  {
+    "_id": {
+      "$oid": "669c9fb167df1ff4bf58cd8c"
+    },
+    "ReporterISO3": "AFG",
+    "ReporterName": "Afghanistan",
+    "PartnerISO3": "IRN",
+    "PartnerName": "Iran, Islamic Rep.",
+    "Year": 2012,
+    "TradeFlowName": "Export"
+  },
+  {
+    "_id": {
+      "$oid": "669c9fb167df1ff4bf58cd8d"
+    },
+    "ReporterISO3": "AFG",
+    "ReporterName": "Afghanistan",
+    "PartnerISO3": "IRN",
+    "PartnerName": "Iran, Islamic Rep.",
+    "Year": 2013,
+    "TradeFlowName": "Export"
+  },
+  {
+    "_id": {
+      "$oid": "669c9fb167df1ff4bf58cd8e"
+    },
+    "ReporterISO3": "AFG",
+    "ReporterName": "Afghanistan",
+    "PartnerISO3": "AUS",
+    "PartnerName": "Australia",
+    "Year": 2018,
+    "TradeFlowName": "Export"
+  },
+  {
+    "_id": {
+      "$oid": "669c9fb167df1ff4bf58cd8f"
+    },
+    "ReporterISO3": "AFG",
+    "ReporterName": "Afghanistan",
+    "PartnerISO3": "IND",
+    "PartnerName": "India",
+    "Year": 2008,
+    "TradeFlowName": "Export"
+  },
+  {
+    "_id": {
+      "$oid": "669c9fb167df1ff4bf58cd90"
+    },
+    "ReporterISO3": "AFG",
+    "ReporterName": "Afghanistan",
+    "PartnerISO3": "SWE",
+    "PartnerName": "Sweden",
+    "Year": 2018,
+    "TradeFlowName": "Export"
+  },
+  {
+    "_id": {
+      "$oid": "669c9fb167df1ff4bf58cd91"
+    },
+    "ReporterISO3": "AFG",
+    "ReporterName": "Afghanistan",
+    "PartnerISO3": "SWZ",
+    "PartnerName": "Eswatini",
+    "Year": 2018,
+    "TradeFlowName": "Export"
+  },
+  {
+    "_id": {
+      "$oid": "669c9fb167df1ff4bf58cd92"
+    },
+    "ReporterISO3": "AFG",
+    "ReporterName": "Afghanistan",
+    "PartnerISO3": "HKG",
+    "PartnerName": "Hong Kong, China",
+    "Year": 2015,
+    "TradeFlowName": "Export"
+  },
+  {
+    "_id": {
+      "$oid": "669c9fb167df1ff4bf58cd93"
+    },
+    "ReporterISO3": "AFG",
+    "ReporterName": "Afghanistan",
+    "PartnerISO3": "HUN",
+    "PartnerName": "Hungary",
+    "Year": 2016,
+    "TradeFlowName": "Export"
+  },
+  {
+    "_id": {
+      "$oid": "669c9fb167df1ff4bf58cd94"
+    },
+    "ReporterISO3": "AFG",
+    "ReporterName": "Afghanistan",
+    "PartnerISO3": "IND",
+    "PartnerName": "India",
+    "Year": 2015,
+    "TradeFlowName": "Export"
+  },
+  {
+    "_id": {
+      "$oid": "669c9fb167df1ff4bf58cd95"
+    },
+    "ReporterISO3": "AFG",
+    "ReporterName": "Afghanistan",
+    "PartnerISO3": "IND",
+    "PartnerName": "India",
+    "Year": 2016,
+    "TradeFlowName": "Export"
+  },
+  {
+    "_id": {
+      "$oid": "669c9fb167df1ff4bf58cd96"
+    },
+    "ReporterISO3": "AFG",
+    "ReporterName": "Afghanistan",
+    "PartnerISO3": "IRN",
+    "PartnerName": "Iran, Islamic Rep.",
+    "Year": 2015,
+    "TradeFlowName": "Export"
+  },
+  {
+    "_id": {
+      "$oid": "669c9fb167df1ff4bf58cd97"
+    },
+    "ReporterISO3": "AFG",
+    "ReporterName": "Afghanistan",
+    "PartnerISO3": "IRN",
+    "PartnerName": "Iran, Islamic Rep.",
+    "Year": 2016,
+    "TradeFlowName": "Export"
+  },
+  {
+    "_id": {
+      "$oid": "669c9fb167df1ff4bf58cd98"
+    },
+    "ReporterISO3": "AFG",
+    "ReporterName": "Afghanistan",
+    "PartnerISO3": "IRQ",
+    "PartnerName": "Iraq",
+    "Year": 2015,
+    "TradeFlowName": "Export"
+  },
+  {
+    "_id": {
+      "$oid": "669c9fb167df1ff4bf58cd99"
+    },
+    "ReporterISO3": "AFG",
+    "ReporterName": "Afghanistan",
+    "PartnerISO3": "IRQ",
+    "PartnerName": "Iraq",
+    "Year": 2016,
+    "TradeFlowName": "Export"
+  },
+  {
+    "_id": {
+      "$oid": "669c9fb167df1ff4bf58cd9a"
+    },
+    "ReporterISO3": "AFG",
+    "ReporterName": "Afghanistan",
+    "PartnerISO3": "ITA",
+    "PartnerName": "Italy",
+    "Year": 2015,
+    "TradeFlowName": "Export"
+  },
+  {
+    "_id": {
+      "$oid": "669c9fb167df1ff4bf58cd9b"
+    },
+    "ReporterISO3": "AFG",
+    "ReporterName": "Afghanistan",
+    "PartnerISO3": "ITA",
+    "PartnerName": "Italy",
+    "Year": 2016,
+    "TradeFlowName": "Export"
+  },
+  {
+    "_id": {
+      "$oid": "669c9fb167df1ff4bf58cd9c"
+    },
+    "ReporterISO3": "AFG",
+    "ReporterName": "Afghanistan",
+    "PartnerISO3": "JOR",
+    "PartnerName": "Jordan",
+    "Year": 2015,
+    "TradeFlowName": "Export"
+  },
+  {
+    "_id": {
+      "$oid": "669c9fb167df1ff4bf58cd9d"
+    },
+    "ReporterISO3": "AFG",
+    "ReporterName": "Afghanistan",
+    "PartnerISO3": "JOR",
+    "PartnerName": "Jordan",
+    "Year": 2016,
+    "TradeFlowName": "Export"
+  },
+  {
+    "_id": {
+      "$oid": "669c9fb167df1ff4bf58cd9e"
+    },
+    "ReporterISO3": "AFG",
+    "ReporterName": "Afghanistan",
+    "PartnerISO3": "JPN",
+    "PartnerName": "Japan",
+    "Year": 2015,
+    "TradeFlowName": "Export"
+  },
+  {
+    "_id": {
+      "$oid": "669c9fb167df1ff4bf58cd9f"
+    },
+    "ReporterISO3": "AFG",
+    "ReporterName": "Afghanistan",
+    "PartnerISO3": "JPN",
+    "PartnerName": "Japan",
+    "Year": 2016,
+    "TradeFlowName": "Export"
+  },
+  {
+    "_id": {
+      "$oid": "669c9fb167df1ff4bf58cda0"
+    },
+    "ReporterISO3": "AFG",
+    "ReporterName": "Afghanistan",
+    "PartnerISO3": "KAZ",
+    "PartnerName": "Kazakhstan",
+    "Year": 2015,
+    "TradeFlowName": "Export"
+  },
+  {
+    "_id": {
+      "$oid": "669c9fb167df1ff4bf58cda1"
+    },
+    "ReporterISO3": "AFG",
+    "ReporterName": "Afghanistan",
+    "PartnerISO3": "KAZ",
+    "PartnerName": "Kazakhstan",
+    "Year": 2016,
+    "TradeFlowName": "Export"
+  },
+  {
+    "_id": {
+      "$oid": "669c9fb167df1ff4bf58cda2"
+    },
+    "ReporterISO3": "AFG",
+    "ReporterName": "Afghanistan",
+    "PartnerISO3": "KOR",
+    "PartnerName": "Korea, Rep.",
+    "Year": 2015,
+    "TradeFlowName": "Export"
+  },
+  {
+    "_id": {
+      "$oid": "669c9fb167df1ff4bf58cda3"
+    },
+    "ReporterISO3": "AFG",
+    "ReporterName": "Afghanistan",
+    "PartnerISO3": "LBN",
+    "PartnerName": "Lebanon",
+    "Year": 2015,
+    "TradeFlowName": "Export"
+  },
+  {
+    "_id": {
+      "$oid": "669c9fb167df1ff4bf58cda4"
+    },
+    "ReporterISO3": "AFG",
+    "ReporterName": "Afghanistan",
+    "PartnerISO3": "LBN",
+    "PartnerName": "Lebanon",
+    "Year": 2016,
+    "TradeFlowName": "Export"
+  },
+  {
+    "_id": {
+      "$oid": "669c9fb167df1ff4bf58cda5"
+    },
+    "ReporterISO3": "AFG",
+    "ReporterName": "Afghanistan",
+    "PartnerISO3": "LKA",
+    "PartnerName": "Sri Lanka",
+    "Year": 2015,
+    "TradeFlowName": "Export"
+  },
+  {
+    "_id": {
+      "$oid": "669c9fb167df1ff4bf58cda6"
+    },
+    "ReporterISO3": "AFG",
+    "ReporterName": "Afghanistan",
+    "PartnerISO3": "LTU",
+    "PartnerName": "Lithuania",
+    "Year": 2015,
+    "TradeFlowName": "Export"
+  },
+  {
+    "_id": {
+      "$oid": "669c9fb167df1ff4bf58cda7"
+    },
+    "ReporterISO3": "AFG",
+    "ReporterName": "Afghanistan",
+    "PartnerISO3": "LTU",
+    "PartnerName": "Lithuania",
+    "Year": 2016,
+    "TradeFlowName": "Export"
+  },
+  {
+    "_id": {
+      "$oid": "669c9fb167df1ff4bf58cda8"
+    },
+    "ReporterISO3": "AFG",
+    "ReporterName": "Afghanistan",
+    "PartnerISO3": "MMR",
+    "PartnerName": "Myanmar",
+    "Year": 2016,
+    "TradeFlowName": "Export"
+  },
+  {
+    "_id": {
+      "$oid": "669c9fb167df1ff4bf58cda9"
+    },
+    "ReporterISO3": "AFG",
+    "ReporterName": "Afghanistan",
+    "PartnerISO3": "MYS",
+    "PartnerName": "Malaysia",
+    "Year": 2015,
+    "TradeFlowName": "Export"
+  },
+  {
+    "_id": {
+      "$oid": "669c9fb167df1ff4bf58cdaa"
+    },
+    "ReporterISO3": "AFG",
+    "ReporterName": "Afghanistan",
+    "PartnerISO3": "MYS",
+    "PartnerName": "Malaysia",
+    "Year": 2016,
+    "TradeFlowName": "Export"
+  },
+  {
+    "_id": {
+      "$oid": "669c9fb167df1ff4bf58cdab"
+    },
+    "ReporterISO3": "AFG",
+    "ReporterName": "Afghanistan",
+    "PartnerISO3": "NLD",
+    "PartnerName": "Netherlands",
+    "Year": 2015,
+    "TradeFlowName": "Export"
+  },
+  {
+    "_id": {
+      "$oid": "669c9fb167df1ff4bf58cdac"
+    },
+    "ReporterISO3": "AFG",
+    "ReporterName": "Afghanistan",
+    "PartnerISO3": "NLD",
+    "PartnerName": "Netherlands",
+    "Year": 2016,
+    "TradeFlowName": "Export"
+  },
+  {
+    "_id": {
+      "$oid": "669c9fb167df1ff4bf58cdad"
+    },
+    "ReporterISO3": "AFG",
+    "ReporterName": "Afghanistan",
+    "PartnerISO3": "NOR",
+    "PartnerName": "Norway",
+    "Year": 2016,
+    "TradeFlowName": "Export"
+  },
+  {
+    "_id": {
+      "$oid": "669c9fb167df1ff4bf58cdae"
+    },
+    "ReporterISO3": "AFG",
+    "ReporterName": "Afghanistan",
+    "PartnerISO3": "NZL",
+    "PartnerName": "New Zealand",
+    "Year": 2015,
+    "TradeFlowName": "Export"
+  },
+  {
+    "_id": {
+      "$oid": "669c9fb167df1ff4bf58cdaf"
+    },
+    "ReporterISO3": "AFG",
+    "ReporterName": "Afghanistan",
+    "PartnerISO3": "GEO",
+    "PartnerName": "Georgia",
+    "Year": 2015,
+    "TradeFlowName": "Export"
+  },
+  {
+    "_id": {
+      "$oid": "669c9fb167df1ff4bf58cdb0"
+    },
+    "ReporterISO3": "AFG",
+    "ReporterName": "Afghanistan",
+    "PartnerISO3": "GBR",
+    "PartnerName": "United Kingdom",
+    "Year": 2016,
+    "TradeFlowName": "Export"
+  },
+  {
+    "_id": {
+      "$oid": "669c9fb167df1ff4bf58cdb1"
+    },
+    "ReporterISO3": "AFG",
+    "ReporterName": "Afghanistan",
+    "PartnerISO3": "GBR",
+    "PartnerName": "United Kingdom",
+    "Year": 2015,
+    "TradeFlowName": "Export"
+  },
+  {
+    "_id": {
+      "$oid": "669c9fb167df1ff4bf58cdb2"
+    },
+    "ReporterISO3": "AFG",
+    "ReporterName": "Afghanistan",
+    "PartnerISO3": "FRA",
+    "PartnerName": "France",
+    "Year": 2016,
+    "TradeFlowName": "Export"
+  },
+  {
+    "_id": {
+      "$oid": "669c9fb167df1ff4bf58cdb3"
+    },
+    "ReporterISO3": "AFG",
+    "ReporterName": "Afghanistan",
+    "PartnerISO3": "ARE",
+    "PartnerName": "United Arab Emirates",
+    "Year": 2015,
+    "TradeFlowName": "Export"
+  },
+  {
+    "_id": {
+      "$oid": "669c9fb167df1ff4bf58cdb4"
+    },
+    "ReporterISO3": "AFG",
+    "ReporterName": "Afghanistan",
+    "PartnerISO3": "ARE",
+    "PartnerName": "United Arab Emirates",
+    "Year": 2016,
+    "TradeFlowName": "Export"
+  },
+  {
+    "_id": {
+      "$oid": "669c9fb167df1ff4bf58cdb5"
+    },
+    "ReporterISO3": "AFG",
+    "ReporterName": "Afghanistan",
+    "PartnerISO3": "AUS",
+    "PartnerName": "Australia",
+    "Year": 2015,
+    "TradeFlowName": "Export"
+  },
+  {
+    "_id": {
+      "$oid": "669c9fb167df1ff4bf58cdb6"
+    },
+    "ReporterISO3": "AFG",
+    "ReporterName": "Afghanistan",
+    "PartnerISO3": "AUS",
+    "PartnerName": "Australia",
+    "Year": 2016,
+    "TradeFlowName": "Export"
+  },
+  {
+    "_id": {
+      "$oid": "669c9fb167df1ff4bf58cdb7"
+    },
+    "ReporterISO3": "AFG",
+    "ReporterName": "Afghanistan",
+    "PartnerISO3": "AUT",
+    "PartnerName": "Austria",
+    "Year": 2015,
+    "TradeFlowName": "Export"
+  },
+  {
+    "_id": {
+      "$oid": "669c9fb167df1ff4bf58cdb8"
+    },
+    "ReporterISO3": "AFG",
+    "ReporterName": "Afghanistan",
+    "PartnerISO3": "AZE",
+    "PartnerName": "Azerbaijan",
+    "Year": 2015,
+    "TradeFlowName": "Export"
+  },
+  {
+    "_id": {
+      "$oid": "669c9fb167df1ff4bf58cdb9"
+    },
+    "ReporterISO3": "AFG",
+    "ReporterName": "Afghanistan",
+    "PartnerISO3": "BEL",
+    "PartnerName": "Belgium",
+    "Year": 2015,
+    "TradeFlowName": "Export"
+  },
+  {
+    "_id": {
+      "$oid": "669c9fb167df1ff4bf58cdba"
+    },
+    "ReporterISO3": "AFG",
+    "ReporterName": "Afghanistan",
+    "PartnerISO3": "BEL",
+    "PartnerName": "Belgium",
+    "Year": 2016,
+    "TradeFlowName": "Export"
+  },
+  {
+    "_id": {
+      "$oid": "669c9fb167df1ff4bf58cdbb"
+    },
+    "ReporterISO3": "AFG",
+    "ReporterName": "Afghanistan",
+    "PartnerISO3": "BGD",
+    "PartnerName": "Bangladesh",
+    "Year": 2015,
+    "TradeFlowName": "Export"
+  },
+  {
+    "_id": {
+      "$oid": "669c9fb167df1ff4bf58cdbc"
+    },
+    "ReporterISO3": "AFG",
+    "ReporterName": "Afghanistan",
+    "PartnerISO3": "BGD",
+    "PartnerName": "Bangladesh",
+    "Year": 2016,
+    "TradeFlowName": "Export"
+  },
+  {
+    "_id": {
+      "$oid": "669c9fb167df1ff4bf58cdbd"
+    },
+    "ReporterISO3": "AFG",
+    "ReporterName": "Afghanistan",
+    "PartnerISO3": "BGR",
+    "PartnerName": "Bulgaria",
+    "Year": 2015,
+    "TradeFlowName": "Export"
+  },
+  {
+    "_id": {
+      "$oid": "669c9fb167df1ff4bf58cdbe"
+    },
+    "ReporterISO3": "AFG",
+    "ReporterName": "Afghanistan",
+    "PartnerISO3": "BRA",
+    "PartnerName": "Brazil",
+    "Year": 2015,
+    "TradeFlowName": "Export"
+  },
+  {
+    "_id": {
+      "$oid": "669c9fb167df1ff4bf58cdbf"
+    },
+    "ReporterISO3": "AFG",
+    "ReporterName": "Afghanistan",
+    "PartnerISO3": "CAN",
+    "PartnerName": "Canada",
+    "Year": 2015,
+    "TradeFlowName": "Export"
+  },
+  {
+    "_id": {
+      "$oid": "669c9fb167df1ff4bf58cdc0"
+    },
+    "ReporterISO3": "AFG",
+    "ReporterName": "Afghanistan",
+    "PartnerISO3": "CAN",
+    "PartnerName": "Canada",
+    "Year": 2016,
+    "TradeFlowName": "Export"
+  },
+  {
+    "_id": {
+      "$oid": "669c9fb167df1ff4bf58cdc1"
+    },
+    "ReporterISO3": "AFG",
+    "ReporterName": "Afghanistan",
+    "PartnerISO3": "NZL",
+    "PartnerName": "New Zealand",
+    "Year": 2016,
+    "TradeFlowName": "Export"
+  },
+  {
+    "_id": {
+      "$oid": "669c9fb167df1ff4bf58cdc2"
+    },
+    "ReporterISO3": "AFG",
+    "ReporterName": "Afghanistan",
+    "PartnerISO3": "CHE",
+    "PartnerName": "Switzerland",
+    "Year": 2015,
+    "TradeFlowName": "Export"
+  },
+  {
+    "_id": {
+      "$oid": "669c9fb167df1ff4bf58cdc3"
+    },
+    "ReporterISO3": "AFG",
+    "ReporterName": "Afghanistan",
+    "PartnerISO3": "CHN",
+    "PartnerName": "China",
+    "Year": 2015,
+    "TradeFlowName": "Export"
+  },
+  {
+    "_id": {
+      "$oid": "669c9fb167df1ff4bf58cdc4"
+    },
+    "ReporterISO3": "AFG",
+    "ReporterName": "Afghanistan",
+    "PartnerISO3": "CHN",
+    "PartnerName": "China",
+    "Year": 2016,
+    "TradeFlowName": "Export"
+  },
+  {
+    "_id": {
+      "$oid": "669c9fb167df1ff4bf58cdc5"
+    },
+    "ReporterISO3": "AFG",
+    "ReporterName": "Afghanistan",
+    "PartnerISO3": "CZE",
+    "PartnerName": "Czech Republic",
+    "Year": 2015,
+    "TradeFlowName": "Export"
+  },
+  {
+    "_id": {
+      "$oid": "669c9fb167df1ff4bf58cdc6"
+    },
+    "ReporterISO3": "AFG",
+    "ReporterName": "Afghanistan",
+    "PartnerISO3": "DEU",
+    "PartnerName": "Germany",
+    "Year": 2015,
+    "TradeFlowName": "Export"
+  },
+  {
+    "_id": {
+      "$oid": "669c9fb167df1ff4bf58cdc7"
+    },
+    "ReporterISO3": "AFG",
+    "ReporterName": "Afghanistan",
+    "PartnerISO3": "DEU",
+    "PartnerName": "Germany",
+    "Year": 2016,
+    "TradeFlowName": "Export"
+  },
+  {
+    "_id": {
+      "$oid": "669c9fb167df1ff4bf58cdc8"
+    },
+    "ReporterISO3": "AFG",
+    "ReporterName": "Afghanistan",
+    "PartnerISO3": "DNK",
+    "PartnerName": "Denmark",
+    "Year": 2015,
+    "TradeFlowName": "Export"
+  },
+  {
+    "_id": {
+      "$oid": "669c9fb167df1ff4bf58cdc9"
+    },
+    "ReporterISO3": "AFG",
+    "ReporterName": "Afghanistan",
+    "PartnerISO3": "DNK",
+    "PartnerName": "Denmark",
+    "Year": 2016,
+    "TradeFlowName": "Export"
+  },
+  {
+    "_id": {
+      "$oid": "669c9fb167df1ff4bf58cdca"
+    },
+    "ReporterISO3": "AFG",
+    "ReporterName": "Afghanistan",
+    "PartnerISO3": "EGY",
+    "PartnerName": "Egypt, Arab Rep.",
+    "Year": 2015,
+    "TradeFlowName": "Export"
+  },
+  {
+    "_id": {
+      "$oid": "669c9fb167df1ff4bf58cdcb"
+    },
+    "ReporterISO3": "AFG",
+    "ReporterName": "Afghanistan",
+    "PartnerISO3": "EGY",
+    "PartnerName": "Egypt, Arab Rep.",
+    "Year": 2016,
+    "TradeFlowName": "Export"
+  },
+  {
+    "_id": {
+      "$oid": "669c9fb167df1ff4bf58cdcc"
+    },
+    "ReporterISO3": "AFG",
+    "ReporterName": "Afghanistan",
+    "PartnerISO3": "ESP",
+    "PartnerName": "Spain",
+    "Year": 2015,
+    "TradeFlowName": "Export"
+  },
+  {
+    "_id": {
+      "$oid": "669c9fb167df1ff4bf58cdcd"
+    },
+    "ReporterISO3": "AFG",
+    "ReporterName": "Afghanistan",
+    "PartnerISO3": "ESP",
+    "PartnerName": "Spain",
+    "Year": 2016,
+    "TradeFlowName": "Export"
+  },
+  {
+    "_id": {
+      "$oid": "669c9fb167df1ff4bf58cdce"
+    },
+    "ReporterISO3": "AFG",
+    "ReporterName": "Afghanistan",
+    "PartnerISO3": "FIN",
+    "PartnerName": "Finland",
+    "Year": 2015,
+    "TradeFlowName": "Export"
+  },
+  {
+    "_id": {
+      "$oid": "669c9fb167df1ff4bf58cdcf"
+    },
+    "ReporterISO3": "AFG",
+    "ReporterName": "Afghanistan",
+    "PartnerISO3": "FIN",
+    "PartnerName": "Finland",
+    "Year": 2016,
+    "TradeFlowName": "Export"
+  },
+  {
+    "_id": {
+      "$oid": "669c9fb167df1ff4bf58cdd0"
+    },
+    "ReporterISO3": "AFG",
+    "ReporterName": "Afghanistan",
+    "PartnerISO3": "FRA",
+    "PartnerName": "France",
+    "Year": 2015,
+    "TradeFlowName": "Export"
+  },
+  {
+    "_id": {
+      "$oid": "669c9fb167df1ff4bf58cdd1"
+    },
+    "ReporterISO3": "AFG",
+    "ReporterName": "Afghanistan",
+    "PartnerISO3": "CHE",
+    "PartnerName": "Switzerland",
+    "Year": 2016,
+    "TradeFlowName": "Export"
+  },
+  {
+    "_id": {
+      "$oid": "669c9fb167df1ff4bf58cdd2"
+    },
+    "ReporterISO3": "AFG",
+    "ReporterName": "Afghanistan",
+    "PartnerISO3": "SWZ",
+    "PartnerName": "Eswatini",
+    "Year": 2017,
+    "TradeFlowName": "Export"
+  },
+  {
+    "_id": {
+      "$oid": "669c9fb167df1ff4bf58cdd3"
+    },
+    "ReporterISO3": "AFG",
+    "ReporterName": "Afghanistan",
+    "PartnerISO3": "PAK",
+    "PartnerName": "Pakistan",
+    "Year": 2015,
+    "TradeFlowName": "Export"
+  },
+  {
+    "_id": {
+      "$oid": "669c9fb167df1ff4bf58cdd4"
+    },
+    "ReporterISO3": "AFG",
+    "ReporterName": "Afghanistan",
+    "PartnerISO3": "POL",
+    "PartnerName": "Poland",
+    "Year": 2015,
+    "TradeFlowName": "Export"
+  },
+  {
+    "_id": {
+      "$oid": "669c9fb167df1ff4bf58cdd5"
+    },
+    "ReporterISO3": "AFG",
+    "ReporterName": "Afghanistan",
+    "PartnerISO3": "ZAF",
+    "PartnerName": "South Africa",
+    "Year": 2015,
+    "TradeFlowName": "Export"
+  },
+  {
+    "_id": {
+      "$oid": "669c9fb167df1ff4bf58cdd6"
+    },
+    "ReporterISO3": "AFG",
+    "ReporterName": "Afghanistan",
+    "PartnerISO3": "ZAF",
+    "PartnerName": "South Africa",
+    "Year": 2016,
+    "TradeFlowName": "Export"
+  },
+  {
+    "_id": {
+      "$oid": "669c9fb167df1ff4bf58cdd7"
+    },
+    "ReporterISO3": "AFG",
+    "ReporterName": "Afghanistan",
+    "PartnerISO3": "ZAF",
+    "PartnerName": "South Africa",
+    "Year": 2018,
+    "TradeFlowName": "Export"
+  },
+  {
+    "_id": {
+      "$oid": "669c9fb167df1ff4bf58cdd8"
+    },
+    "ReporterISO3": "AFG",
+    "ReporterName": "Afghanistan",
+    "PartnerISO3": "ZAF",
+    "PartnerName": "South Africa",
+    "Year": 2017,
+    "TradeFlowName": "Export"
+  },
+  {
+    "_id": {
+      "$oid": "669c9fb167df1ff4bf58cdd9"
+    },
+    "ReporterISO3": "AFG",
+    "ReporterName": "Afghanistan",
+    "PartnerISO3": "YEM",
+    "PartnerName": "Yemen",
+    "Year": 2018,
+    "TradeFlowName": "Export"
+  },
+  {
+    "_id": {
+      "$oid": "669c9fb167df1ff4bf58cdda"
+    },
+    "ReporterISO3": "AFG",
+    "ReporterName": "Afghanistan",
+    "PartnerISO3": "YEM",
+    "PartnerName": "Yemen",
+    "Year": 2017,
+    "TradeFlowName": "Export"
+  },
+  {
+    "_id": {
+      "$oid": "669c9fb167df1ff4bf58cddb"
+    },
+    "ReporterISO3": "AFG",
+    "ReporterName": "Afghanistan",
+    "PartnerISO3": "WLD",
+    "PartnerName": " World",
+    "Year": 2018,
+    "TradeFlowName": "Export"
+  },
+  {
+    "_id": {
+      "$oid": "669c9fb167df1ff4bf58cddc"
+    },
+    "ReporterISO3": "AFG",
+    "ReporterName": "Afghanistan",
+    "PartnerISO3": "WLD",
+    "PartnerName": " World",
+    "Year": 2017,
+    "TradeFlowName": "Export"
+  },
+  {
+    "_id": {
+      "$oid": "669c9fb167df1ff4bf58cddd"
+    },
+    "ReporterISO3": "AFG",
+    "ReporterName": "Afghanistan",
+    "PartnerISO3": "VNM",
+    "PartnerName": "Vietnam",
+    "Year": 2018,
+    "TradeFlowName": "Export"
+  },
+  {
+    "_id": {
+      "$oid": "669c9fb167df1ff4bf58cdde"
+    },
+    "ReporterISO3": "AFG",
+    "ReporterName": "Afghanistan",
+    "PartnerISO3": "VNM",
+    "PartnerName": "Vietnam",
+    "Year": 2017,
+    "TradeFlowName": "Export"
+  },
+  {
+    "_id": {
+      "$oid": "669c9fb167df1ff4bf58cddf"
+    },
+    "ReporterISO3": "AFG",
+    "ReporterName": "Afghanistan",
+    "PartnerISO3": "UZB",
+    "PartnerName": "Uzbekistan",
+    "Year": 2018,
+    "TradeFlowName": "Export"
+  },
+  {
+    "_id": {
+      "$oid": "669c9fb167df1ff4bf58cde0"
+    },
+    "ReporterISO3": "AFG",
+    "ReporterName": "Afghanistan",
+    "PartnerISO3": "UZB",
+    "PartnerName": "Uzbekistan",
+    "Year": 2017,
+    "TradeFlowName": "Export"
+  },
+  {
+    "_id": {
+      "$oid": "669c9fb167df1ff4bf58cde1"
+    },
+    "ReporterISO3": "AFG",
+    "ReporterName": "Afghanistan",
+    "PartnerISO3": "USA",
+    "PartnerName": "United States",
+    "Year": 2018,
+    "TradeFlowName": "Export"
+  },
+  {
+    "_id": {
+      "$oid": "669c9fb167df1ff4bf58cde2"
+    },
+    "ReporterISO3": "AFG",
+    "ReporterName": "Afghanistan",
+    "PartnerISO3": "USA",
+    "PartnerName": "United States",
+    "Year": 2017,
+    "TradeFlowName": "Export"
+  },
+  {
+    "_id": {
+      "$oid": "669c9fb167df1ff4bf58cde3"
+    },
+    "ReporterISO3": "AFG",
+    "ReporterName": "Afghanistan",
+    "PartnerISO3": "UNS",
+    "PartnerName": "Unspecified",
+    "Year": 2018,
+    "TradeFlowName": "Export"
+  },
+  {
+    "_id": {
+      "$oid": "669c9fb167df1ff4bf58cde4"
+    },
+    "ReporterISO3": "AFG",
+    "ReporterName": "Afghanistan",
+    "PartnerISO3": "UNS",
+    "PartnerName": "Unspecified",
+    "Year": 2017,
+    "TradeFlowName": "Export"
+  },
+  {
+    "_id": {
+      "$oid": "669c9fb167df1ff4bf58cde5"
+    },
+    "ReporterISO3": "AFG",
+    "ReporterName": "Afghanistan",
+    "PartnerISO3": "UKR",
+    "PartnerName": "Ukraine",
+    "Year": 2018,
+    "TradeFlowName": "Export"
+  },
+  {
+    "_id": {
+      "$oid": "669c9fb167df1ff4bf58cde6"
+    },
+    "ReporterISO3": "AFG",
+    "ReporterName": "Afghanistan",
+    "PartnerISO3": "UKR",
+    "PartnerName": "Ukraine",
+    "Year": 2017,
+    "TradeFlowName": "Export"
+  },
+  {
+    "_id": {
+      "$oid": "669c9fb167df1ff4bf58cde7"
+    },
+    "ReporterISO3": "AFG",
+    "ReporterName": "Afghanistan",
+    "PartnerISO3": "UGA",
+    "PartnerName": "Uganda",
+    "Year": 2018,
+    "TradeFlowName": "Export"
+  },
+  {
+    "_id": {
+      "$oid": "669c9fb167df1ff4bf58cde8"
+    },
+    "ReporterISO3": "AFG",
+    "ReporterName": "Afghanistan",
+    "PartnerISO3": "TUR",
+    "PartnerName": "Turkey",
+    "Year": 2018,
+    "TradeFlowName": "Export"
+  },
+  {
+    "_id": {
+      "$oid": "669c9fb167df1ff4bf58cde9"
+    },
+    "ReporterISO3": "AFG",
+    "ReporterName": "Afghanistan",
+    "PartnerISO3": "TUR",
+    "PartnerName": "Turkey",
+    "Year": 2017,
+    "TradeFlowName": "Export"
+  },
+  {
+    "_id": {
+      "$oid": "669c9fb167df1ff4bf58cdea"
+    },
+    "ReporterISO3": "AFG",
+    "ReporterName": "Afghanistan",
+    "PartnerISO3": "TUN",
+    "PartnerName": "Tunisia",
+    "Year": 2018,
+    "TradeFlowName": "Export"
+  },
+  {
+    "_id": {
+      "$oid": "669c9fb167df1ff4bf58cdeb"
+    },
+    "ReporterISO3": "AFG",
+    "ReporterName": "Afghanistan",
+    "PartnerISO3": "TUN",
+    "PartnerName": "Tunisia",
+    "Year": 2017,
+    "TradeFlowName": "Export"
+  },
+  {
+    "_id": {
+      "$oid": "669c9fb167df1ff4bf58cdec"
+    },
+    "ReporterISO3": "AFG",
+    "ReporterName": "Afghanistan",
+    "PartnerISO3": "TKM",
+    "PartnerName": "Turkmenistan",
+    "Year": 2018,
+    "TradeFlowName": "Export"
+  },
+  {
+    "_id": {
+      "$oid": "669c9fb167df1ff4bf58cded"
+    },
+    "ReporterISO3": "AFG",
+    "ReporterName": "Afghanistan",
+    "PartnerISO3": "TKM",
+    "PartnerName": "Turkmenistan",
+    "Year": 2017,
+    "TradeFlowName": "Export"
+  },
+  {
+    "_id": {
+      "$oid": "669c9fb167df1ff4bf58cdee"
+    },
+    "ReporterISO3": "AFG",
+    "ReporterName": "Afghanistan",
+    "PartnerISO3": "TJK",
+    "PartnerName": "Tajikistan",
+    "Year": 2018,
+    "TradeFlowName": "Export"
+  },
+  {
+    "_id": {
+      "$oid": "669c9fb167df1ff4bf58cdef"
+    },
+    "ReporterISO3": "AFG",
+    "ReporterName": "Afghanistan",
+    "PartnerISO3": "TJK",
+    "PartnerName": "Tajikistan",
+    "Year": 2017,
+    "TradeFlowName": "Export"
+  },
+  {
+    "_id": {
+      "$oid": "669c9fb167df1ff4bf58cdf0"
+    },
+    "ReporterISO3": "AFG",
+    "ReporterName": "Afghanistan",
+    "PartnerISO3": "THA",
+    "PartnerName": "Thailand",
+    "Year": 2018,
+    "TradeFlowName": "Export"
+  },
+  {
+    "_id": {
+      "$oid": "669c9fb167df1ff4bf58cdf1"
+    },
+    "ReporterISO3": "AFG",
+    "ReporterName": "Afghanistan",
+    "PartnerISO3": "THA",
+    "PartnerName": "Thailand",
+    "Year": 2017,
+    "TradeFlowName": "Export"
+  },
+  {
+    "_id": {
+      "$oid": "669c9fb167df1ff4bf58cdf2"
+    },
+    "ReporterISO3": "AFG",
+    "ReporterName": "Afghanistan",
+    "PartnerISO3": "WLD",
+    "PartnerName": " World",
+    "Year": 2016,
+    "TradeFlowName": "Export"
+  },
+  {
+    "_id": {
+      "$oid": "669c9fb167df1ff4bf58cdf3"
+    },
+    "ReporterISO3": "AFG",
+    "ReporterName": "Afghanistan",
+    "PartnerISO3": "WLD",
+    "PartnerName": " World",
+    "Year": 2015,
+    "TradeFlowName": "Export"
+  },
+  {
+    "_id": {
+      "$oid": "669c9fb167df1ff4bf58cdf4"
+    },
+    "ReporterISO3": "AFG",
+    "ReporterName": "Afghanistan",
+    "PartnerISO3": "VNM",
+    "PartnerName": "Vietnam",
+    "Year": 2016,
+    "TradeFlowName": "Export"
+  },
+  {
+    "_id": {
+      "$oid": "669c9fb167df1ff4bf58cdf5"
+    },
+    "ReporterISO3": "AFG",
+    "ReporterName": "Afghanistan",
+    "PartnerISO3": "VNM",
+    "PartnerName": "Vietnam",
+    "Year": 2015,
+    "TradeFlowName": "Export"
+  },
+  {
+    "_id": {
+      "$oid": "669c9fb167df1ff4bf58cdf6"
+    },
+    "ReporterISO3": "AFG",
+    "ReporterName": "Afghanistan",
+    "PartnerISO3": "POL",
+    "PartnerName": "Poland",
+    "Year": 2016,
+    "TradeFlowName": "Export"
+  },
+  {
+    "_id": {
+      "$oid": "669c9fb167df1ff4bf58cdf7"
+    },
+    "ReporterISO3": "AFG",
+    "ReporterName": "Afghanistan",
+    "PartnerISO3": "PRT",
+    "PartnerName": "Portugal",
+    "Year": 2016,
+    "TradeFlowName": "Export"
+  },
+  {
+    "_id": {
+      "$oid": "669c9fb167df1ff4bf58cdf8"
+    },
+    "ReporterISO3": "AFG",
+    "ReporterName": "Afghanistan",
+    "PartnerISO3": "ROM",
+    "PartnerName": "Romania",
+    "Year": 2015,
+    "TradeFlowName": "Export"
+  },
+  {
+    "_id": {
+      "$oid": "669c9fb167df1ff4bf58cdf9"
+    },
+    "ReporterISO3": "AFG",
+    "ReporterName": "Afghanistan",
+    "PartnerISO3": "ROM",
+    "PartnerName": "Romania",
+    "Year": 2016,
+    "TradeFlowName": "Export"
+  },
+  {
+    "_id": {
+      "$oid": "669c9fb167df1ff4bf58cdfa"
+    },
+    "ReporterISO3": "AFG",
+    "ReporterName": "Afghanistan",
+    "PartnerISO3": "RUS",
+    "PartnerName": "Russian Federation",
+    "Year": 2015,
+    "TradeFlowName": "Export"
+  },
+  {
+    "_id": {
+      "$oid": "669c9fb167df1ff4bf58cdfb"
+    },
+    "ReporterISO3": "AFG",
+    "ReporterName": "Afghanistan",
+    "PartnerISO3": "RUS",
+    "PartnerName": "Russian Federation",
+    "Year": 2016,
+    "TradeFlowName": "Export"
+  },
+  {
+    "_id": {
+      "$oid": "669c9fb167df1ff4bf58cdfc"
+    },
+    "ReporterISO3": "AFG",
+    "ReporterName": "Afghanistan",
+    "PartnerISO3": "SAU",
+    "PartnerName": "Saudi Arabia",
+    "Year": 2015,
+    "TradeFlowName": "Export"
+  },
+  {
+    "_id": {
+      "$oid": "669c9fb167df1ff4bf58cdfd"
+    },
+    "ReporterISO3": "AFG",
+    "ReporterName": "Afghanistan",
+    "PartnerISO3": "SAU",
+    "PartnerName": "Saudi Arabia",
+    "Year": 2016,
+    "TradeFlowName": "Export"
+  },
+  {
+    "_id": {
+      "$oid": "669c9fb167df1ff4bf58cdfe"
+    },
+    "ReporterISO3": "AFG",
+    "ReporterName": "Afghanistan",
+    "PartnerISO3": "SGP",
+    "PartnerName": "Singapore",
+    "Year": 2015,
+    "TradeFlowName": "Export"
+  },
+  {
+    "_id": {
+      "$oid": "669c9fb167df1ff4bf58cdff"
+    },
+    "ReporterISO3": "AFG",
+    "ReporterName": "Afghanistan",
+    "PartnerISO3": "SGP",
+    "PartnerName": "Singapore",
+    "Year": 2016,
+    "TradeFlowName": "Export"
+  },
+  {
+    "_id": {
+      "$oid": "669c9fb167df1ff4bf58ce00"
+    },
+    "ReporterISO3": "AFG",
+    "ReporterName": "Afghanistan",
+    "PartnerISO3": "SVK",
+    "PartnerName": "Slovak Republic",
+    "Year": 2015,
+    "TradeFlowName": "Export"
+  },
+  {
+    "_id": {
+      "$oid": "669c9fb167df1ff4bf58ce01"
+    },
+    "ReporterISO3": "AFG",
+    "ReporterName": "Afghanistan",
+    "PartnerISO3": "SVK",
+    "PartnerName": "Slovak Republic",
+    "Year": 2016,
+    "TradeFlowName": "Export"
+  },
+  {
+    "_id": {
+      "$oid": "669c9fb167df1ff4bf58ce02"
+    },
+    "ReporterISO3": "AFG",
+    "ReporterName": "Afghanistan",
+    "PartnerISO3": "SWE",
+    "PartnerName": "Sweden",
+    "Year": 2015,
+    "TradeFlowName": "Export"
+  },
+  {
+    "_id": {
+      "$oid": "669c9fb167df1ff4bf58ce03"
+    },
+    "ReporterISO3": "AFG",
+    "ReporterName": "Afghanistan",
+    "PartnerISO3": "SWE",
+    "PartnerName": "Sweden",
+    "Year": 2016,
+    "TradeFlowName": "Export"
+  },
+  {
+    "_id": {
+      "$oid": "669c9fb167df1ff4bf58ce04"
+    },
+    "ReporterISO3": "AFG",
+    "ReporterName": "Afghanistan",
+    "PartnerISO3": "PAK",
+    "PartnerName": "Pakistan",
+    "Year": 2016,
+    "TradeFlowName": "Export"
+  },
+  {
+    "_id": {
+      "$oid": "669c9fb167df1ff4bf58ce05"
+    },
+    "ReporterISO3": "AFG",
+    "ReporterName": "Afghanistan",
+    "PartnerISO3": "THA",
+    "PartnerName": "Thailand",
+    "Year": 2015,
+    "TradeFlowName": "Export"
+  },
+  {
+    "_id": {
+      "$oid": "669c9fb167df1ff4bf58ce06"
+    },
+    "ReporterISO3": "AFG",
+    "ReporterName": "Afghanistan",
+    "PartnerISO3": "TJK",
+    "PartnerName": "Tajikistan",
+    "Year": 2015,
+    "TradeFlowName": "Export"
+  },
+  {
+    "_id": {
+      "$oid": "669c9fb167df1ff4bf58ce07"
+    },
+    "ReporterISO3": "AFG",
+    "ReporterName": "Afghanistan",
+    "PartnerISO3": "TJK",
+    "PartnerName": "Tajikistan",
+    "Year": 2016,
+    "TradeFlowName": "Export"
+  },
+  {
+    "_id": {
+      "$oid": "669c9fb167df1ff4bf58ce08"
+    },
+    "ReporterISO3": "AFG",
+    "ReporterName": "Afghanistan",
+    "PartnerISO3": "TKM",
+    "PartnerName": "Turkmenistan",
+    "Year": 2015,
+    "TradeFlowName": "Export"
+  },
+  {
+    "_id": {
+      "$oid": "669c9fb167df1ff4bf58ce09"
+    },
+    "ReporterISO3": "AFG",
+    "ReporterName": "Afghanistan",
+    "PartnerISO3": "TKM",
+    "PartnerName": "Turkmenistan",
+    "Year": 2016,
+    "TradeFlowName": "Export"
+  },
+  {
+    "_id": {
+      "$oid": "669c9fb167df1ff4bf58ce0a"
+    },
+    "ReporterISO3": "AFG",
+    "ReporterName": "Afghanistan",
+    "PartnerISO3": "TUR",
+    "PartnerName": "Turkey",
+    "Year": 2015,
+    "TradeFlowName": "Export"
+  },
+  {
+    "_id": {
+      "$oid": "669c9fb167df1ff4bf58ce0b"
+    },
+    "ReporterISO3": "AFG",
+    "ReporterName": "Afghanistan",
+    "PartnerISO3": "TUR",
+    "PartnerName": "Turkey",
+    "Year": 2016,
+    "TradeFlowName": "Export"
+  },
+  {
+    "_id": {
+      "$oid": "669c9fb167df1ff4bf58ce0c"
+    },
+    "ReporterISO3": "AFG",
+    "ReporterName": "Afghanistan",
+    "PartnerISO3": "UGA",
+    "PartnerName": "Uganda",
+    "Year": 2015,
+    "TradeFlowName": "Export"
+  },
+  {
+    "_id": {
+      "$oid": "669c9fb167df1ff4bf58ce0d"
+    },
+    "ReporterISO3": "AFG",
+    "ReporterName": "Afghanistan",
+    "PartnerISO3": "UKR",
+    "PartnerName": "Ukraine",
+    "Year": 2015,
+    "TradeFlowName": "Export"
+  },
+  {
+    "_id": {
+      "$oid": "669c9fb167df1ff4bf58ce0e"
+    },
+    "ReporterISO3": "AFG",
+    "ReporterName": "Afghanistan",
+    "PartnerISO3": "UKR",
+    "PartnerName": "Ukraine",
+    "Year": 2016,
+    "TradeFlowName": "Export"
+  },
+  {
+    "_id": {
+      "$oid": "669c9fb167df1ff4bf58ce0f"
+    },
+    "ReporterISO3": "AFG",
+    "ReporterName": "Afghanistan",
+    "PartnerISO3": "UNS",
+    "PartnerName": "Unspecified",
+    "Year": 2016,
+    "TradeFlowName": "Export"
+  },
+  {
+    "_id": {
+      "$oid": "669c9fb167df1ff4bf58ce10"
+    },
+    "ReporterISO3": "AFG",
+    "ReporterName": "Afghanistan",
+    "PartnerISO3": "USA",
+    "PartnerName": "United States",
+    "Year": 2015,
+    "TradeFlowName": "Export"
+  },
+  {
+    "_id": {
+      "$oid": "669c9fb167df1ff4bf58ce11"
+    },
+    "ReporterISO3": "AFG",
+    "ReporterName": "Afghanistan",
+    "PartnerISO3": "USA",
+    "PartnerName": "United States",
+    "Year": 2016,
+    "TradeFlowName": "Export"
+  },
+  {
+    "_id": {
+      "$oid": "669c9fb167df1ff4bf58ce12"
+    },
+    "ReporterISO3": "AFG",
+    "ReporterName": "Afghanistan",
+    "PartnerISO3": "UZB",
+    "PartnerName": "Uzbekistan",
+    "Year": 2015,
+    "TradeFlowName": "Export"
+  },
+  {
+    "_id": {
+      "$oid": "669c9fb167df1ff4bf58ce13"
+    },
+    "ReporterISO3": "AFG",
+    "ReporterName": "Afghanistan",
+    "PartnerISO3": "UZB",
+    "PartnerName": "Uzbekistan",
+    "Year": 2016,
+    "TradeFlowName": "Export"
+  },
+  {
+    "_id": {
+      "$oid": "669c9fb167df1ff4bf58ce14"
+    },
+    "ReporterISO3": "AFG",
+    "ReporterName": "Afghanistan",
+    "PartnerISO3": "THA",
+    "PartnerName": "Thailand",
+    "Year": 2016,
+    "TradeFlowName": "Export"
+  },
+  {
+    "_id": {
+      "$oid": "669c9fb167df1ff4bf58ce15"
+    },
+    "ReporterISO3": "AFG",
+    "ReporterName": "Afghanistan",
+    "PartnerISO3": "HKG",
+    "PartnerName": "Hong Kong, China",
+    "Year": 2008,
+    "TradeFlowName": "Export"
+  },
+  {
+    "_id": {
+      "$oid": "669c9fb167df1ff4bf58ce16"
+    },
+    "ReporterISO3": "AFG",
+    "ReporterName": "Afghanistan",
+    "PartnerISO3": "TUR",
+    "PartnerName": "Turkey",
+    "Year": 2008,
+    "TradeFlowName": "Export"
+  },
+  {
+    "_id": {
+      "$oid": "669c9fb167df1ff4bf58ce17"
+    },
+    "ReporterISO3": "AFG",
+    "ReporterName": "Afghanistan",
+    "PartnerISO3": "GBR",
+    "PartnerName": "United Kingdom",
+    "Year": 2008,
+    "TradeFlowName": "Export"
+  },
+  {
+    "_id": {
+      "$oid": "669c9fb167df1ff4bf58ce18"
+    },
+    "ReporterISO3": "AFG",
+    "ReporterName": "Afghanistan",
+    "PartnerISO3": "CAF",
+    "PartnerName": "Central African Republic",
+    "Year": 2019,
+    "TradeFlowName": "Export"
+  },
+  {
+    "_id": {
+      "$oid": "669c9fb167df1ff4bf58ce19"
+    },
+    "ReporterISO3": "AFG",
+    "ReporterName": "Afghanistan",
+    "PartnerISO3": "CAN",
+    "PartnerName": "Canada",
+    "Year": 2019,
+    "TradeFlowName": "Export"
+  },
+  {
+    "_id": {
+      "$oid": "669c9fb167df1ff4bf58ce1a"
+    },
+    "ReporterISO3": "AFG",
+    "ReporterName": "Afghanistan",
+    "PartnerISO3": "CHE",
+    "PartnerName": "Switzerland",
+    "Year": 2019,
+    "TradeFlowName": "Export"
+  },
+  {
+    "_id": {
+      "$oid": "669c9fb167df1ff4bf58ce1b"
+    },
+    "ReporterISO3": "AFG",
+    "ReporterName": "Afghanistan",
+    "PartnerISO3": "CHN",
+    "PartnerName": "China",
+    "Year": 2019,
+    "TradeFlowName": "Export"
+  },
+  {
+    "_id": {
+      "$oid": "669c9fb167df1ff4bf58ce1c"
+    },
+    "ReporterISO3": "AFG",
+    "ReporterName": "Afghanistan",
+    "PartnerISO3": "CZE",
+    "PartnerName": "Czech Republic",
+    "Year": 2019,
+    "TradeFlowName": "Export"
+  },
+  {
+    "_id": {
+      "$oid": "669c9fb167df1ff4bf58ce1d"
+    },
+    "ReporterISO3": "AFG",
+    "ReporterName": "Afghanistan",
+    "PartnerISO3": "DEU",
+    "PartnerName": "Germany",
+    "Year": 2019,
+    "TradeFlowName": "Export"
+  },
+  {
+    "_id": {
+      "$oid": "669c9fb167df1ff4bf58ce1e"
+    },
+    "ReporterISO3": "AFG",
+    "ReporterName": "Afghanistan",
+    "PartnerISO3": "DNK",
+    "PartnerName": "Denmark",
+    "Year": 2019,
+    "TradeFlowName": "Export"
+  },
+  {
+    "_id": {
+      "$oid": "669c9fb167df1ff4bf58ce1f"
+    },
+    "ReporterISO3": "AFG",
+    "ReporterName": "Afghanistan",
+    "PartnerISO3": "EGY",
+    "PartnerName": "Egypt, Arab Rep.",
+    "Year": 2019,
+    "TradeFlowName": "Export"
+  },
+  {
+    "_id": {
+      "$oid": "669c9fb167df1ff4bf58ce20"
+    },
+    "ReporterISO3": "AFG",
+    "ReporterName": "Afghanistan",
+    "PartnerISO3": "ESP",
+    "PartnerName": "Spain",
+    "Year": 2019,
+    "TradeFlowName": "Export"
+  },
+  {
+    "_id": {
+      "$oid": "669c9fb167df1ff4bf58ce21"
+    },
+    "ReporterISO3": "AFG",
+    "ReporterName": "Afghanistan",
+    "PartnerISO3": "FIN",
+    "PartnerName": "Finland",
+    "Year": 2019,
+    "TradeFlowName": "Export"
+  },
+  {
+    "_id": {
+      "$oid": "669c9fb167df1ff4bf58ce22"
+    },
+    "ReporterISO3": "AFG",
+    "ReporterName": "Afghanistan",
+    "PartnerISO3": "FRA",
+    "PartnerName": "France",
+    "Year": 2019,
+    "TradeFlowName": "Export"
+  },
+  {
+    "_id": {
+      "$oid": "669c9fb167df1ff4bf58ce23"
+    },
+    "ReporterISO3": "AFG",
+    "ReporterName": "Afghanistan",
+    "PartnerISO3": "GBR",
+    "PartnerName": "United Kingdom",
+    "Year": 2019,
+    "TradeFlowName": "Export"
+  },
+  {
+    "_id": {
+      "$oid": "669c9fb167df1ff4bf58ce24"
+    },
+    "ReporterISO3": "AFG",
+    "ReporterName": "Afghanistan",
+    "PartnerISO3": "GEO",
+    "PartnerName": "Georgia",
+    "Year": 2019,
+    "TradeFlowName": "Export"
+  },
+  {
+    "_id": {
+      "$oid": "669c9fb167df1ff4bf58ce25"
+    },
+    "ReporterISO3": "AFG",
+    "ReporterName": "Afghanistan",
+    "PartnerISO3": "HKG",
+    "PartnerName": "Hong Kong, China",
+    "Year": 2019,
+    "TradeFlowName": "Export"
+  },
+  {
+    "_id": {
+      "$oid": "669c9fb167df1ff4bf58ce26"
+    },
+    "ReporterISO3": "AFG",
+    "ReporterName": "Afghanistan",
+    "PartnerISO3": "BLR",
+    "PartnerName": "Belarus",
+    "Year": 2019,
+    "TradeFlowName": "Export"
+  },
+  {
+    "_id": {
+      "$oid": "669c9fb167df1ff4bf58ce27"
+    },
+    "ReporterISO3": "AFG",
+    "ReporterName": "Afghanistan",
+    "PartnerISO3": "IDN",
+    "PartnerName": "Indonesia",
+    "Year": 2019,
+    "TradeFlowName": "Export"
+  },
+  {
+    "_id": {
+      "$oid": "669c9fb167df1ff4bf58ce28"
+    },
+    "ReporterISO3": "AFG",
+    "ReporterName": "Afghanistan",
+    "PartnerISO3": "IRN",
+    "PartnerName": "Iran, Islamic Rep.",
+    "Year": 2019,
+    "TradeFlowName": "Export"
+  },
+  {
+    "_id": {
+      "$oid": "669c9fb167df1ff4bf58ce29"
+    },
+    "ReporterISO3": "AFG",
+    "ReporterName": "Afghanistan",
+    "PartnerISO3": "IRQ",
+    "PartnerName": "Iraq",
+    "Year": 2019,
+    "TradeFlowName": "Export"
+  },
+  {
+    "_id": {
+      "$oid": "669c9fb167df1ff4bf58ce2a"
+    },
+    "ReporterISO3": "AFG",
+    "ReporterName": "Afghanistan",
+    "PartnerISO3": "ITA",
+    "PartnerName": "Italy",
+    "Year": 2019,
+    "TradeFlowName": "Export"
+  },
+  {
+    "_id": {
+      "$oid": "669c9fb167df1ff4bf58ce2b"
+    },
+    "ReporterISO3": "AFG",
+    "ReporterName": "Afghanistan",
+    "PartnerISO3": "JOR",
+    "PartnerName": "Jordan",
+    "Year": 2019,
+    "TradeFlowName": "Export"
+  },
+  {
+    "_id": {
+      "$oid": "669c9fb167df1ff4bf58ce2c"
+    },
+    "ReporterISO3": "AFG",
+    "ReporterName": "Afghanistan",
+    "PartnerISO3": "JPN",
+    "PartnerName": "Japan",
+    "Year": 2019,
+    "TradeFlowName": "Export"
+  },
+  {
+    "_id": {
+      "$oid": "669c9fb167df1ff4bf58ce2d"
+    },
+    "ReporterISO3": "AFG",
+    "ReporterName": "Afghanistan",
+    "PartnerISO3": "KAZ",
+    "PartnerName": "Kazakhstan",
+    "Year": 2019,
+    "TradeFlowName": "Export"
+  },
+  {
+    "_id": {
+      "$oid": "669c9fb167df1ff4bf58ce2e"
+    },
+    "ReporterISO3": "AFG",
+    "ReporterName": "Afghanistan",
+    "PartnerISO3": "KGZ",
+    "PartnerName": "Kyrgyz Republic",
+    "Year": 2019,
+    "TradeFlowName": "Export"
+  },
+  {
+    "_id": {
+      "$oid": "669c9fb167df1ff4bf58ce2f"
+    },
+    "ReporterISO3": "AFG",
+    "ReporterName": "Afghanistan",
+    "PartnerISO3": "KOR",
+    "PartnerName": "Korea, Rep.",
+    "Year": 2019,
+    "TradeFlowName": "Export"
+  },
+  {
+    "_id": {
+      "$oid": "669c9fb167df1ff4bf58ce30"
+    },
+    "ReporterISO3": "AFG",
+    "ReporterName": "Afghanistan",
+    "PartnerISO3": "KWT",
+    "PartnerName": "Kuwait",
+    "Year": 2019,
+    "TradeFlowName": "Export"
+  },
+  {
+    "_id": {
+      "$oid": "669c9fb167df1ff4bf58ce31"
+    },
+    "ReporterISO3": "AFG",
+    "ReporterName": "Afghanistan",
+    "PartnerISO3": "LBN",
+    "PartnerName": "Lebanon",
+    "Year": 2019,
+    "TradeFlowName": "Export"
+  },
+  {
+    "_id": {
+      "$oid": "669c9fb167df1ff4bf58ce32"
+    },
+    "ReporterISO3": "AFG",
+    "ReporterName": "Afghanistan",
+    "PartnerISO3": "LTU",
+    "PartnerName": "Lithuania",
+    "Year": 2019,
+    "TradeFlowName": "Export"
+  },
+  {
+    "_id": {
+      "$oid": "669c9fb167df1ff4bf58ce33"
+    },
+    "ReporterISO3": "AFG",
+    "ReporterName": "Afghanistan",
+    "PartnerISO3": "LVA",
+    "PartnerName": "Latvia",
+    "Year": 2019,
+    "TradeFlowName": "Export"
+  },
+  {
+    "_id": {
+      "$oid": "669c9fb167df1ff4bf58ce34"
+    },
+    "ReporterISO3": "AFG",
+    "ReporterName": "Afghanistan",
+    "PartnerISO3": "MAR",
+    "PartnerName": "Morocco",
+    "Year": 2019,
+    "TradeFlowName": "Export"
+  },
+  {
+    "_id": {
+      "$oid": "669c9fb167df1ff4bf58ce35"
+    },
+    "ReporterISO3": "AFG",
+    "ReporterName": "Afghanistan",
+    "PartnerISO3": "MMR",
+    "PartnerName": "Myanmar",
+    "Year": 2019,
+    "TradeFlowName": "Export"
+  },
+  {
+    "_id": {
+      "$oid": "669c9fb167df1ff4bf58ce36"
+    },
+    "ReporterISO3": "AFG",
+    "ReporterName": "Afghanistan",
+    "PartnerISO3": "IND",
+    "PartnerName": "India",
+    "Year": 2019,
+    "TradeFlowName": "Export"
+  },
+  {
+    "_id": {
+      "$oid": "669c9fb167df1ff4bf58ce37"
+    },
+    "ReporterISO3": "AFG",
+    "ReporterName": "Afghanistan",
+    "PartnerISO3": "BHR",
+    "PartnerName": "Bahrain",
+    "Year": 2019,
+    "TradeFlowName": "Export"
+  },
+  {
+    "_id": {
+      "$oid": "669c9fb167df1ff4bf58ce38"
+    },
+    "ReporterISO3": "AFG",
+    "ReporterName": "Afghanistan",
+    "PartnerISO3": "BGD",
+    "PartnerName": "Bangladesh",
+    "Year": 2019,
+    "TradeFlowName": "Export"
+  },
+  {
+    "_id": {
+      "$oid": "669c9fb167df1ff4bf58ce39"
+    },
+    "ReporterISO3": "AFG",
+    "ReporterName": "Afghanistan",
+    "PartnerISO3": "BEL",
+    "PartnerName": "Belgium",
+    "Year": 2019,
+    "TradeFlowName": "Export"
+  },
+  {
+    "_id": {
+      "$oid": "669c9fb167df1ff4bf58ce3a"
+    },
+    "ReporterISO3": "AFG",
+    "ReporterName": "Afghanistan",
+    "PartnerISO3": "IRN",
+    "PartnerName": "Iran, Islamic Rep.",
+    "Year": 2011,
+    "TradeFlowName": "Export"
+  },
+  {
+    "_id": {
+      "$oid": "669c9fb167df1ff4bf58ce3b"
+    },
+    "ReporterISO3": "AFG",
+    "ReporterName": "Afghanistan",
+    "PartnerISO3": "IRQ",
+    "PartnerName": "Iraq",
+    "Year": 2009,
+    "TradeFlowName": "Export"
+  },
+  {
+    "_id": {
+      "$oid": "669c9fb167df1ff4bf58ce3c"
+    },
+    "ReporterISO3": "AFG",
+    "ReporterName": "Afghanistan",
+    "PartnerISO3": "IRQ",
+    "PartnerName": "Iraq",
+    "Year": 2010,
+    "TradeFlowName": "Export"
+  },
+  {
+    "_id": {
+      "$oid": "669c9fb167df1ff4bf58ce3d"
+    },
+    "ReporterISO3": "AFG",
+    "ReporterName": "Afghanistan",
+    "PartnerISO3": "IRQ",
+    "PartnerName": "Iraq",
+    "Year": 2011,
+    "TradeFlowName": "Export"
+  },
+  {
+    "_id": {
+      "$oid": "669c9fb167df1ff4bf58ce3e"
+    },
+    "ReporterISO3": "AFG",
+    "ReporterName": "Afghanistan",
+    "PartnerISO3": "ITA",
+    "PartnerName": "Italy",
+    "Year": 2009,
+    "TradeFlowName": "Export"
+  },
+  {
+    "_id": {
+      "$oid": "669c9fb167df1ff4bf58ce3f"
+    },
+    "ReporterISO3": "AFG",
+    "ReporterName": "Afghanistan",
+    "PartnerISO3": "ITA",
+    "PartnerName": "Italy",
+    "Year": 2010,
+    "TradeFlowName": "Export"
+  },
+  {
+    "_id": {
+      "$oid": "669c9fb167df1ff4bf58ce40"
+    },
+    "ReporterISO3": "AFG",
+    "ReporterName": "Afghanistan",
+    "PartnerISO3": "ITA",
+    "PartnerName": "Italy",
+    "Year": 2011,
+    "TradeFlowName": "Export"
+  },
+  {
+    "_id": {
+      "$oid": "669c9fb167df1ff4bf58ce41"
+    },
+    "ReporterISO3": "AFG",
+    "ReporterName": "Afghanistan",
+    "PartnerISO3": "JOR",
+    "PartnerName": "Jordan",
+    "Year": 2010,
+    "TradeFlowName": "Export"
+  },
+  {
+    "_id": {
+      "$oid": "669c9fb167df1ff4bf58ce42"
+    },
+    "ReporterISO3": "AFG",
+    "ReporterName": "Afghanistan",
+    "PartnerISO3": "JPN",
+    "PartnerName": "Japan",
+    "Year": 2009,
+    "TradeFlowName": "Export"
+  },
+  {
+    "_id": {
+      "$oid": "669c9fb167df1ff4bf58ce43"
+    },
+    "ReporterISO3": "AFG",
+    "ReporterName": "Afghanistan",
+    "PartnerISO3": "JPN",
+    "PartnerName": "Japan",
+    "Year": 2010,
+    "TradeFlowName": "Export"
+  },
+  {
+    "_id": {
+      "$oid": "669c9fb167df1ff4bf58ce44"
+    },
+    "ReporterISO3": "AFG",
+    "ReporterName": "Afghanistan",
+    "PartnerISO3": "GRC",
+    "PartnerName": "Greece",
+    "Year": 2008,
+    "TradeFlowName": "Export"
+  },
+  {
+    "_id": {
+      "$oid": "669c9fb167df1ff4bf58ce45"
+    },
+    "ReporterISO3": "AFG",
+    "ReporterName": "Afghanistan",
+    "PartnerISO3": "KAZ",
+    "PartnerName": "Kazakhstan",
+    "Year": 2009,
+    "TradeFlowName": "Export"
+  },
+  {
+    "_id": {
+      "$oid": "669c9fb167df1ff4bf58ce46"
+    },
+    "ReporterISO3": "AFG",
+    "ReporterName": "Afghanistan",
+    "PartnerISO3": "KAZ",
+    "PartnerName": "Kazakhstan",
+    "Year": 2010,
+    "TradeFlowName": "Export"
+  },
+  {
+    "_id": {
+      "$oid": "669c9fb167df1ff4bf58ce47"
+    },
+    "ReporterISO3": "AFG",
+    "ReporterName": "Afghanistan",
+    "PartnerISO3": "KAZ",
+    "PartnerName": "Kazakhstan",
+    "Year": 2011,
+    "TradeFlowName": "Export"
+  },
+  {
+    "_id": {
+      "$oid": "669c9fb167df1ff4bf58ce48"
+    },
+    "ReporterISO3": "AFG",
+    "ReporterName": "Afghanistan",
+    "PartnerISO3": "KGZ",
+    "PartnerName": "Kyrgyz Republic",
+    "Year": 2009,
+    "TradeFlowName": "Export"
+  },
+  {
+    "_id": {
+      "$oid": "669c9fb167df1ff4bf58ce49"
+    },
+    "ReporterISO3": "AFG",
+    "ReporterName": "Afghanistan",
+    "PartnerISO3": "KGZ",
+    "PartnerName": "Kyrgyz Republic",
+    "Year": 2011,
+    "TradeFlowName": "Export"
+  },
+  {
+    "_id": {
+      "$oid": "669c9fb167df1ff4bf58ce4a"
+    },
+    "ReporterISO3": "AFG",
+    "ReporterName": "Afghanistan",
+    "PartnerISO3": "KOR",
+    "PartnerName": "Korea, Rep.",
+    "Year": 2009,
+    "TradeFlowName": "Export"
+  },
+  {
+    "_id": {
+      "$oid": "669c9fb167df1ff4bf58ce4b"
+    },
+    "ReporterISO3": "AFG",
+    "ReporterName": "Afghanistan",
+    "PartnerISO3": "AZE",
+    "PartnerName": "Azerbaijan",
+    "Year": 2019,
+    "TradeFlowName": "Export"
+  },
+  {
+    "_id": {
+      "$oid": "669c9fb167df1ff4bf58ce4c"
+    },
+    "ReporterISO3": "AFG",
+    "ReporterName": "Afghanistan",
+    "PartnerISO3": "AUT",
+    "PartnerName": "Austria",
+    "Year": 2019,
+    "TradeFlowName": "Export"
+  },
+  {
+    "_id": {
+      "$oid": "669c9fb167df1ff4bf58ce4d"
+    },
+    "ReporterISO3": "AFG",
+    "ReporterName": "Afghanistan",
+    "PartnerISO3": "AUS",
+    "PartnerName": "Australia",
+    "Year": 2019,
+    "TradeFlowName": "Export"
+  },
+  {
+    "_id": {
+      "$oid": "669c9fb167df1ff4bf58ce4e"
+    },
+    "ReporterISO3": "AFG",
+    "ReporterName": "Afghanistan",
+    "PartnerISO3": "ARE",
+    "PartnerName": "United Arab Emirates",
+    "Year": 2019,
+    "TradeFlowName": "Export"
+  },
+  {
+    "_id": {
+      "$oid": "669c9fb167df1ff4bf58ce4f"
+    },
+    "ReporterISO3": "AFG",
+    "ReporterName": "Afghanistan",
+    "PartnerISO3": "NZL",
+    "PartnerName": "New Zealand",
+    "Year": 2010,
+    "TradeFlowName": "Export"
+  },
+  {
+    "_id": {
+      "$oid": "669c9fb167df1ff4bf58ce50"
+    },
+    "ReporterISO3": "AFG",
+    "ReporterName": "Afghanistan",
+    "PartnerISO3": "NOR",
+    "PartnerName": "Norway",
+    "Year": 2010,
+    "TradeFlowName": "Export"
+  },
+  {
+    "_id": {
+      "$oid": "669c9fb167df1ff4bf58ce51"
+    },
+    "ReporterISO3": "AFG",
+    "ReporterName": "Afghanistan",
+    "PartnerISO3": "MYS",
+    "PartnerName": "Malaysia",
+    "Year": 2019,
+    "TradeFlowName": "Export"
+  },
+  {
+    "_id": {
+      "$oid": "669c9fb167df1ff4bf58ce52"
+    },
+    "ReporterISO3": "AFG",
+    "ReporterName": "Afghanistan",
+    "PartnerISO3": "NLD",
+    "PartnerName": "Netherlands",
+    "Year": 2011,
+    "TradeFlowName": "Export"
+  },
+  {
+    "_id": {
+      "$oid": "669c9fb167df1ff4bf58ce53"
+    },
+    "ReporterISO3": "AFG",
+    "ReporterName": "Afghanistan",
+    "PartnerISO3": "NLD",
+    "PartnerName": "Netherlands",
+    "Year": 2009,
+    "TradeFlowName": "Export"
+  },
+  {
+    "_id": {
+      "$oid": "669c9fb167df1ff4bf58ce54"
+    },
+    "ReporterISO3": "AFG",
+    "ReporterName": "Afghanistan",
+    "PartnerISO3": "LVA",
+    "PartnerName": "Latvia",
+    "Year": 2011,
+    "TradeFlowName": "Export"
+  },
+  {
+    "_id": {
+      "$oid": "669c9fb167df1ff4bf58ce55"
+    },
+    "ReporterISO3": "AFG",
+    "ReporterName": "Afghanistan",
+    "PartnerISO3": "LVA",
+    "PartnerName": "Latvia",
+    "Year": 2010,
+    "TradeFlowName": "Export"
+  },
+  {
+    "_id": {
+      "$oid": "669c9fb167df1ff4bf58ce56"
+    },
+    "ReporterISO3": "AFG",
+    "ReporterName": "Afghanistan",
+    "PartnerISO3": "LVA",
+    "PartnerName": "Latvia",
+    "Year": 2009,
+    "TradeFlowName": "Export"
+  },
+  {
+    "_id": {
+      "$oid": "669c9fb167df1ff4bf58ce57"
+    },
+    "ReporterISO3": "AFG",
+    "ReporterName": "Afghanistan",
+    "PartnerISO3": "LBN",
+    "PartnerName": "Lebanon",
+    "Year": 2009,
+    "TradeFlowName": "Export"
+  },
+  {
+    "_id": {
+      "$oid": "669c9fb167df1ff4bf58ce58"
+    },
+    "ReporterISO3": "AFG",
+    "ReporterName": "Afghanistan",
+    "PartnerISO3": "KOR",
+    "PartnerName": "Korea, Rep.",
+    "Year": 2010,
+    "TradeFlowName": "Export"
+  },
+  {
+    "_id": {
+      "$oid": "669c9fb167df1ff4bf58ce59"
+    },
+    "ReporterISO3": "AFG",
+    "ReporterName": "Afghanistan",
+    "PartnerISO3": "NLD",
+    "PartnerName": "Netherlands",
+    "Year": 2010,
+    "TradeFlowName": "Export"
+  },
+  {
+    "_id": {
+      "$oid": "669c9fb167df1ff4bf58ce5a"
+    },
+    "ReporterISO3": "AFG",
+    "ReporterName": "Afghanistan",
+    "PartnerISO3": "IRN",
+    "PartnerName": "Iran, Islamic Rep.",
+    "Year": 2010,
+    "TradeFlowName": "Export"
+  },
+  {
+    "_id": {
+      "$oid": "669c9fb167df1ff4bf58ce5b"
+    },
+    "ReporterISO3": "AFG",
+    "ReporterName": "Afghanistan",
+    "PartnerISO3": "NAM",
+    "PartnerName": "Namibia",
+    "Year": 2019,
+    "TradeFlowName": "Export"
+  },
+  {
+    "_id": {
+      "$oid": "669c9fb167df1ff4bf58ce5c"
+    },
+    "ReporterISO3": "AFG",
+    "ReporterName": "Afghanistan",
+    "PartnerISO3": "NOR",
+    "PartnerName": "Norway",
+    "Year": 2019,
+    "TradeFlowName": "Export"
+  },
+  {
+    "_id": {
+      "$oid": "669c9fb167df1ff4bf58ce5d"
+    },
+    "ReporterISO3": "AFG",
+    "ReporterName": "Afghanistan",
+    "PartnerISO3": "SAU",
+    "PartnerName": "Saudi Arabia",
+    "Year": 2010,
+    "TradeFlowName": "Export"
+  },
+  {
+    "_id": {
+      "$oid": "669c9fb167df1ff4bf58ce5e"
+    },
+    "ReporterISO3": "AFG",
+    "ReporterName": "Afghanistan",
+    "PartnerISO3": "SAU",
+    "PartnerName": "Saudi Arabia",
+    "Year": 2011,
+    "TradeFlowName": "Export"
+  },
+  {
+    "_id": {
+      "$oid": "669c9fb167df1ff4bf58ce5f"
+    },
+    "ReporterISO3": "AFG",
+    "ReporterName": "Afghanistan",
+    "PartnerISO3": "SVK",
+    "PartnerName": "Slovak Republic",
+    "Year": 2009,
+    "TradeFlowName": "Export"
+  },
+  {
+    "_id": {
+      "$oid": "669c9fb167df1ff4bf58ce60"
+    },
+    "ReporterISO3": "AFG",
+    "ReporterName": "Afghanistan",
+    "PartnerISO3": "SWE",
+    "PartnerName": "Sweden",
+    "Year": 2010,
+    "TradeFlowName": "Export"
+  },
+  {
+    "_id": {
+      "$oid": "669c9fb167df1ff4bf58ce61"
+    },
+    "ReporterISO3": "AFG",
+    "ReporterName": "Afghanistan",
+    "PartnerISO3": "SWE",
+    "PartnerName": "Sweden",
+    "Year": 2011,
+    "TradeFlowName": "Export"
+  },
+  {
+    "_id": {
+      "$oid": "669c9fb167df1ff4bf58ce62"
+    },
+    "ReporterISO3": "AFG",
+    "ReporterName": "Afghanistan",
+    "PartnerISO3": "SWZ",
+    "PartnerName": "Eswatini",
+    "Year": 2009,
+    "TradeFlowName": "Export"
+  },
+  {
+    "_id": {
+      "$oid": "669c9fb167df1ff4bf58ce63"
+    },
+    "ReporterISO3": "AFG",
+    "ReporterName": "Afghanistan",
+    "PartnerISO3": "SYR",
+    "PartnerName": "Syrian Arab Republic",
+    "Year": 2009,
+    "TradeFlowName": "Export"
+  },
+  {
+    "_id": {
+      "$oid": "669c9fb167df1ff4bf58ce64"
+    },
+    "ReporterISO3": "AFG",
+    "ReporterName": "Afghanistan",
+    "PartnerISO3": "SYR",
+    "PartnerName": "Syrian Arab Republic",
+    "Year": 2010,
+    "TradeFlowName": "Export"
+  },
+  {
+    "_id": {
+      "$oid": "669c9fb167df1ff4bf58ce65"
+    },
+    "ReporterISO3": "AFG",
+    "ReporterName": "Afghanistan",
+    "PartnerISO3": "TJK",
+    "PartnerName": "Tajikistan",
+    "Year": 2009,
+    "TradeFlowName": "Export"
+  },
+  {
+    "_id": {
+      "$oid": "669c9fb167df1ff4bf58ce66"
+    },
+    "ReporterISO3": "AFG",
+    "ReporterName": "Afghanistan",
+    "PartnerISO3": "TJK",
+    "PartnerName": "Tajikistan",
+    "Year": 2010,
+    "TradeFlowName": "Export"
+  },
+  {
+    "_id": {
+      "$oid": "669c9fb167df1ff4bf58ce67"
+    },
+    "ReporterISO3": "AFG",
+    "ReporterName": "Afghanistan",
+    "PartnerISO3": "TJK",
+    "PartnerName": "Tajikistan",
+    "Year": 2011,
+    "TradeFlowName": "Export"
+  },
+  {
+    "_id": {
+      "$oid": "669c9fb167df1ff4bf58ce68"
+    },
+    "ReporterISO3": "AFG",
+    "ReporterName": "Afghanistan",
+    "PartnerISO3": "TKM",
+    "PartnerName": "Turkmenistan",
+    "Year": 2009,
+    "TradeFlowName": "Export"
+  },
+  {
+    "_id": {
+      "$oid": "669c9fb167df1ff4bf58ce69"
+    },
+    "ReporterISO3": "AFG",
+    "ReporterName": "Afghanistan",
+    "PartnerISO3": "TKM",
+    "PartnerName": "Turkmenistan",
+    "Year": 2010,
+    "TradeFlowName": "Export"
+  },
+  {
+    "_id": {
+      "$oid": "669c9fb167df1ff4bf58ce6a"
+    },
+    "ReporterISO3": "AFG",
+    "ReporterName": "Afghanistan",
+    "PartnerISO3": "TKM",
+    "PartnerName": "Turkmenistan",
+    "Year": 2011,
+    "TradeFlowName": "Export"
+  },
+  {
+    "_id": {
+      "$oid": "669c9fb167df1ff4bf58ce6b"
+    },
+    "ReporterISO3": "AFG",
+    "ReporterName": "Afghanistan",
+    "PartnerISO3": "SAU",
+    "PartnerName": "Saudi Arabia",
+    "Year": 2009,
+    "TradeFlowName": "Export"
+  },
+  {
+    "_id": {
+      "$oid": "669c9fb167df1ff4bf58ce6c"
+    },
+    "ReporterISO3": "AFG",
+    "ReporterName": "Afghanistan",
+    "PartnerISO3": "TUR",
+    "PartnerName": "Turkey",
+    "Year": 2009,
+    "TradeFlowName": "Export"
+  },
+  {
+    "_id": {
+      "$oid": "669c9fb167df1ff4bf58ce6d"
+    },
+    "ReporterISO3": "AFG",
+    "ReporterName": "Afghanistan",
+    "PartnerISO3": "TUR",
+    "PartnerName": "Turkey",
+    "Year": 2011,
+    "TradeFlowName": "Export"
+  },
+  {
+    "_id": {
+      "$oid": "669c9fb167df1ff4bf58ce6e"
+    },
+    "ReporterISO3": "AFG",
+    "ReporterName": "Afghanistan",
+    "PartnerISO3": "UKR",
+    "PartnerName": "Ukraine",
+    "Year": 2009,
+    "TradeFlowName": "Export"
+  },
+  {
+    "_id": {
+      "$oid": "669c9fb167df1ff4bf58ce6f"
+    },
+    "ReporterISO3": "AFG",
+    "ReporterName": "Afghanistan",
+    "PartnerISO3": "UKR",
+    "PartnerName": "Ukraine",
+    "Year": 2010,
+    "TradeFlowName": "Export"
+  },
+  {
+    "_id": {
+      "$oid": "669c9fb167df1ff4bf58ce70"
+    },
+    "ReporterISO3": "AFG",
+    "ReporterName": "Afghanistan",
+    "PartnerISO3": "UKR",
+    "PartnerName": "Ukraine",
+    "Year": 2011,
+    "TradeFlowName": "Export"
+  },
+  {
+    "_id": {
+      "$oid": "669c9fb167df1ff4bf58ce71"
+    },
+    "ReporterISO3": "AFG",
+    "ReporterName": "Afghanistan",
+    "PartnerISO3": "USA",
+    "PartnerName": "United States",
+    "Year": 2009,
+    "TradeFlowName": "Export"
+  },
+  {
+    "_id": {
+      "$oid": "669c9fb167df1ff4bf58ce72"
+    },
+    "ReporterISO3": "AFG",
+    "ReporterName": "Afghanistan",
+    "PartnerISO3": "USA",
+    "PartnerName": "United States",
+    "Year": 2010,
+    "TradeFlowName": "Export"
+  },
+  {
+    "_id": {
+      "$oid": "669c9fb167df1ff4bf58ce73"
+    },
+    "ReporterISO3": "AFG",
+    "ReporterName": "Afghanistan",
+    "PartnerISO3": "USA",
+    "PartnerName": "United States",
+    "Year": 2011,
+    "TradeFlowName": "Export"
+  },
+  {
+    "_id": {
+      "$oid": "669c9fb167df1ff4bf58ce74"
+    },
+    "ReporterISO3": "AFG",
+    "ReporterName": "Afghanistan",
+    "PartnerISO3": "UZB",
+    "PartnerName": "Uzbekistan",
+    "Year": 2009,
+    "TradeFlowName": "Export"
+  },
+  {
+    "_id": {
+      "$oid": "669c9fb167df1ff4bf58ce75"
+    },
+    "ReporterISO3": "AFG",
+    "ReporterName": "Afghanistan",
+    "PartnerISO3": "UZB",
+    "PartnerName": "Uzbekistan",
+    "Year": 2010,
+    "TradeFlowName": "Export"
+  },
+  {
+    "_id": {
+      "$oid": "669c9fb167df1ff4bf58ce76"
+    },
+    "ReporterISO3": "AFG",
+    "ReporterName": "Afghanistan",
+    "PartnerISO3": "UZB",
+    "PartnerName": "Uzbekistan",
+    "Year": 2011,
+    "TradeFlowName": "Export"
+  },
+  {
+    "_id": {
+      "$oid": "669c9fb167df1ff4bf58ce77"
+    },
+    "ReporterISO3": "AFG",
+    "ReporterName": "Afghanistan",
+    "PartnerISO3": "WLD",
+    "PartnerName": " World",
+    "Year": 2009,
+    "TradeFlowName": "Export"
+  },
+  {
+    "_id": {
+      "$oid": "669c9fb167df1ff4bf58ce78"
+    },
+    "ReporterISO3": "AFG",
+    "ReporterName": "Afghanistan",
+    "PartnerISO3": "WLD",
+    "PartnerName": " World",
+    "Year": 2010,
+    "TradeFlowName": "Export"
+  },
+  {
+    "_id": {
+      "$oid": "669c9fb167df1ff4bf58ce79"
+    },
+    "ReporterISO3": "AFG",
+    "ReporterName": "Afghanistan",
+    "PartnerISO3": "WLD",
+    "PartnerName": " World",
+    "Year": 2011,
+    "TradeFlowName": "Export"
+  },
+  {
+    "_id": {
+      "$oid": "669c9fb167df1ff4bf58ce7a"
+    },
+    "ReporterISO3": "AFG",
+    "ReporterName": "Afghanistan",
+    "PartnerISO3": "YEM",
+    "PartnerName": "Yemen",
+    "Year": 2011,
+    "TradeFlowName": "Export"
+  },
+  {
+    "_id": {
+      "$oid": "669c9fb167df1ff4bf58ce7b"
+    },
+    "ReporterISO3": "AFG",
+    "ReporterName": "Afghanistan",
+    "PartnerISO3": "TUR",
+    "PartnerName": "Turkey",
+    "Year": 2010,
+    "TradeFlowName": "Export"
+  },
+  {
+    "_id": {
+      "$oid": "669c9fb167df1ff4bf58ce7c"
+    },
+    "ReporterISO3": "AFG",
+    "ReporterName": "Afghanistan",
+    "PartnerISO3": "RUS",
+    "PartnerName": "Russian Federation",
+    "Year": 2011,
+    "TradeFlowName": "Export"
+  },
+  {
+    "_id": {
+      "$oid": "669c9fb167df1ff4bf58ce7d"
+    },
+    "ReporterISO3": "AFG",
+    "ReporterName": "Afghanistan",
+    "PartnerISO3": "RUS",
+    "PartnerName": "Russian Federation",
+    "Year": 2010,
+    "TradeFlowName": "Export"
+  },
+  {
+    "_id": {
+      "$oid": "669c9fb167df1ff4bf58ce7e"
+    },
+    "ReporterISO3": "AFG",
+    "ReporterName": "Afghanistan",
+    "PartnerISO3": "RUS",
+    "PartnerName": "Russian Federation",
+    "Year": 2009,
+    "TradeFlowName": "Export"
+  },
+  {
+    "_id": {
+      "$oid": "669c9fb167df1ff4bf58ce7f"
+    },
+    "ReporterISO3": "AFG",
+    "ReporterName": "Afghanistan",
+    "PartnerISO3": "NPL",
+    "PartnerName": "Nepal",
+    "Year": 2019,
+    "TradeFlowName": "Export"
+  },
+  {
+    "_id": {
+      "$oid": "669c9fb167df1ff4bf58ce80"
+    },
+    "ReporterISO3": "AFG",
+    "ReporterName": "Afghanistan",
+    "PartnerISO3": "OAS",
+    "PartnerName": "Other Asia, nes",
+    "Year": 2019,
+    "TradeFlowName": "Export"
+  },
+  {
+    "_id": {
+      "$oid": "669c9fb167df1ff4bf58ce81"
+    },
+    "ReporterISO3": "AFG",
+    "ReporterName": "Afghanistan",
+    "PartnerISO3": "OMN",
+    "PartnerName": "Oman",
+    "Year": 2019,
+    "TradeFlowName": "Export"
+  },
+  {
+    "_id": {
+      "$oid": "669c9fb167df1ff4bf58ce82"
+    },
+    "ReporterISO3": "AFG",
+    "ReporterName": "Afghanistan",
+    "PartnerISO3": "PAK",
+    "PartnerName": "Pakistan",
+    "Year": 2019,
+    "TradeFlowName": "Export"
+  },
+  {
+    "_id": {
+      "$oid": "669c9fb167df1ff4bf58ce83"
+    },
+    "ReporterISO3": "AFG",
+    "ReporterName": "Afghanistan",
+    "PartnerISO3": "POL",
+    "PartnerName": "Poland",
+    "Year": 2019,
+    "TradeFlowName": "Export"
+  },
+  {
+    "_id": {
+      "$oid": "669c9fb167df1ff4bf58ce84"
+    },
+    "ReporterISO3": "AFG",
+    "ReporterName": "Afghanistan",
+    "PartnerISO3": "PRT",
+    "PartnerName": "Portugal",
+    "Year": 2019,
+    "TradeFlowName": "Export"
+  },
+  {
+    "_id": {
+      "$oid": "669c9fb167df1ff4bf58ce85"
+    },
+    "ReporterISO3": "AFG",
+    "ReporterName": "Afghanistan",
+    "PartnerISO3": "QAT",
+    "PartnerName": "Qatar",
+    "Year": 2019,
+    "TradeFlowName": "Export"
+  },
+  {
+    "_id": {
+      "$oid": "669c9fb167df1ff4bf58ce86"
+    },
+    "ReporterISO3": "AFG",
+    "ReporterName": "Afghanistan",
+    "PartnerISO3": "ROM",
+    "PartnerName": "Romania",
+    "Year": 2019,
+    "TradeFlowName": "Export"
+  },
+  {
+    "_id": {
+      "$oid": "669c9fb167df1ff4bf58ce87"
+    },
+    "ReporterISO3": "AFG",
+    "ReporterName": "Afghanistan",
+    "PartnerISO3": "RUS",
+    "PartnerName": "Russian Federation",
+    "Year": 2019,
+    "TradeFlowName": "Export"
+  },
+  {
+    "_id": {
+      "$oid": "669c9fb167df1ff4bf58ce88"
+    },
+    "ReporterISO3": "AFG",
+    "ReporterName": "Afghanistan",
+    "PartnerISO3": "SAU",
+    "PartnerName": "Saudi Arabia",
+    "Year": 2019,
+    "TradeFlowName": "Export"
+  },
+  {
+    "_id": {
+      "$oid": "669c9fb167df1ff4bf58ce89"
+    },
+    "ReporterISO3": "AFG",
+    "ReporterName": "Afghanistan",
+    "PartnerISO3": "SGP",
+    "PartnerName": "Singapore",
+    "Year": 2019,
+    "TradeFlowName": "Export"
+  },
+  {
+    "_id": {
+      "$oid": "669c9fb167df1ff4bf58ce8a"
+    },
+    "ReporterISO3": "AFG",
+    "ReporterName": "Afghanistan",
+    "PartnerISO3": "SOM",
+    "PartnerName": "Somalia",
+    "Year": 2019,
+    "TradeFlowName": "Export"
+  },
+  {
+    "_id": {
+      "$oid": "669c9fb167df1ff4bf58ce8b"
+    },
+    "ReporterISO3": "AFG",
+    "ReporterName": "Afghanistan",
+    "PartnerISO3": "SWE",
+    "PartnerName": "Sweden",
+    "Year": 2019,
+    "TradeFlowName": "Export"
+  },
+  {
+    "_id": {
+      "$oid": "669c9fb167df1ff4bf58ce8c"
+    },
+    "ReporterISO3": "AFG",
+    "ReporterName": "Afghanistan",
+    "PartnerISO3": "SWZ",
+    "PartnerName": "Eswatini",
+    "Year": 2019,
+    "TradeFlowName": "Export"
+  },
+  {
+    "_id": {
+      "$oid": "669c9fb167df1ff4bf58ce8d"
+    },
+    "ReporterISO3": "AFG",
+    "ReporterName": "Afghanistan",
+    "PartnerISO3": "THA",
+    "PartnerName": "Thailand",
+    "Year": 2019,
+    "TradeFlowName": "Export"
+  },
+  {
+    "_id": {
+      "$oid": "669c9fb167df1ff4bf58ce8e"
+    },
+    "ReporterISO3": "AFG",
+    "ReporterName": "Afghanistan",
+    "PartnerISO3": "TJK",
+    "PartnerName": "Tajikistan",
+    "Year": 2019,
+    "TradeFlowName": "Export"
+  },
+  {
+    "_id": {
+      "$oid": "669c9fb167df1ff4bf58ce8f"
+    },
+    "ReporterISO3": "AFG",
+    "ReporterName": "Afghanistan",
+    "PartnerISO3": "TKL",
+    "PartnerName": "Tokelau",
+    "Year": 2019,
+    "TradeFlowName": "Export"
+  },
+  {
+    "_id": {
+      "$oid": "669c9fb167df1ff4bf58ce90"
+    },
+    "ReporterISO3": "AFG",
+    "ReporterName": "Afghanistan",
+    "PartnerISO3": "POL",
+    "PartnerName": "Poland",
+    "Year": 2011,
+    "TradeFlowName": "Export"
+  },
+  {
+    "_id": {
+      "$oid": "669c9fb167df1ff4bf58ce91"
+    },
+    "ReporterISO3": "AFG",
+    "ReporterName": "Afghanistan",
+    "PartnerISO3": "POL",
+    "PartnerName": "Poland",
+    "Year": 2010,
+    "TradeFlowName": "Export"
+  },
+  {
+    "_id": {
+      "$oid": "669c9fb167df1ff4bf58ce92"
+    },
+    "ReporterISO3": "AFG",
+    "ReporterName": "Afghanistan",
+    "PartnerISO3": "POL",
+    "PartnerName": "Poland",
+    "Year": 2009,
+    "TradeFlowName": "Export"
+  },
+  {
+    "_id": {
+      "$oid": "669c9fb167df1ff4bf58ce93"
+    },
+    "ReporterISO3": "AFG",
+    "ReporterName": "Afghanistan",
+    "PartnerISO3": "PAK",
+    "PartnerName": "Pakistan",
+    "Year": 2011,
+    "TradeFlowName": "Export"
+  },
+  {
+    "_id": {
+      "$oid": "669c9fb167df1ff4bf58ce94"
+    },
+    "ReporterISO3": "AFG",
+    "ReporterName": "Afghanistan",
+    "PartnerISO3": "PAK",
+    "PartnerName": "Pakistan",
+    "Year": 2010,
+    "TradeFlowName": "Export"
+  },
+  {
+    "_id": {
+      "$oid": "669c9fb167df1ff4bf58ce95"
+    },
+    "ReporterISO3": "AFG",
+    "ReporterName": "Afghanistan",
+    "PartnerISO3": "PAK",
+    "PartnerName": "Pakistan",
+    "Year": 2009,
+    "TradeFlowName": "Export"
+  },
+  {
+    "_id": {
+      "$oid": "669c9fb167df1ff4bf58ce96"
+    },
+    "ReporterISO3": "AFG",
+    "ReporterName": "Afghanistan",
+    "PartnerISO3": "NLD",
+    "PartnerName": "Netherlands",
+    "Year": 2019,
+    "TradeFlowName": "Export"
+  },
+  {
+    "_id": {
+      "$oid": "669c9fb167df1ff4bf58ce97"
+    },
+    "ReporterISO3": "AFG",
+    "ReporterName": "Afghanistan",
+    "PartnerISO3": "OAS",
+    "PartnerName": "Other Asia, nes",
+    "Year": 2011,
+    "TradeFlowName": "Export"
+  },
+  {
+    "_id": {
+      "$oid": "669c9fb167df1ff4bf58ce98"
+    },
+    "ReporterISO3": "AFG",
+    "ReporterName": "Afghanistan",
+    "PartnerISO3": "VNM",
+    "PartnerName": "Vietnam",
+    "Year": 2019,
+    "TradeFlowName": "Export"
+  },
+  {
+    "_id": {
+      "$oid": "669c9fb167df1ff4bf58ce99"
+    },
+    "ReporterISO3": "AFG",
+    "ReporterName": "Afghanistan",
+    "PartnerISO3": "UZB",
+    "PartnerName": "Uzbekistan",
+    "Year": 2019,
+    "TradeFlowName": "Export"
+  },
+  {
+    "_id": {
+      "$oid": "669c9fb167df1ff4bf58ce9a"
+    },
+    "ReporterISO3": "AFG",
+    "ReporterName": "Afghanistan",
+    "PartnerISO3": "USA",
+    "PartnerName": "United States",
+    "Year": 2019,
+    "TradeFlowName": "Export"
+  },
+  {
+    "_id": {
+      "$oid": "669c9fb167df1ff4bf58ce9b"
+    },
+    "ReporterISO3": "AFG",
+    "ReporterName": "Afghanistan",
+    "PartnerISO3": "UKR",
+    "PartnerName": "Ukraine",
+    "Year": 2019,
+    "TradeFlowName": "Export"
+  },
+  {
+    "_id": {
+      "$oid": "669c9fb167df1ff4bf58ce9c"
+    },
+    "ReporterISO3": "AFG",
+    "ReporterName": "Afghanistan",
+    "PartnerISO3": "TUR",
+    "PartnerName": "Turkey",
+    "Year": 2019,
+    "TradeFlowName": "Export"
+  },
+  {
+    "_id": {
+      "$oid": "669c9fb167df1ff4bf58ce9d"
+    },
+    "ReporterISO3": "AFG",
+    "ReporterName": "Afghanistan",
+    "PartnerISO3": "TKM",
+    "PartnerName": "Turkmenistan",
+    "Year": 2019,
+    "TradeFlowName": "Export"
+  },
+  {
+    "_id": {
+      "$oid": "669c9fb167df1ff4bf58ce9e"
+    },
+    "ReporterISO3": "AFG",
+    "ReporterName": "Afghanistan",
+    "PartnerISO3": "WLD",
+    "PartnerName": " World",
+    "Year": 2019,
+    "TradeFlowName": "Export"
+  },
+  {
+    "_id": {
+      "$oid": "669c9fb167df1ff4bf58ce9f"
+    },
+    "ReporterISO3": "AFG",
+    "ReporterName": "Afghanistan",
+    "PartnerISO3": "IRN",
+    "PartnerName": "Iran, Islamic Rep.",
+    "Year": 2009,
+    "TradeFlowName": "Export"
+  },
+  {
+    "_id": {
+      "$oid": "669c9fb167df1ff4bf58cea0"
+    },
+    "ReporterISO3": "AFG",
+    "ReporterName": "Afghanistan",
+    "PartnerISO3": "JPN",
+    "PartnerName": "Japan",
+    "Year": 2011,
+    "TradeFlowName": "Export"
+  },
+  {
+    "_id": {
+      "$oid": "669c9fb167df1ff4bf58cea1"
+    },
+    "ReporterISO3": "AFG",
+    "ReporterName": "Afghanistan",
+    "PartnerISO3": "IND",
+    "PartnerName": "India",
+    "Year": 2010,
+    "TradeFlowName": "Export"
+  },
+  {
+    "_id": {
+      "$oid": "669c9fb167df1ff4bf58cea2"
+    },
+    "ReporterISO3": "AFG",
+    "ReporterName": "Afghanistan",
+    "PartnerISO3": "CHE",
+    "PartnerName": "Switzerland",
+    "Year": 2010,
+    "TradeFlowName": "Export"
+  },
+  {
+    "_id": {
+      "$oid": "669c9fb167df1ff4bf58cea3"
+    },
+    "ReporterISO3": "AFG",
+    "ReporterName": "Afghanistan",
+    "PartnerISO3": "CAN",
+    "PartnerName": "Canada",
+    "Year": 2011,
+    "TradeFlowName": "Export"
+  },
+  {
+    "_id": {
+      "$oid": "669c9fb167df1ff4bf58cea4"
+    },
+    "ReporterISO3": "AFG",
+    "ReporterName": "Afghanistan",
+    "PartnerISO3": "CAN",
+    "PartnerName": "Canada",
+    "Year": 2010,
+    "TradeFlowName": "Export"
+  },
+  {
+    "_id": {
+      "$oid": "669c9fb167df1ff4bf58cea5"
+    },
+    "ReporterISO3": "AFG",
+    "ReporterName": "Afghanistan",
+    "PartnerISO3": "CAN",
+    "PartnerName": "Canada",
+    "Year": 2009,
+    "TradeFlowName": "Export"
+  },
+  {
+    "_id": {
+      "$oid": "669c9fb167df1ff4bf58cea6"
+    },
+    "ReporterISO3": "AFG",
+    "ReporterName": "Afghanistan",
+    "PartnerISO3": "BRA",
+    "PartnerName": "Brazil",
+    "Year": 2011,
+    "TradeFlowName": "Export"
+  },
+  {
+    "_id": {
+      "$oid": "669c9fb167df1ff4bf58cea7"
+    },
+    "ReporterISO3": "AFG",
+    "ReporterName": "Afghanistan",
+    "PartnerISO3": "BRA",
+    "PartnerName": "Brazil",
+    "Year": 2009,
+    "TradeFlowName": "Export"
+  },
+  {
+    "_id": {
+      "$oid": "669c9fb167df1ff4bf58cea8"
+    },
+    "ReporterISO3": "AFG",
+    "ReporterName": "Afghanistan",
+    "PartnerISO3": "BEL",
+    "PartnerName": "Belgium",
+    "Year": 2011,
+    "TradeFlowName": "Export"
+  },
+  {
+    "_id": {
+      "$oid": "669c9fb167df1ff4bf58cea9"
+    },
+    "ReporterISO3": "AFG",
+    "ReporterName": "Afghanistan",
+    "PartnerISO3": "BEL",
+    "PartnerName": "Belgium",
+    "Year": 2010,
+    "TradeFlowName": "Export"
+  },
+  {
+    "_id": {
+      "$oid": "669c9fb167df1ff4bf58ceaa"
+    },
+    "ReporterISO3": "AFG",
+    "ReporterName": "Afghanistan",
+    "PartnerISO3": "BEL",
+    "PartnerName": "Belgium",
+    "Year": 2009,
+    "TradeFlowName": "Export"
+  },
+  {
+    "_id": {
+      "$oid": "669c9fb167df1ff4bf58ceab"
+    },
+    "ReporterISO3": "AFG",
+    "ReporterName": "Afghanistan",
+    "PartnerISO3": "AUT",
+    "PartnerName": "Austria",
+    "Year": 2010,
+    "TradeFlowName": "Export"
+  },
+  {
+    "_id": {
+      "$oid": "669c9fb167df1ff4bf58ceac"
+    },
+    "ReporterISO3": "AFG",
+    "ReporterName": "Afghanistan",
+    "PartnerISO3": "AUS",
+    "PartnerName": "Australia",
+    "Year": 2011,
+    "TradeFlowName": "Export"
+  },
+  {
+    "_id": {
+      "$oid": "669c9fb167df1ff4bf58cead"
+    },
+    "ReporterISO3": "AFG",
+    "ReporterName": "Afghanistan",
+    "PartnerISO3": "AUS",
+    "PartnerName": "Australia",
+    "Year": 2010,
+    "TradeFlowName": "Export"
+  },
+  {
+    "_id": {
+      "$oid": "669c9fb167df1ff4bf58ceae"
+    },
+    "ReporterISO3": "AFG",
+    "ReporterName": "Afghanistan",
+    "PartnerISO3": "CHN",
+    "PartnerName": "China",
+    "Year": 2009,
+    "TradeFlowName": "Export"
+  },
+  {
+    "_id": {
+      "$oid": "669c9fb167df1ff4bf58ceaf"
+    },
+    "ReporterISO3": "AFG",
+    "ReporterName": "Afghanistan",
+    "PartnerISO3": "FRA",
+    "PartnerName": "France",
+    "Year": 2008,
+    "TradeFlowName": "Export"
+  },
+  {
+    "_id": {
+      "$oid": "669c9fb167df1ff4bf58ceb0"
+    },
+    "ReporterISO3": "AFG",
+    "ReporterName": "Afghanistan",
+    "PartnerISO3": "EGY",
+    "PartnerName": "Egypt, Arab Rep.",
+    "Year": 2008,
+    "TradeFlowName": "Export"
+  },
+  {
+    "_id": {
+      "$oid": "669c9fb167df1ff4bf58ceb1"
+    },
+    "ReporterISO3": "AFG",
+    "ReporterName": "Afghanistan",
+    "PartnerISO3": "DEU",
+    "PartnerName": "Germany",
+    "Year": 2008,
+    "TradeFlowName": "Export"
+  },
+  {
+    "_id": {
+      "$oid": "669c9fb167df1ff4bf58ceb2"
+    },
+    "ReporterISO3": "AFG",
+    "ReporterName": "Afghanistan",
+    "PartnerISO3": "CHN",
+    "PartnerName": "China",
+    "Year": 2008,
+    "TradeFlowName": "Export"
+  },
+  {
+    "_id": {
+      "$oid": "669c9fb167df1ff4bf58ceb3"
+    },
+    "ReporterISO3": "AFG",
+    "ReporterName": "Afghanistan",
+    "PartnerISO3": "BRA",
+    "PartnerName": "Brazil",
+    "Year": 2008,
+    "TradeFlowName": "Export"
+  },
+  {
+    "_id": {
+      "$oid": "669c9fb167df1ff4bf58ceb4"
+    },
+    "ReporterISO3": "AFG",
+    "ReporterName": "Afghanistan",
+    "PartnerISO3": "BEL",
+    "PartnerName": "Belgium",
+    "Year": 2008,
+    "TradeFlowName": "Export"
+  },
+  {
+    "_id": {
+      "$oid": "669c9fb167df1ff4bf58ceb5"
+    },
+    "ReporterISO3": "AFG",
+    "ReporterName": "Afghanistan",
+    "PartnerISO3": "AUS",
+    "PartnerName": "Australia",
+    "Year": 2008,
+    "TradeFlowName": "Export"
+  },
+  {
+    "_id": {
+      "$oid": "669c9fb167df1ff4bf58ceb6"
+    },
+    "ReporterISO3": "AFG",
+    "ReporterName": "Afghanistan",
+    "PartnerISO3": "ARE",
+    "PartnerName": "United Arab Emirates",
+    "Year": 2008,
+    "TradeFlowName": "Export"
+  },
+  {
+    "_id": {
+      "$oid": "669c9fb167df1ff4bf58ceb7"
+    },
+    "ReporterISO3": "AFG",
+    "ReporterName": "Afghanistan",
+    "PartnerISO3": "AUS",
+    "PartnerName": "Australia",
+    "Year": 2009,
+    "TradeFlowName": "Export"
+  },
+  {
+    "_id": {
+      "$oid": "669c9fb167df1ff4bf58ceb8"
+    },
+    "ReporterISO3": "AFG",
+    "ReporterName": "Afghanistan",
+    "PartnerISO3": "ARE",
+    "PartnerName": "United Arab Emirates",
+    "Year": 2011,
+    "TradeFlowName": "Export"
+  },
+  {
+    "_id": {
+      "$oid": "669c9fb167df1ff4bf58ceb9"
+    },
+    "ReporterISO3": "AFG",
+    "ReporterName": "Afghanistan",
+    "PartnerISO3": "ARE",
+    "PartnerName": "United Arab Emirates",
+    "Year": 2010,
+    "TradeFlowName": "Export"
+  },
+  {
+    "_id": {
+      "$oid": "669c9fb167df1ff4bf58ceba"
+    },
+    "ReporterISO3": "AFG",
+    "ReporterName": "Afghanistan",
+    "PartnerISO3": "ARE",
+    "PartnerName": "United Arab Emirates",
+    "Year": 2009,
+    "TradeFlowName": "Export"
+  },
+  {
+    "_id": {
+      "$oid": "669c9fb167df1ff4bf58cebb"
+    },
+    "ReporterISO3": "AFG",
+    "ReporterName": "Afghanistan",
+    "PartnerISO3": "IND",
+    "PartnerName": "India",
+    "Year": 2011,
+    "TradeFlowName": "Export"
+  },
+  {
+    "_id": {
+      "$oid": "669c9fb167df1ff4bf58cebc"
+    },
+    "ReporterISO3": "AFG",
+    "ReporterName": "Afghanistan",
+    "PartnerISO3": "FIN",
+    "PartnerName": "Finland",
+    "Year": 2008,
+    "TradeFlowName": "Export"
+  },
+  {
+    "_id": {
+      "$oid": "669c9fb167df1ff4bf58cebd"
+    },
+    "ReporterISO3": "AFG",
+    "ReporterName": "Afghanistan",
+    "PartnerISO3": "CHN",
+    "PartnerName": "China",
+    "Year": 2010,
+    "TradeFlowName": "Export"
+  },
+  {
+    "_id": {
+      "$oid": "669c9fb167df1ff4bf58cebe"
+    },
+    "ReporterISO3": "AFG",
+    "ReporterName": "Afghanistan",
+    "PartnerISO3": "ESP",
+    "PartnerName": "Spain",
+    "Year": 2008,
+    "TradeFlowName": "Export"
+  },
+  {
+    "_id": {
+      "$oid": "669c9fb167df1ff4bf58cebf"
+    },
+    "ReporterISO3": "AFG",
+    "ReporterName": "Afghanistan",
+    "PartnerISO3": "DEU",
+    "PartnerName": "Germany",
+    "Year": 2009,
+    "TradeFlowName": "Export"
+  },
+  {
+    "_id": {
+      "$oid": "669c9fb167df1ff4bf58cec0"
+    },
+    "ReporterISO3": "AFG",
+    "ReporterName": "Afghanistan",
+    "PartnerISO3": "IND",
+    "PartnerName": "India",
+    "Year": 2009,
+    "TradeFlowName": "Export"
+  },
+  {
+    "_id": {
+      "$oid": "669c9fb167df1ff4bf58cec1"
+    },
+    "ReporterISO3": "AFG",
+    "ReporterName": "Afghanistan",
+    "PartnerISO3": "CHN",
+    "PartnerName": "China",
+    "Year": 2011,
+    "TradeFlowName": "Export"
+  },
+  {
+    "_id": {
+      "$oid": "669c9fb167df1ff4bf58cec2"
+    },
+    "ReporterISO3": "AFG",
+    "ReporterName": "Afghanistan",
+    "PartnerISO3": "IDN",
+    "PartnerName": "Indonesia",
+    "Year": 2010,
+    "TradeFlowName": "Export"
+  },
+  {
+    "_id": {
+      "$oid": "669c9fb167df1ff4bf58cec3"
+    },
+    "ReporterISO3": "AFG",
+    "ReporterName": "Afghanistan",
+    "PartnerISO3": "HKG",
+    "PartnerName": "Hong Kong, China",
+    "Year": 2011,
+    "TradeFlowName": "Export"
+  },
+  {
+    "_id": {
+      "$oid": "669c9fb167df1ff4bf58cec4"
+    },
+    "ReporterISO3": "AFG",
+    "ReporterName": "Afghanistan",
+    "PartnerISO3": "HKG",
+    "PartnerName": "Hong Kong, China",
+    "Year": 2010,
+    "TradeFlowName": "Export"
+  },
+  {
+    "_id": {
+      "$oid": "669c9fb167df1ff4bf58cec5"
+    },
+    "ReporterISO3": "AFG",
+    "ReporterName": "Afghanistan",
+    "PartnerISO3": "HKG",
+    "PartnerName": "Hong Kong, China",
+    "Year": 2009,
+    "TradeFlowName": "Export"
+  },
+  {
+    "_id": {
+      "$oid": "669c9fb167df1ff4bf58cec6"
+    },
+    "ReporterISO3": "AFG",
+    "ReporterName": "Afghanistan",
+    "PartnerISO3": "GRC",
+    "PartnerName": "Greece",
+    "Year": 2011,
+    "TradeFlowName": "Export"
+  },
+  {
+    "_id": {
+      "$oid": "669c9fb167df1ff4bf58cec7"
+    },
+    "ReporterISO3": "AFG",
+    "ReporterName": "Afghanistan",
+    "PartnerISO3": "GBR",
+    "PartnerName": "United Kingdom",
+    "Year": 2011,
+    "TradeFlowName": "Export"
+  },
+  {
+    "_id": {
+      "$oid": "669c9fb167df1ff4bf58cec8"
+    },
+    "ReporterISO3": "AFG",
+    "ReporterName": "Afghanistan",
+    "PartnerISO3": "GBR",
+    "PartnerName": "United Kingdom",
+    "Year": 2010,
+    "TradeFlowName": "Export"
+  },
+  {
+    "_id": {
+      "$oid": "669c9fb167df1ff4bf58cec9"
+    },
+    "ReporterISO3": "AFG",
+    "ReporterName": "Afghanistan",
+    "PartnerISO3": "GBR",
+    "PartnerName": "United Kingdom",
+    "Year": 2009,
+    "TradeFlowName": "Export"
+  },
+  {
+    "_id": {
+      "$oid": "669c9fb167df1ff4bf58ceca"
+    },
+    "ReporterISO3": "AFG",
+    "ReporterName": "Afghanistan",
+    "PartnerISO3": "FRA",
+    "PartnerName": "France",
+    "Year": 2011,
+    "TradeFlowName": "Export"
+  },
+  {
+    "_id": {
+      "$oid": "669c9fb167df1ff4bf58cecb"
+    },
+    "ReporterISO3": "AFG",
+    "ReporterName": "Afghanistan",
+    "PartnerISO3": "FRA",
+    "PartnerName": "France",
+    "Year": 2009,
+    "TradeFlowName": "Export"
+  },
+  {
+    "_id": {
+      "$oid": "669c9fb167df1ff4bf58cecc"
+    },
+    "ReporterISO3": "AFG",
+    "ReporterName": "Afghanistan",
+    "PartnerISO3": "FRA",
+    "PartnerName": "France",
+    "Year": 2010,
+    "TradeFlowName": "Export"
+  },
+  {
+    "_id": {
+      "$oid": "669c9fb167df1ff4bf58cecd"
+    },
+    "ReporterISO3": "AFG",
+    "ReporterName": "Afghanistan",
+    "PartnerISO3": "EGY",
+    "PartnerName": "Egypt, Arab Rep.",
+    "Year": 2009,
+    "TradeFlowName": "Export"
+  },
+  {
+    "_id": {
+      "$oid": "669c9fb167df1ff4bf58cece"
+    },
+    "ReporterISO3": "AFG",
+    "ReporterName": "Afghanistan",
+    "PartnerISO3": "DNK",
+    "PartnerName": "Denmark",
+    "Year": 2011,
+    "TradeFlowName": "Export"
+  },
+  {
+    "_id": {
+      "$oid": "669c9fb167df1ff4bf58cecf"
+    },
+    "ReporterISO3": "AFG",
+    "ReporterName": "Afghanistan",
+    "PartnerISO3": "DEU",
+    "PartnerName": "Germany",
+    "Year": 2011,
+    "TradeFlowName": "Export"
+  },
+  {
+    "_id": {
+      "$oid": "669c9fb167df1ff4bf58ced0"
+    },
+    "ReporterISO3": "AFG",
+    "ReporterName": "Afghanistan",
+    "PartnerISO3": "EGY",
+    "PartnerName": "Egypt, Arab Rep.",
+    "Year": 2010,
+    "TradeFlowName": "Export"
+  },
+  {
+    "_id": {
+      "$oid": "669c9fb167df1ff4bf58ced1"
+    },
+    "ReporterISO3": "AFG",
+    "ReporterName": "Afghanistan",
+    "PartnerISO3": "EGY",
+    "PartnerName": "Egypt, Arab Rep.",
+    "Year": 2011,
+    "TradeFlowName": "Export"
+  },
+  {
+    "_id": {
+      "$oid": "669c9fb167df1ff4bf58ced2"
+    },
+    "ReporterISO3": "AFG",
+    "ReporterName": "Afghanistan",
+    "PartnerISO3": "ESP",
+    "PartnerName": "Spain",
+    "Year": 2010,
+    "TradeFlowName": "Export"
+  },
+  {
+    "_id": {
+      "$oid": "669c9fb167df1ff4bf58ced3"
+    },
+    "ReporterISO3": "AFG",
+    "ReporterName": "Afghanistan",
+    "PartnerISO3": "ESP",
+    "PartnerName": "Spain",
+    "Year": 2011,
+    "TradeFlowName": "Export"
+  },
+  {
+    "_id": {
+      "$oid": "669c9fb167df1ff4bf58ced4"
+    },
+    "ReporterISO3": "AFG",
+    "ReporterName": "Afghanistan",
+    "PartnerISO3": "FIN",
+    "PartnerName": "Finland",
+    "Year": 2010,
+    "TradeFlowName": "Export"
+  },
+  {
+    "_id": {
+      "$oid": "669c9fb167df1ff4bf58ced5"
+    },
+    "ReporterISO3": "AFG",
+    "ReporterName": "Afghanistan",
+    "PartnerISO3": "DNK",
+    "PartnerName": "Denmark",
+    "Year": 2010,
+    "TradeFlowName": "Export"
+  },
+  {
+    "_id": {
+      "$oid": "669c9fb167df1ff4bf58ced6"
+    },
+    "ReporterISO3": "AFG",
+    "ReporterName": "Afghanistan",
+    "PartnerISO3": "DNK",
+    "PartnerName": "Denmark",
+    "Year": 2009,
+    "TradeFlowName": "Export"
+  },
+  {
+    "_id": {
+      "$oid": "669c9fb167df1ff4bf58ced7"
+    },
+    "ReporterISO3": "AFG",
+    "ReporterName": "Afghanistan",
+    "PartnerISO3": "FIN",
+    "PartnerName": "Finland",
+    "Year": 2011,
+    "TradeFlowName": "Export"
+  },
+  {
+    "_id": {
+      "$oid": "669c9fb167df1ff4bf58ced8"
+    },
+    "ReporterISO3": "AFG",
+    "ReporterName": "Afghanistan",
+    "PartnerISO3": "DEU",
+    "PartnerName": "Germany",
+    "Year": 2010,
+    "TradeFlowName": "Export"
+  }]

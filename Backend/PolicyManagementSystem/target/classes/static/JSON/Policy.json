@@ -1,0 +1,40 @@
+[{
+  "_id": {
+    "$oid": "669c9ff7e6ad11704bc80299"
+  },
+  "dataPolicyId": 10003,
+  "dataPolicyVersion": 1,
+  "dataPolicyLastModified": {
+    "$date": "2024-07-21T05:50:31.368Z"
+  },
+  "dataPolicyStatus": "approved",
+  "dataPolicyName": "Country Rule",
+  "dataPolicyCreator": {
+    "$oid": "669c9aa467df1ff4bf58cb2b"
+  },
+  "dataPolicyExaminer": {
+    "$oid": "669c9aa467df1ff4bf58cb2c"
+  },
+  "dataPolicy": [
+    {
+      "operator": "and",
+      "rules": [
+        {
+          "key": "PartnerISO3",
+          "operator": "NOT IN",
+          "values": [
+            "IRQ"
+          ]
+        },
+        {
+          "key": "PartnerName",
+          "operator": "NOT IN",
+          "values": [
+            "Iraq"
+          ]
+        }
+      ]
+    }
+  ],
+  "_class": "com.scb.PolicyManagementSystem.model.Policy"
+}]
