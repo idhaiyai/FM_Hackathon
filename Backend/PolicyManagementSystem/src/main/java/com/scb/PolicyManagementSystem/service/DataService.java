@@ -23,15 +23,15 @@ public class DataService {
     @Autowired
     PolicyRepository policyRepository;
 
-    public List<Data> fetch(String userId){
+    public List<CountryData> fetch(String userId){
 
 
 
         User user = userRepository.findById(userId).get();
         System.out.println(user.getLocation());
-        List<Data> dt = dataRepository.findByReporterName(user.getLocation());
-        List<String> policyIds = user.getData_policy_applied();
-        List<Policy> policies = policyRepository.findAllById(policyIds);
+        List<CountryData> dt = dataRepository.findByReporterName(user.getLocation());
+        List<String> policyIds = user.getDataPolicyApplied();
+        List<Policy> policies = (List<Policy>) policyRepository.findAllById(policyIds);
 
         return applyPolicyFiltering(policies , dt);
 
@@ -41,7 +41,7 @@ public class DataService {
 
 
     }
-    private List<Data> applyPolicyFiltering(List<Policy> policies , List<Data> dt){
+    private List<CountryData> applyPolicyFiltering(List<Policy> policies , List<CountryData> dt){
 
         for(Policy policy :policies){
             for(PolicyRule policyRule:policy.getDataPolicy()){
@@ -51,7 +51,7 @@ public class DataService {
         return dt;
     }
 
-    private List<Data> filterBasedOnPolicy(List<Data> dt , PolicyRule policyRule){
+    private List<CountryData> filterBasedOnPolicy(List<CountryData> dt , PolicyRule policyRule){
 
         switch (policyRule.getOperator().toUpperCase()){
             case "AND":
@@ -73,7 +73,7 @@ public class DataService {
 
     }
 
-    private List<Data> filterBasedOnRules(List<Data> dt , Rule rule){
+    private List<CountryData> filterBasedOnRules(List<CountryData> dt , Rule rule){
 
         return dt.stream()
                 .filter(item -> applyRules(item, rule))
@@ -81,7 +81,7 @@ public class DataService {
 
     }
 
-    private   boolean applyRules(Data item , Rule rule){
+    private   boolean applyRules(CountryData item , Rule rule){
 
         switch (rule.getOperator().toUpperCase()){
             case "IN":
@@ -96,7 +96,7 @@ public class DataService {
 
     }
 
-    private String getFieldValue(String key , Data item){
+    private String getFieldValue(String key , CountryData item){
         switch (key) {
             case "ReporterISO3":
                 return item.getReporterISO3();

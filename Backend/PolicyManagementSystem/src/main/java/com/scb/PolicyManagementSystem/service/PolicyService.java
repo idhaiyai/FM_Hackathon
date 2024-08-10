@@ -23,7 +23,7 @@ public class PolicyService {
 
     public List<Policy> getAllPolices(){
 
-        return policyRepository.findAll();
+        return (List<Policy>) policyRepository.findAll();
 
     }
 

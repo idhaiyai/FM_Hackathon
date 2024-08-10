@@ -16,7 +16,7 @@ public class UserService {
     private UserRepository userRepository;
 
     public List<User> getAllUsers() {
-        return userRepository.findAll();
+        return (List<User>) userRepository.findAll();
     }
 
     public Optional<User> verifyUser(String username, String password){
@@ -41,10 +41,10 @@ public class UserService {
 
         for(User user:usersBasedOnLocation){
             System.out.println("changing for"+ user.getUsername());
-            List<String> policies = user.getData_policy_applied();
+            List<String> policies = user.getDataPolicyApplied();
             policies.add(policy.getId());
             System.out.println("adding " +policy.getId());
-            user.setData_policy_applied(policies);
+            user.setDataPolicyApplied(policies);
             userRepository.save(user);
         }
 
@@ -58,10 +58,10 @@ public class UserService {
 
         for(User user:usersBasedOnLocation){
             System.out.println("changing for"+ user.getUsername());
-            List<String> policies = user.getData_policy_applied();
+            List<String> policies = user.getDataPolicyApplied();
             policies.remove(policy.getId());
             System.out.println("removing " +policy.getId());
-            user.setData_policy_applied(policies);
+            user.setDataPolicyApplied(policies);
             userRepository.save(user);
         }
 

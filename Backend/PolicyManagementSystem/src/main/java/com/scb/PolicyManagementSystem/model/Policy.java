@@ -1,37 +1,53 @@
 package com.scb.PolicyManagementSystem.model;
 
+import jakarta.persistence.*;
 
-import org.springframework.data.annotation.Id;
-import org.springframework.data.mongodb.core.mapping.Document;
-import lombok.NoArgsConstructor;
-import lombok.AllArgsConstructor;
 
 import java.util.Date;
 import java.util.List;
 
-@Document(collection = "policies")
-
-
-@NoArgsConstructor
-@AllArgsConstructor
+@Entity
+@Table(name = "policies")
 public class Policy {
 
     @Id
+    @GeneratedValue(strategy = GenerationType.IDENTITY)
     private String id;
-    private  int dataPolicyId;
+
+    @Column(name = "data_policy_id")
+    private int dataPolicyId;
+
+    @Column(name = "data_policy_version")
     private int dataPolicyVersion;
+
+    @Column(name = "data_policy_last_modified")
+    @Temporal(TemporalType.TIMESTAMP)
     private Date dataPolicyLastModified;
+
+    @Enumerated(EnumType.STRING)
+    @Column(name = "data_policy_status")
     private Status dataPolicyStatus;
+
+    @Column(name = "data_policy_name")
     private String dataPolicyName;
+
+    @Column(name = "data_policy_creator")
     private String dataPolicyCreator;
-    private String  dataPolicyExaminer;
-    private  String dataPolicyActionReason;
+
+    @Column(name = "data_policy_examiner")
+    private String dataPolicyExaminer;
+
+    @Column(name = "data_policy_action_reason")
+    private String dataPolicyActionReason;
+
+    @Column(name = "data_policy_region")
     private String dataPolicyRegion;
+
+    @OneToMany(cascade = CascadeType.ALL, orphanRemoval = true, fetch = FetchType.LAZY)
+    @JoinColumn(name = "policy_id")
     private List<PolicyRule> dataPolicy;
 
-
-
-    // GETTER AND SETTER
+    // Getters and Setters
 
 
     public String getId() {
@@ -122,6 +138,3 @@ public class Policy {
         this.dataPolicy = dataPolicy;
     }
 }
-
-
-
