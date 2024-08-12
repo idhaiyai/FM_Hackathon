@@ -1,0 +1,311 @@
+{
+	"info": {
+		"_postman_id": "30841014-05b4-44af-a25e-7963327c2521",
+		"name": "FM_Hackethon",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+		"_exporter_id": "11639310"
+	},
+	"item": [
+		{
+			"name": "create Policy",
+			"request": {
+				"method": "POST",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "{\r\n   \"dataPolicyId\": \"10006\",\r\n   \"dataPolicyName\": \"Afghanistan Trade Country Rule\",\r\n   \"dataPolicyRegion\":\"Afghanistan\",\r\n    \"dataPolicy\": [\r\n          {\r\n                 \"operator\": \"and\",\r\n                  \"rules\": [\r\n                             {\r\n                                \"key\": \"PartnerISO3\",\r\n                                 \"operator\": \"NOT IN\",\r\n                                  \"values\": [\"BGD\"]\r\n                             },\r\n                             {\r\n                                  \"key\": \"PartnerName\",\r\n                                 \"operator\": \"NOT IN\",\r\n                                  \"values\": [\"Bangladesh\"]\r\n                             }\r\n                    ]\r\n           }\r\n      ]\r\n}\r\n",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "http://localhost:8080/policies/create/669c9aa467df1ff4bf58cb2b",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "8080",
+					"path": [
+						"policies",
+						"create",
+						"669c9aa467df1ff4bf58cb2b"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "get all policies",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "http://localhost:8080/policies/all",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "8080",
+					"path": [
+						"policies",
+						"all"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "get all policies by status",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "http://localhost:8080/policies/ByStatus?status=WIP",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "8080",
+					"path": [
+						"policies",
+						"ByStatus"
+					],
+					"query": [
+						{
+							"key": "status",
+							"value": "WIP"
+						}
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "approve policy",
+			"request": {
+				"method": "POST",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "{\r\n    \"approve\":true,\r\n    \"reason\":\"good\",\r\n    \"policy_id\":\"66b338b3e4ae496406dbcc73\"\r\n}\r\n",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "http://localhost:8080/policies/approve/669c9aa467df1ff4bf58cb2c",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "8080",
+					"path": [
+						"policies",
+						"approve",
+						"669c9aa467df1ff4bf58cb2c"
+					],
+					"query": [
+						{
+							"key": "",
+							"value": "",
+							"disabled": true
+						},
+						{
+							"key": "",
+							"value": "",
+							"disabled": true
+						}
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "update Policy",
+			"request": {
+				"method": "POST",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "\r\n{\r\n   \"dataPolicyId\": \"10006\",\r\n   \"dataPolicyName\": \"Afghanistan Trade Country Rule version 2  rough\",\r\n   \"dataPolicyRegion\":\"Afghanistan\",\r\n    \"dataPolicy\": [\r\n          {\r\n                 \"operator\": \"and\",\r\n                  \"rules\": [\r\n                             {\r\n                                \"key\": \"PartnerISO3\",\r\n                                 \"operator\": \"NOT IN\",\r\n                                  \"values\": [\"BGD\" , \"JOR\"]\r\n                             },\r\n                             {\r\n                                  \"key\": \"PartnerName\",\r\n                                 \"operator\": \"NOT IN\",\r\n                                  \"values\": [\"Bangladesh\" , \"Jordan\"]\r\n                             }\r\n                    ]\r\n           }\r\n      ]\r\n}\r\n",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "http://localhost:8080/policies/update/669c9aa467df1ff4bf58cb2b",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "8080",
+					"path": [
+						"policies",
+						"update",
+						"669c9aa467df1ff4bf58cb2b"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "get a particular policy ",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "http://localhost:8080/policies/unique/669b462c5218f801b09f38f9",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "8080",
+					"path": [
+						"policies",
+						"unique",
+						"669b462c5218f801b09f38f9"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "get all polices of particular policy ID",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "http://localhost:8080/policies/10005",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "8080",
+					"path": [
+						"policies",
+						"10005"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "Archived polices",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "http://localhost:8080/policies/archive",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "8080",
+					"path": [
+						"policies",
+						"archive"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "Fetch data for users",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "http://localhost:8080/data/669c9aa467df1ff4bf58cb2d",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "8080",
+					"path": [
+						"data",
+						"669c9aa467df1ff4bf58cb2d"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "fetch policy by examiner",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "http://localhost:8080/policies/ByExaminer?examiner=669c9aa467df1ff4bf58cb2c",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "8080",
+					"path": [
+						"policies",
+						"ByExaminer"
+					],
+					"query": [
+						{
+							"key": "examiner",
+							"value": "669c9aa467df1ff4bf58cb2c"
+						}
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "fetch policy by creator",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "http://localhost:8080/policies/ByCreator?creator=669c9aa467df1ff4bf58cb2b",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "8080",
+					"path": [
+						"policies",
+						"ByCreator"
+					],
+					"query": [
+						{
+							"key": "creator",
+							"value": "669c9aa467df1ff4bf58cb2b"
+						}
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "Fetch all non archived policies",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "http://localhost:8080/policies/working-policies",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "8080",
+					"path": [
+						"policies",
+						"working-policies"
+					]
+				}
+			},
+			"response": []
+		}
+	]
+}
