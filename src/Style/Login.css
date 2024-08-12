@@ -1,0 +1,78 @@
+.login-container {
+  display: flex;
+  height: 100vh;
+  width: 100%;
+}
+
+.login-left {
+  flex: 1;
+  background: url('../Assert/bul.jpg') no-repeat center center;
+  background-size: cover;
+}
+
+.login-right {
+  width: 50%;
+  flex: 1;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: #f8f9fa;
+}
+
+.login-form {
+  width: 300px;
+  padding: 40px;
+  background: white;
+  box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
+  text-align: center;
+}
+
+.login-form .logo {
+  width: 150px;
+  margin-bottom: 20px;
+}
+
+.form-control {
+  margin-bottom: 15px;
+  text-align: left;
+}
+
+.form-control label {
+  display: block;
+  margin-bottom: 5px;
+}
+
+.form-control input {
+  width: 100%;
+  padding: 10px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+}
+
+.remember-me {
+  text-align: left;
+  margin-bottom: 20px;
+}
+
+.remember-me input {
+  margin-right: 5px;
+}
+
+.login-button {
+  width: 100%;
+  padding: 10px;
+  background-color: #007bff;
+  color: white;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+.login-button:hover {
+  background-color: #0056b3;
+}
+
+.error {
+  color: red;
+  margin-top: 10px;
+}
