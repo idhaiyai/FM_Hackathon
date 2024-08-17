@@ -1,0 +1,19 @@
+.sidebar {
+    background-image: url(../Assert/sd.png) ;
+    color: white;
+    border-radius:  0 20px 20px 0px;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.logoSCB {
+    mix-blend-mode: multiply;
+}
+
+img {
+    padding-right: 10px;
+}
+
+li:hover {
+    background-color: rgba(240, 248, 255, 0.126); 
+}

@@ -1,0 +1,17 @@
+.signout {
+    color: white;
+    border: 0;
+    padding: 10px;
+    
+    background-color: #BA0021;
+}
+.signout:hover{
+    cursor: pointer;
+    background-color: #d10127;
+    box-shadow: #d10127 0px 0px 2px;
+}
+
+.logout{
+    height: 12px !important; 
+    width: 12px !important;
+}

@@ -88,10 +88,11 @@ const PolicyTable = () => {
   return (
     <div className="policy-table">
       <h2>Policy Management Overview</h2>
+      
       <table>
         <thead>
           <tr>
-            <th onClick={() => handleSort('dataPolicyId')}>Policy ID</th>
+            <th onClick={() => handleSort('dataPolicyId')}>ID</th>
             <th onClick={() => handleSort('dataPolicyName')}>Policy Name</th>
             <th onClick={() => handleSort('dataPolicyVersion')}>Version</th>
             <th onClick={() => handleSort('dataPolicyLastModified')}>Last Modified</th>

@@ -11,9 +11,9 @@ body {
 }
 
 .sidebar {
-  min-height: 100vh;
+  min-height: 94.8vh;
   height: auto;
-  width: 200px;
+  width: 230px;
   background-color: #f4f4f4;
   padding: 20px;
 }
@@ -48,7 +48,7 @@ body {
   justify-content: space-between;
   align-items: center;
   padding: 10px 20px;
-  border-bottom: 1px solid #ccc;
+  border-bottom: 1px solid #5a3535;
   background-color: #fff;
 }
 
@@ -72,7 +72,7 @@ body {
 
 .nav-bar ul li.active {
   font-weight: bold;
-  border-bottom: 2px solid #000;
+  border-bottom: 4px solid #000000;
 }
 
 .right-side {
@@ -81,7 +81,7 @@ body {
 }
 
 .search-bar input {
-  padding: 5px;
+  height: 5px;
 }
 
 .user-profile {
@@ -95,8 +95,8 @@ body {
 }
 
 .user-profile img {
-  width: 30px;
-  height: 30px;
+  width: 40px;
+  height: 40px;
   border-radius: 50%;
 }
 
@@ -115,13 +115,200 @@ body {
 
 .policy-table table th,
 .policy-table table td {
+  padding: 15px;
+  text-align: left;
+  border-bottom: 1px solid #cccccc;
+}
+
+
+.policy-list table th,
+.policy-list table td {
+  padding: 15px;
+  text-align: left;
+  border-bottom: 1px solid #cccccc;
+}
+
+
+.policy-approval-table,
+.policy-approval-table {
+  padding: 15px;
+  text-align: left;
+  border-bottom: 1px solid #cccccc;
+}
+
+
+
+.policy-list table th{
+  border-left: none;
+  border-right: none;
+}
+
+
+.policy-approval-table th{
+  border-left: none;
+  border-right: none;
+  padding: 15px;
+}
+
+.popup-content button {
+  background-color: #3dae38 !important;
+  color: white !important;
   padding: 10px;
-  border: 1px solid #ccc;
+  margin: 5px;
+}
+
+.popup-content input {
+  padding: 10px;
+  margin: 5px;
+}
+
+
+
+
+
+.policy-table table td {
+  padding: 15px;
+  border: 1px solid #cccccc;
   text-align: left;
 }
 
+.policy-list table td {
+  padding: 15px;
+  border: 1px solid #cccccc;
+  text-align: left;
+}
+
+
+.policy-approval-table table td {
+  padding: 15px;
+  border: 1px solid #cccccc;
+  text-align: left;
+}
+
+
+
+
+
+
+tr:nth-child(even) {background-color: #f2f2f2;}
+
+
+.policy-table button {
+  border: 2px solid #008080 !important;
+  background-color: white;
+  color: #008080;
+  font-size: 16px;
+  cursor: pointer;
+}
+.policy-list button {
+  border: 2px solid #008080 !important;
+  background-color: white;
+  color: #008080;
+  font-size: 16px;
+  cursor: pointer;
+}
+
+.policy-approval-table button {
+  border: 2px solid #008080 !important;
+  background-color: white;
+  color: #008080;
+  font-size: 16px;
+  cursor: pointer;
+}
+
+
+
+.policy-table button:hover {
+  transition: all .4s ease;
+  background-color: #008080 !important;
+  color: white;
+
+}
+
+.policy-list button:hover {
+  transition: all .4s ease;
+  background-color: #008080 !important;
+  color: white;
+
+}
+
+.policy-approval-table button:hover {
+  transition: all .4s ease;
+  background-color: #008080 !important;
+  color: white;
+
+}
+
+
+
+.policy-approval-table table th {
+  background-color: #008080;
+ 
+  color: white;
+}
+
+.policy-approval-table table td button {
+  margin-right: 5px;
+  padding: 5px 10px;
+  border: none;
+  cursor: pointer;
+}
+
+
 .policy-table table th {
-  background-color: #f4f4f4;
+  background-color: #008080;
+ 
+  color: white;
+}
+
+.user-data-table table th {
+  background-color: #008080;
+  padding: 15px;
+  border: none;
+  color: white;
+}
+
+.user-data-table table td {
+
+  padding: 15px;
+  border: none;
+
+}
+
+.user-data-table table {
+  width: 100%;
+  border-collapse: collapse;
+}
+
+
+
+.policy-list table th {
+  background-color: #008080;
+ 
+  color: white;
+}
+
+
+.policy-list button {
+  border: 2px solid #008080 !important;
+  background-color: white;
+  color: #008080;
+  font-size: 16px;
+  cursor: pointer;
+}
+
+
+.view{
+  background-color: #3dae38 !important;
+  color: white !important;
+  border: 2px solid #3dae38 !important;
+  padding: 10px;
+  margin: 5px;
+}
+
+.cale {
+  padding: 10px;
+  margin: 10px;
 }
 
 .policy-table table td button {
@@ -130,6 +317,15 @@ body {
   border: none;
   cursor: pointer;
 }
+
+.policy-list table td button {
+  margin-right: 5px;
+  padding: 5px 10px;
+  border: none;
+  cursor: pointer;
+}
+
+
 
 .policy-table table td button:hover {
   background-color: #ccc;
@@ -142,5 +338,5 @@ body {
 .active {
   /* Your desired styles for active link */
   font-weight: bold;
-  color: blue; /* Or any other desired style */
+  color: #47b63e; /* Or any other desired style */
 }

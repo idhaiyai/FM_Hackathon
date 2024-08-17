@@ -53,11 +53,12 @@ const RejectedPoliciesTable = ({ setActiveTable }) => {
       <div className="archive-policies">
         <div className="filter-options">
           <label htmlFor="filter-date">Filter by Date</label>
-          <input type="date" id="filter-date" name="filter-date" />
-          <button onClick={handleFilterByDate}>View</button>
-          <button onClick={handleResetFilter}>Reset Filter</button>
+          <input type="date" id="filter-date" name="filter-date"  className='cale'/>
+          <button onClick={handleFilterByDate} className='view'>View</button>
+          <button onClick={handleResetFilter} className='view'>Reset Filter</button>
         </div>
       </div>
+      <br></br>
       <table>
         <thead>
           <tr>

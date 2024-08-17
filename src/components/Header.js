@@ -1,4 +1,7 @@
 import React from 'react';
+import '../Style/Header.css';
+import TextField from '@mui/material/TextField';
+
 
 const Header = ({ activeTable, user, handleLogout }) => {
   const getPageTitle = () => {
@@ -34,10 +37,10 @@ const Header = ({ activeTable, user, handleLogout }) => {
       </nav>
       <div className="right-side">
         <div className="search-bar">
-          <input type="text" placeholder="Search..." />
+        <TextField id="outlined-search"  type="search" />
         </div>
         <div className="user-profile">
-          <button onClick={handleLogout}>Sign Out</button>
+          <button onClick={handleLogout} className='signout'>Sign Out</button>
           {user && <img src={user.profilePicture} alt="User" />} {/* Display user's profile picture */}
         </div>
       </div>

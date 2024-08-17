@@ -61,11 +61,14 @@ const ArchiveTable = () => {
             name="filter-date-archive"
             value={selectedDate}
             onChange={(e) => setSelectedDate(e.target.value)}
-          />
-          <button onClick={handleFilterByDate}>View</button>
-          <button onClick={handleResetFilter}>Reset Filter</button>
+            className='cale'
+
+          />  
+          <button onClick={handleFilterByDate} className='view' >View</button>
+          <button onClick={handleResetFilter} className='view'>Reset Filter</button>
         </div>
       </div>
+      <br></br>
       <table>
         <thead>
           <tr>
